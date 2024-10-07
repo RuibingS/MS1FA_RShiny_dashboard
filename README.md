@@ -9,7 +9,8 @@
 
 ## Table of Contents
 - [Installation Instructions](#installation-instructions)
-  - [System Requirements](#system-requirements)
+  - [ Use `renv` to create reproducible environments](#Use_`renv`_to_create_reproducible_environments)
+  - [Manually install required packages](#Manually_install_required_packages)
   - [Installation MS1FA](#installation-ms1fa)
 - [Files Upload](#files-upload)
   - [Required Files](#required-files)
@@ -98,14 +99,7 @@ install_bioconductor_packages <- function(packages) {
 }
 install_bioconductor_packages(packages=bioconductor_packages)
 ```
-### Installation MS1FA
-User can install MS1FA with git command
-#### 1.Clone MS1FA Github repository
-Ensure that Git is installed on your system.
-```sh
-git clone https://github.com/RuibingS/MS1FA_RShiny_dashboard.git
-```
-#### 2. Run the Shiny App
+### Run MS1FA
 Users should set their working directory to the cloned repository and use shiny::runApp() to run the app:
 ```r
 setwd("path/to/cloned/MS1FA_RShiny_dashboard")
@@ -116,10 +110,11 @@ or users can install MS1FA from GitHub. First, you need to install the devtools 
 install.packages("devtools")
 library(devtools)
 ```
-Then you can install MS1FA from GitHub:
+Then you can install MS1FA from GitHub then run it:
 ```r
 install_github("RuibingS/MS1FA_RShiny_dashboard")
-
+setwd("path/to/cloned/MS1FA_RShiny_dashboard")
+shiny::runApp()
 ```
 
 
