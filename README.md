@@ -21,8 +21,30 @@
 
 
 ## Installation Instructions
-R version 4.2.0 or above is required. To install MS1FA R Shiny APP successfully, please install the following packages first.
-### System Requirements
+R version 4.2.0 or above is required. To install MS1FA R Shiny APP successfully, please install the following packages.
+### Use `renv` to  create reproducible environments
+Clone MS1FA repository
+```sh
+git clone https://github.com/RuibingS/MS1FA_RShiny_dashboard.git
+```
+Navigate to the loacl directory
+```sh
+cd path/to/cloned/MS1FA_RShiny_dashboard
+```
+Install `renv`
+```r
+install.packages("renv")
+```
+open R or RStudio
+
+```r
+setwd("path/to/cloned/MS1FA_RShiny_dashboard")
+```
+Use renv to restore the package environment
+```r
+renv::restore()
+```
+### Manually install required packages
 Installing and loading the CRAN Packages
 ```
 cran_packages <- c(
