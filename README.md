@@ -3,7 +3,7 @@
 [![Generic badge](https://img.shields.io/badge/version-1.0-<COLOR>.svg)](https://shields.io/)
 ![Maintainer](https://img.shields.io/badge/maintainer-<RuibingShi>-<COLOR>.svg)
 
-`MS1FA` is a R Shiny APP designed to facilitate annotation of untargeted metabolomics data. It simplifies the process of analyzing mass spectrometry data by providing interactive tools for data visualization and annotation. It requires users upload the feature table (pre-processed LC-MS data by widely used `XCMS` or `MZmine3` ), a pooled MS2 file (.mzXL) or a a MS/MS spectral summary file from `MZmine3`(.mgf) and a targeted list of metabolites (.csv or .library). The output is an interactive feature table with metabolite annotation, neutral loss annotation, adducts annotation, ISF annotation, group and correlation group.
+`MS1FA` is a R Shiny APP designed to facilitate annotation of untargeted metabolomics data. It simplifies the process of analyzing mass spectrometry data by providing interactive tools for data visualization and annotation. It requires users upload the feature table (pre-processed LC-MS data by widely used `XCMS` or `MZmine` ), a pooled MS2 file (.mzXL) or a a MS/MS spectral summary file from `MZmine`(.mgf) and a targeted list of metabolites (.csv or .library). The output is an interactive feature table with metabolite annotation, neutral loss annotation, adducts annotation, ISF annotation, group and correlation group.
 
 `MS1FA` is written in R and Rcpp, and its source code is publicly available at [GitHub](https://github.com/RuibingS/MS1FA_RShiny_dashboard).
 
@@ -121,13 +121,13 @@ shiny::runApp()
 ## Files Upload
 
 ### Required Files
-- **Feature table file**: The app accepts the feature table export from XCMS and MZmine 3 in comma-separated values format(.csv).
+- **Feature table file**: The app accepts the feature table export from XCMS and MZmine in comma-separated values format(.csv).
   - *Expected Columns*:
     - feature_name: the ID of the features in the format FT with four digits (e.g."FT0001") if missing, the app generates the "feature_name" column.
     - mz: Mass-to-charge ratio of the features.
     - rt: Retention time of the features in seconds.
     - samples: Intensity values in each sample.
-- **MS2 file**: A pool sample MS2 file (.mzXML) or a MS/MS spectral summary file from `MZmine3` (.mgf).
+- **MS2 file**: A pool sample MS2 file (.mzXML) or a MS/MS spectral summary file from `MZmine` (.mgf).
 - **Library file**: A in-house library (.library) or a targeted metabolites list (.csv).
    - *Expected Columns*:
      - Name: The metabolite name.
