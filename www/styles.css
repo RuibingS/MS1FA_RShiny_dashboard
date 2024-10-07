@@ -1,0 +1,41 @@
+/* styles.css */
+.caption-top.table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.caption-top.table th, .caption-top.table td {
+  padding: 8px;
+  text-align: left;
+  border: none; /* Ensure no border for all cells */
+}
+
+.caption-top.table .header {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.caption-top.table tr {
+  border: none; /* Remove the border between rows */
+}
+
+.caption-top.table td img {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle; /* Align icon with text */
+}
+
+.caption-top.table td div {
+  display: inline; /* Ensure inline display of div */
+}
+
+.caption-top.table td span {
+  display: inline-block;
+  vertical-align: middle; /* Align radio button with text */
+}
+
+.fixed-width {
+  width: 300px; /* Adjust this width to control line length */
+  word-wrap: break-word;
+  display: inline-block;
+}

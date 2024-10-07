@@ -1,0 +1,148 @@
+Num,Accurate Mass,Neutral Loss,Formula,Pos,Neg,Ion source,substructue or compound class
+1,1.008,H,H,-,-,ESI/APCI,Aromatic amines
+2,2.016,H2,H2,+,-,ESI/APCI,Amines
+3,15.023,CH3,CH3,+,-,ESI/APCI,"Aromatic N-methylamines, methoxy derivative, tert. Butyl"
+4,15.995,O,O,-,-,ESI/APCI,Nitrotoluenes
+5,16.019,NH2,NH2,+,-,ESI/APCI,Aromatic amines
+6,16.031,CH4,CH4,-,-,ESI/APCI,Methoxy derivatives
+7,17.003,OH,OH,+,+,ESI,"Nitroaromatic compounds[1], N-oxides[2]"
+8,17.027,NH3,NH3,+,-,ESI/APCI,"Aliph. amines (arom. amines), oximes"
+9,18.011,H2O,H2O,+,-,ESI/APCI,"Carboxylic acids, aldehydes, ester"
+10,20.006,HF,HF,-,-,ESI/APCI,Fluorides
+11,26.003,CN,CN,-,-,ESI/APCI,Nitrile
+12,27.011,HCN,HCN,+,+,ESI/APCI,"Amines, aromatic nitrile, aminosulfonic acids"
+13,27.995,CO,CO,+,+,ESI/APCI,"aldehydes,ketones, nitroaromatic compounds"
+14,28.019,H2CN,H2CN,-,+,ESI/APCI,Aromatic amine
+15,28.031,C2H4,C2H4,-,-,ESI/APCI,Triazines
+16,29.003,HCO,HCO,-,-,ESI/APCI,"Nitroaromatics, anthraquinones"
+17,29.039,C2H5,C2H5,-,-,ESI/APCI,Ethyl derivatives
+18,29.998,NO,NO,+,+,ESI/APCI,Nitroaromatics
+19,30.011,formaldehyde,CH2O,+,+,ESI/APCI,Aldehydes*
+20,31.006,HNO,HNO,-,+,ESI/APCI,Nitroaromatics
+21,31.018,CH2OH,CH3O,+,-,ESI/APCI,Ethanolaminoanthraquinones
+22,31.042,CH3NH2,CH5N,+,-,ESI,Aromatic N-methyl groups
+23,31.972,S,S,-,-,ESI/APCI,Sulfur compounds
+24,32.026,CH3OH,CH4O,+,-,ESI/APCI,Methyl esters
+25,33.034,CH3+H2O,CH5O,-,+,APCI,Aromatic methoxy group
+26,33.988,H2S,H2S,+,-,ESI/APCI,Thiols*
+27,34.969,Cl,Cl,-,-,ESI/APCI,Chlorides
+28,35.977,HCl,HCl,+,-,ESI/APCI,Chlorides
+29,36.021,H2O+H2O,H4O2,-,-,ESI/APCI,Dihydroxy compounds
+30,42.011,CH2CO,C2H2O,+,-,ESI/APCI,N-acetyl derivatives
+31,42.022,CH2N2,CH2N2,-,+,ESI,Arginine
+32,42.047,C3H6,C3H6,+,-,ESI/APCI,Triazines
+33,43.006,HNCO,CHNO,+,-,ESI,Citrulline containing peptides
+34,43.055,C3H7,C3H7,+,-,ESI/APCI,Isopropyl derivatives
+35,43.990,CO2,CO2,+,+,ESI/APCI,"Carboxylic acids, carbamates"
+36,44.037,NH3+HCN,CH4N2,-,-,ESI/APCI,Aromatic diamines
+37,44.050,N(CH3)2,C2H6N,-,-,ESI/APCI,Aromatic dimethylamines
+38,44.998,COOH,CHO2,+,-,ESI,Carboxylic acids
+39,45.021,NH3+CO or HCN+H2O,CH3NO,+,-,ESI/APCI,Aminoanthraquinones
+40,45.058,C2H7N,C2H7N,+,-,ESI,Amitriptyline
+41,45.993,NO2,NO2,+,+,ESI/APCI,Nitroaromatics
+42,46.005,HCOOH(H2+CO2 or H2O+CO),CH2O2,+,+,ESI/APCI/NCI,Carboxylic acids
+43,47.001,NO+OH,HO2N,-,+,ESI/APCI,Nitroaromatics
+44,48.003,CH4S,CH4S,+,-,ESI,Methyl sufide*
+45,48.009,H2O+NO,H2NO2,+,-,ESI/APCI,Nitroaldehydes
+46,48.988,H3PO4 from 2+ charge state,H3O4P/2,+,-,ESI,Phosphates of 2+ charge state (especially phosphoserine and phosphothreonine)
+47,49.992,CH3Cl,CH3Cl,+,-,ESI,Chloride adduct of Phosphatidylcholines (PC)
+48,55.006,HCN+CO,C2HNO,+,-,ESI/APCI,Aminoanthrachinones
+49,55.990,CO+CO,CO+CO,+,-,ESI/APCI,"Methoxycarboxylic acids, anthraquinones, hydroxycarboxylic acids"
+50,56.998,CO+CO+H,C2HO2,+,-,ESI/APCI,Anthraquinones
+51,57.021,Methyl isocyanate,C2H3NO,+,-,ESI,N-methyl carbamate
+52,57.993,NO+CO,CNO2,+,-,ESI/APCI,"Nitroaromatics, hydroxyaldehydes"
+53,58.005,C2H2O2,C2H2O2,+,-,ESI/APCI,Naphthoxylcarboxylic acid
+54,59.073,trimethylamine,C3H9N,+,-,ESI,Phosphatidylcholines (PC)
+55,59.996,NO+NO,N2O2,-,-,ESI/APCI,Nitroaromatics
+56,60.021,CH3COOH,C2H4O2,+,-,ESI/APCI,"α,β-unsaturated acids*"
+57,60.021,HCOO+CH3,C2H4O2,-,+,ESI,Phosphatidylcholines (PC)
+58,61.016,CO2+NH3,CH3NO2,+,-,ESI/APCI,Aminocarboxylic acids
+59,62.000,H2O+CO2,CH2O3,-,+,ESI,Carboxylic acids
+60,62.996,HNO3,HNO3,-,+,ESI,Nitrate group
+61,63.962,SO2,SO2,-,+,ESI/APCI,"Sulfonic acids, sulfonates"
+62,63.972,HCl+CO,CHOCl,-,-,ESI/APCI,Chloroanthraquinones
+63,63.998,methylsulfenic acid,CH4OS,+,-,ESI,Methionine sulfoxide
+64,68.995,CF3,CF3,+,-,ESI,Aromatic trifluoromethyl
+65,71.037,dehydroalanine,C3H5NO,+,-,ESI,Serine residue
+66,71.985,CO2+CO,C2O3,+,-,ESI/APCI,Hydroxycarboxylic acids
+67,73.004,NO2+HCN,CHNO2,-,-,ESI/APCI,Nitroanilines
+68,73.988,NO2+CO,CNO3,+,+,ESI/APCI,"Nitroaldehydes, nitroaromatics"
+69,74.000,H2O+CO+CO,C2H2O3,-,-,ESI/APCI,Hydroxyanthraquinones
+70,74.019,C3H6S,C3H6S,+,-,ESI,Methionine side chain
+71,75.032,Glycine,C2H5NO2,-,-,ESI/APCI,"Glycine conjugate, CysGly conjugate, glutathione conjugate"
+72,75.991,NO+NO2,N2O3,-,-,ESI/APCI,Nitroaromatics
+73,76.031,benzyne,C6H4,-,+,ESI,Phenyl(in deferasirox)
+74,77.039,phenyl radical,C6H5,+,-,ESI,Phenyl
+75,77.998,CH2N2+HCl,CH3N2Cl,+,-,ESI/APCI,Triazines
+76,78.047,benzene,C6H6,+,-,ESI,Phenyl
+77,78.918,Br,Br,-,-,ESI/APCI,Bromides
+78,79.926,HBr,HBr,-,-,ESI/APCI,Bromides
+79,79.957,SO3,SO3,+,+,ESI/APCI,Sulfonic acids
+80,79.966,HPO3,HPO3,+,-,ESI,Phophates (especially phosphotyrosine and phosphohistidine)
+81,80.965,HSO3,HSO3,+,-,ESI/APCI,Sulfonic acids
+82,81.045,Histidine side chain,C4H5N2,-,+,ESI,Histidine residue
+83,81.972,H2SO3,H2SO3,+,-,ESI,Sulfonate group
+84,83.985,CO+CO+CO,C3O3,-,-,ESI/APCI,Anthraquinones
+85,84.094,C3H6+C3H6,C6H12,-,-,ESI/APCI,Triazines
+86,85.028,HCNO+CH2N2,C2H3N3O,-,+,ESI/APCI,Hydroxytriazines
+87,85.988,NO+CO+CO,C2NO3,-,-,ESI/APCI,Nitroaromatics
+88,87.032,C3H5NO2,C3H5NO2,-,+,ESI,Phosphatidylserines (PS)
+89,87.991,NO+NO+CO,CN2O3,+,-,ESI/APCI,Nitroaromatics
+90,90.032,C3H6O3,C3H6O3,+,-,ESI,Metal-monosaccharide complexes
+91,91.967,CO+CO+HCl,C2HO2Cl,-,-,ESI/APCI,Chloroanthraquinones
+92,91.986,NO2+NO2,N2O4,-,-,ESI/APCI,Nitroaromatics
+93,93.960,SO2+NO,NO3S,-,+,ESI/APCI,Nitrosulfonic acids
+94,97.977,H3PO4,H3PO4,+,-,ESI,Phophates (especially phosphoserine and phosphothreonine)
+95,99.980,CO2+CO+CO,C3O4,+,-,ESI/APCI,Anthraquinone carboxylic acids
+96,102.068,HC(=O)OC4H9,C5H10O2,+,-,ESI,Butylesters of most amino acids
+97,103.986,NO+NO2+CO,CN2O4,+,-,ESI/APCI,Nitroaromatics
+98,105.025,C3H7NOS,C3H7NOS,+,-,ESI,Alkylated methionine
+99,107.050,tyrosine side-chain,C7H7O,-,+,ESI,Peptides with tyrosyl residue
+100,108.058,tyrosine side-chain+hydrogen,C7H8O,+,-,ESI,Peptides with tyrosyl residue
+101,109.011,phenylthio radical,C6H5S,+,-,ESI,Phenylthio compounds
+102,111.980,4CO,4CO,+,-,ESI/APCI,Hydroxyanthraquinones
+103,119.981,NO2+NO2+CO,CN2O5,+,-,ESI/APCI,Nitroaromatics
+104,120.042,C4H8O4,C4H8O4,+,-,ESI,Metal-monosaccharide complexes
+105,121.020,Cystein,C3H7NO2S,+,+,ESI/APCI,Cysteine conjugates
+106,123.958,SO2+NO+NO,N2O4S,-,+,ESI/APCI,Nitrosulfonic acids
+107,127.912,HI,HI,+,-,ESI,Aromatic iodides
+108,129.043,Pyroglutamic acid,C5H7NO3,+,-,ESI/APCI,Aliphatic-GSH(glutathione conjugates)
+109,129.043,C5H7NO3,C5H7NO3,-,+,ESI/APCI,N-Acetylcysteines
+110,130.063,Anhydro-dideoxyhexose,C6H10O3,+,-,ESI,Dideoxyhexoside
+111,132.042,Anhydro-pentose,C5H8O4,+,-,ESI,Pentoside
+112,133.984,NO2+NO+NO+CO,CN3O5,-,+,ESI/APCI,"Nitroaromatics, trinitrocarboxylic acids"
+113,141.019,C2H8O4NP,C2H8O4NP,+,-,ESI,Phosphatidylethanolamines (PE) or Lyso-PE 
+114,146.058,Anhydro-deoxyhexose,C6H10O4,+,+,ESI,Deoxyhexoside
+115,146.069,Glutamine,C5H10N2O3,+,-,ESI/APCI,Conjugate with gamma-GluCys or glutathione
+116,154.003,C3H7O5P,C3H7O5P,+,-,ESI,Lysophosphatidic acids (Lyso-PA)
+117,156.115,HNE,C9H16O2,+,-,ESI,4-hydroxy-2-nonenal (HNE)-containing peptides
+118,161.069,Anhydro-aminodeoxyhexose,C6H11NO4,+,-,ESI,Aminodeoxyhexoside
+119,162.053,Anhydrohexose,C6H10O5,+,-,ESI,Hexoside
+120,163.030,acetylcysteine,C5H9NO3S,+,-,ESI/APCI,N-acetylcysteine conjugate
+121,164.068,Rhamnose,C6H12O5,-,+,ESI,Rhamonoside
+122,171.090,C8H13NO3,C8H13NO3,-,+,ESI,N-acetyl-L-lysine side chain
+123,172.014,C3H9O6P,C3H9O6P,+,-,ESI,Lysophosphatidylglycerols (Lyso-PG)
+124,176.026,CysGly(neg),C5H8N2O3S,-,+,ESI/APCI,Gly-cysteinyl
+125,176.032,Anhydroglucuronic-acid,C6H8O6,+,+,ESI/APCI,Glucuronides
+126,178.041,CysGly(pos),C5H10N2O3S,+,-,ESI/APCI,Gly-cysteinyl
+127,179.079,C6H13NO5,C6H13NO5,+,-,ESI,Monogalactosyldiacylglycerols (MGDG)
+128,185.009,C3H8NO6P,C3H8NO6P,+,-,ESI,Phosphatidylserines (PS)
+129,189.040,C3H12NO6P,C3H12NO6P,+,-,ESI,Phosphatidylglycerols (PG)
+130,194.043,Glucuronic-acid,C6H10O7,+,-,ESI/APCI,Glucuronides (benzylic)
+131,197.045,C5H12NO5P,C5H12NO5P,-,+,ESI,Lysophosphatidylethanolamines (Lyso-PE)
+132,203.079,Anhydro-N-acetylglucosamine,C8H13NO5,+,+,ESI/APCI,Conjugate with N-acetylglucosamine (benzylic)
+133,221.090,N-acetylglucosamine,C8H15NO6,+,-,ESI/APCI,Conjugate with N-acetylglucosamine
+134,225.077,C7H16NO5P,C7H16NO5P,-,+,ESI,Lysophosphatidylcholines (Lyso-PC)
+135,228.040,C6H13O7P,C6H13O7P,-,+,ESI,Lysophosphatidylglycerols (Lyso-PG)
+136,248.053,AnhydromalonylGlc,C9H12O8,+,-,ESI/APCI,Malonylglucuronides
+137,250.062,gamma-GluCys,C8H14N2O5S,+,+,ESI/APCI,Conjugate with gamma-GluCys
+138,260.030,C6H13O9P,C6H13O9P,+,-,ESI,Lysophosphatidylinositols (Lyso-PI)
+139,261.028,C6H13O9S,C6H13O9S,+,-,ESI,Sulfoquinovosyldiacylglycerols (SQDG)
+140,266.064,MalonylGlc,C9H14O9,+,-,ESI/APCI,Malonylglucuronides (benzylic)
+141,273.096,γ-GluAlaGly-2H,C10H15N3O6,+,+,ESI,GSH(glutathione conjugates)
+142,275.112,γ-GluAlaGly(pos),C10H17N3O6,+,-,ESI/APCI,Aryl-GSH(glutathione conjugates)
+143,277.056,C6H16NO9P,C6H16NO9P,+,-,ESI,Phosphatidylinositols (PI)
+144,306.076,Glutathione(neg),C10H16N3O6S,-,+,ESI,GSH(glutathione conjugates)
+145,307.084,Glutathione,C10H17N3O6S,+,-,ESI/APCI,Glutathione conjugates
+146,316.056,C9H17O10P,C9H17O10P,-,+,ESI,Lysophosphatidylinositols (Lyso-PI)
+147,341.132,C12H23NO10,C12H23NO10,+,-,ESI,Digalactosyldiacylglycerols (DGDG)

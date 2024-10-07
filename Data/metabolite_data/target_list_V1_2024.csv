@@ -1,0 +1,1914 @@
+Name,Formula,RT,MainPositiveAdduct,MainNegativeAdduct
+2-Ketobutyric acid,C4H6O3,0,[M+H]+,[M-H]-
+Deoxyuridine,C9H12N2O5,0,[M+H]+,[M-H]-
+Deoxycytidine,C9H13N3O4,0,[M+H]+,[M-H]-
+a-Ketoisovaleric acid,C5H8O3,0,[M+H]+,[M-H]-
+3-Hydroxyisobutyric acid,C4H8O3,0,[M+H]+,[M-H]-
+Biotin,C10H16N2O3S,0,[M+H]+,[M-H]-
+Adenine,C5H5N5,0,[M+H]+,[M-H]-
+Acetic acid,C2H4O2,0,[M+H]+,[M-H]-
+Adenosine monophosphate,C10H14N5O7P,0,[M+H]+,[M-H]-
+Melibiose,C12H22O11,0,[M+H]+,[M-H]-
+Adenosine,C10H13N5O4,0,[M+H]+,[M-H]-
+Ammonia,NH3,0,[M+H]+,[M-H]-
+Cellobiose,C12H22O11,0,[M+H]+,[M-H]-
+beta-Alanine,C3H7NO2,0,[M+H]+,[M-H]-
+Cyclic AMP,C10H12N5O6P,0,[M+H]+,[M-H]-
+"Adenosine 3',5'-diphosphate",C10H15N5O10P2,0,[M+H]+,[M-H]-
+Carnitine,C7H16NO3,0,[M+H]+,[M-H]-
+Deoxyinosine,C10H12N4O4,0,[M+H]+,[M-H]-
+cis-Aconitic acid,C6H6O6,0,[M+H]+,[M-H]-
+Cysteinylglycine,C5H10N2O3S,0,[M+H]+,[M-H]-
+Cytidine triphosphate,C9H16N3O14P3,0,[M+H]+,[M-H]-
+Deoxyguanosine,C10H13N5O4,0,[M+H]+,[M-H]-
+Glycerophosphocholine,C8H21NO6P,0,[M+H]+,[M-H]-
+Cytidine,C9H13N3O5,0,[M+H]+,[M-H]-
+Uric acid,C5H4N4O3,0,[M+H]+,[M-H]-
+Uridine diphosphate-N-acetylglucosamine,C17H27N3O17P2,0,[M+H]+,[M-H]-
+Xanthine,C5H4N4O2,0,[M+H]+,[M-H]-
+Xanthosine 5-triphosphate,C10H15N4O15P3,0,[M+H]+,[M-H]-
+ADP,C10H15N5O10P2,0,[M+H]+,[M-H]-
+Thymidine 5'-triphosphate,C10H17N2O14P3,0,[M+H]+,[M-H]-
+GDP-4-Dehydro-6-deoxy-D-mannose,C16H23N5O15P2,0,[M+H]+,[M-H]-
+PG(16:0/16:1(9Z)),C38H73O10P,0,[M+H]+,[M-H]-
+PG(16:0/18:1(11Z)),C40H77O10P,0,[M+H]+,[M-H]-
+PG(16:1(9Z)/16:0),C38H73O10P,0,[M+H]+,[M-H]-
+PG(16:1(9Z)/16:1(9Z)),C38H71O10P,0,[M+H]+,[M-H]-
+Vaccenic acid,C18H34O2,0,[M+H]+,[M-H]-
+Phosphonoacetate,C2H5O5P,0,[M+H]+,[M-H]-
+PG(16:0/18:0),C40H79O10P,0,[M+H]+,[M-H]-
+7-Aminomethyl-7-carbaguanine,C7H9N5O,0,[M+H]+,[M-H]-
+Citric acid,C6H8O7,0,[M+H]+,[M-H]-
+Cytidine monophosphate,C9H14N3O8P,0,[M+H]+,[M-H]-
+Choline,C5H14NO,0,[M+H]+,[M-H]-
+L-Cystathionine,C7H14N2O4S,0,[M+H]+,[M-H]-
+Deoxyadenosine,C10H13N5O3,0,[M+H]+,[M-H]-
+Galactitol,C6H14O6,0,[M+H]+,[M-H]-
+Ethanol,C2H6O,0,[M+H]+,[M-H]-
+Glycerylphosphorylethanolamine,C5H14NO6P,0,[M+H]+,[M-H]-
+Glyoxylic acid,C2H2O3,0,[M+H]+,[M-H]-
+Folic acid,C19H19N7O6,0,[M+H]+,[M-H]-
+D-Glucose,C6H12O6,0,[M+H]+,[M-H]-
+Glycine,C2H5NO2,0,[M+H]+,[M-H]-
+Fructose 6-phosphate,C6H13O9P,0,[M+H]+,[M-H]-
+Glutathione,C10H17N3O6S,0,[M+H]+,[M-H]-
+Glycerol 3-phosphate,C3H9O6P,0,[M+H]+,[M-H]-
+Glycerol,C3H8O3,0,[M+H]+,[M-H]-
+Guanine,C5H5N5O,0,[M+H]+,[M-H]-
+Guanosine,C10H13N5O5,0,[M+H]+,[M-H]-
+Formic acid,CH2O2,0,[M+H]+,[M-H]-
+D-Galactose,C6H12O6,0,[M+H]+,[M-H]-
+L-Glutamate,C5H9NO4,0,[M+H]+,[M-H]-
+Ethanolamine,C2H7NO,0,[M+H]+,[M-H]-
+Gluconolactone,C6H10O6,0,[M+H]+,[M-H]-
+L-Malic acid,C4H6O5,0,[M+H]+,[M-H]-
+Hypoxanthine,C5H4N4O,0,[M+H]+,[M-H]-
+L-Tyrosine,C9H11NO3,0,[M+H]+,[M-H]-
+L-Phenylalanine,C9H11NO2,0,[M+H]+,[M-H]-
+Inositol,C6H12O6,0,[M+H]+,[M-H]-
+L-Alanine,C3H7NO2,0,[M+H]+,[M-H]-
+L-Proline,C5H9NO2,0,[M+H]+,[M-H]-
+D-Maltose,C12H22O11,0,[M+H]+,[M-H]-
+L-Homocysteine,C4H9NO2S,0,[M+H]+,[M-H]-
+L-Threonine,C4H9NO3,0,[M+H]+,[M-H]-
+L-Asparagine,C4H8N2O3,0,[M+H]+,[M-H]-
+L-Isoleucine,C6H13NO2,0,[M+H]+,[M-H]-
+Fumaric acid,C4H4O4,0,[M+H]+,[M-H]-
+L-Histidine,C6H9N3O2,0,[M+H]+,[M-H]-
+L-Lysine,C6H14N2O2,0,[M+H]+,[M-H]-
+alpha-Lactose,C12H22O11,0,[M+H]+,[M-H]-
+L-Serine,C3H7NO3,0,[M+H]+,[M-H]-
+Inosine triphosphate,C10H15N4O14P3,0,[M+H]+,[M-H]-
+L-Lactic acid,C3H6O3,0,[M+H]+,[M-H]-
+L-Aspartic acid,C4H7NO4,0,[M+H]+,[M-H]-
+Inosine,C10H12N4O5,0,[M+H]+,[M-H]-
+Phenylpyruvic acid,C9H8O3,0,[M+H]+,[M-H]-
+Pantothenic acid,C9H17NO5,0,[M+H]+,[M-H]-
+Myo-inositol 1-phosphate,C6H13O9P,0,[M+H]+,[M-H]-
+Ornithine,C5H12N2O2,0,[M+H]+,[M-H]-
+N-Acetyl-D-glucosamine,C8H15NO6,0,[M+H]+,[M-H]-
+NADP,C21H29N7O17P3,0,[M+H]+,[M-H]-
+Orotidylic acid,C10H13N2O11P,0,[M+H]+,[M-H]-
+Palmitic acid,C16H32O2,0,[M+H]+,[M-H]-
+Oxalacetic acid,C4H4O5,0,[M+H]+,[M-H]-
+Oxoadipic acid,C6H8O5,0,[M+H]+,[M-H]-
+Orotic acid,C5H4N2O4,0,[M+H]+,[M-H]-
+Nicotinamide ribotide,C11H15NO9P,0,[M+H]+,[M-H]-
+Quinolinic acid,C7H5NO4,0,[M+H]+,[M-H]-
+Propionic acid,C3H6O2,0,[M+H]+,[M-H]-
+Pyridoxine,C8H11NO3,0,[M+H]+,[M-H]-
+Sulfite,O3S,0,[M+H]+,[M-H]-
+Pyruvic acid,C3H4O3,0,[M+H]+,[M-H]-
+Riboflavin,C17H20N4O6,0,[M+H]+,[M-H]-
+Porphobilinogen,C10H14N2O4,0,[M+H]+,[M-H]-
+Taurine,C2H7NO3S,0,[M+H]+,[M-H]-
+Succinic acid,C4H6O4,0,[M+H]+,[M-H]-
+Thiosulfate,O3S2,0,[M+H]+,[M-H]-
+Sucrose,C12H22O11,0,[M+H]+,[M-H]-
+Thymine,C5H6N2O2,0,[M+H]+,[M-H]-
+Phosphoenolpyruvic acid,C3H5O6P,0,[M+H]+,[M-H]-
+Phosphoserine,C3H8NO6P,0,[M+H]+,[M-H]-
+Thymidine,C10H14N2O5,0,[M+H]+,[M-H]-
+Phosphoribosyl pyrophosphate,C5H13O14P3,0,[M+H]+,[M-H]-
+Ribose,C5H10O5,0,[M+H]+,[M-H]-
+Uridine triphosphate,C9H15N2O15P3,0,[M+H]+,[M-H]-
+Uridine 5'-monophosphate,C9H13N2O9P,0,[M+H]+,[M-H]-
+Uridine 5'-diphosphate,C9H14N2O12P2,0,[M+H]+,[M-H]-
+Uridine,C9H12N2O6,0,[M+H]+,[M-H]-
+Xanthosine,C10H12N4O6,0,[M+H]+,[M-H]-
+Uracil,C4H4N2O2,0,[M+H]+,[M-H]-
+Uridine diphosphategalactose,C15H24N2O17P2,0,[M+H]+,[M-H]-
+"3,4-Dihydroxyphenylglycol",C8H10O4,0,[M+H]+,[M-H]-
+2-Isopropylmalic acid,C7H12O5,0,[M+H]+,[M-H]-
+Caprylic acid,C8H16O2,0,[M+H]+,[M-H]-
+3-Methyl-2-oxovaleric acid,C6H10O3,0,[M+H]+,[M-H]-
+Water,H2O,0,[M+H]+,[M-H]-
+4-Hydroxybenzoic acid,C7H6O3,0,[M+H]+,[M-H]-
+b-D-Glucose,C6H12O6,0,[M+H]+,[M-H]-
+L-Arginine,C6H14N4O2,0,[M+H]+,[M-H]-
+"4,5-Dihydroorotic acid",C5H6N2O4,0,[M+H]+,[M-H]-
+Adenosine triphosphate,C10H16N5O13P3,0,[M+H]+,[M-H]-
+Magnesium,Mg,0,[M+H]+,[M-H]-
+L-Cysteine,C3H7NO2S,0,[M+H]+,[M-H]-
+Hydrogen carbonate,CHO3,0,[M+H]+,[M-H]-
+Sulfide,S,0,[M+H]+,[M-H]-
+D-2-Hydroxyglutaric acid,C5H8O5,0,[M+H]+,[M-H]-
+PS(16:0/16:0),C38H74NO10P,0,[M+H]+,[M-H]-
+Gluconic acid,C6H12O7,0,[M+H]+,[M-H]-
+Cytosine,C4H5N3O,0,[M+H]+,[M-H]-
+L-Glutamine,C5H10N2O3,0,[M+H]+,[M-H]-
+L-Arabinose,C5H10O5,0,[M+H]+,[M-H]-
+Copper,Cu,0,[M+H]+,[M-H]-
+D-Fructose,C6H12O6,0,[M+H]+,[M-H]-
+PA(16:0/16:0),C35H69O8P,0,[M+H]+,[M-H]-
+L-Leucine,C6H13NO2,0,[M+H]+,[M-H]-
+Iron,Fe,0,[M+H]+,[M-H]-
+Ketoleucine,C6H10O3,0,[M+H]+,[M-H]-
+L-Methionine,C5H11NO2S,0,[M+H]+,[M-H]-
+4-Hydroxyphenylpyruvic acid,C9H8O4,0,[M+H]+,[M-H]-
+Isovaleric acid,C5H10O2,0,[M+H]+,[M-H]-
+Methylcitric acid,C7H10O7,0,[M+H]+,[M-H]-
+Hydroxyproline,C5H9NO3,0,[M+H]+,[M-H]-
+Cysteine-S-sulfate,C3H7NO5S2,0,[M+H]+,[M-H]-
+Indole,C8H7N,0,[M+H]+,[M-H]-
+Homocarnosine,C10H16N4O3,0,[M+H]+,[M-H]-
+SAICAR,C13H19N4O12P,0,[M+H]+,[M-H]-
+Pyrrolidonecarboxylic acid,C5H7NO3,0,[M+H]+,[M-H]-
+Ureidosuccinic acid,C5H8N2O5,0,[M+H]+,[M-H]-
+N-Acetyl-b-D-galactosamine,C8H15NO6,0,[M+H]+,[M-H]-
+Nicotinamide riboside,C11H15N2O5,0,[M+H]+,[M-H]-
+L-Valine,C5H11NO2,0,[M+H]+,[M-H]-
+NAD,C21H28N7O14P2,0,[M+H]+,[M-H]-
+Citrulline,C6H13N3O3,0,[M+H]+,[M-H]-
+Deoxyadenosine monophosphate,C10H14N5O6P,0,[M+H]+,[M-H]-
+L-Tryptophan,C11H12N2O2,0,[M+H]+,[M-H]-
+S-Adenosylhomocysteine,C14H20N6O5S,0,[M+H]+,[M-H]-
+dGDP,C10H15N5O10P2,0,[M+H]+,[M-H]-
+Farnesyl pyrophosphate,C15H28O7P2,0,[M+H]+,[M-H]-
+N10-Formyl-THF,C20H23N7O7,0,[M+H]+,[M-H]-
+Trehalose,C12H22O11,0,[M+H]+,[M-H]-
+Dihydrolipoamide,C8H17NOS2,0,[M+H]+,[M-H]-
+S-Adenosylmethioninamine,C14H23N6O3S,0,[M+H]+,[M-H]-
+Acetaldehyde,C2H4O,0,[M+H]+,[M-H]-
+dCTP,C9H16N3O13P3,0,[M+H]+,[M-H]-
+Phosphoribosylformylglycineamidine,C8H16N3O8P,0,[M+H]+,[M-H]-
+dUDP,C9H14N2O11P2,0,[M+H]+,[M-H]-
+Adenosine phosphosulfate,C10H14N5O10PS,0,[M+H]+,[M-H]-
+(S)-Ureidoglycolic acid,C3H6N2O4,0,[M+H]+,[M-H]-
+Argininosuccinic acid,C10H18N4O6,0,[M+H]+,[M-H]-
+D-4'-Phosphopantothenate,C9H18NO8P,0,[M+H]+,[M-H]-
+Phosphohydroxypyruvic acid,C3H5O7P,0,[M+H]+,[M-H]-
+Deoxyribose 5-phosphate,C5H11O7P,0,[M+H]+,[M-H]-
+2'-Deoxyguanosine 5'-monophosphate,C10H14N5O7P,0,[M+H]+,[M-H]-
+gamma-Glutamylcysteine,C8H14N2O5S,0,[M+H]+,[M-H]-
+D-Glyceraldehyde,C3H6O3,0,[M+H]+,[M-H]-
+Dihydrofolic acid,C19H21N7O6,0,[M+H]+,[M-H]-
+"Fructose 1,6-bisphosphate",C6H14O12P2,0,[M+H]+,[M-H]-
+N-Acetyl-D-Glucosamine 6-Phosphate,C8H16NO9P,0,[M+H]+,[M-H]-
+S-Lactoylglutathione,C13H21N3O8S,0,[M+H]+,[M-H]-
+D-Sedoheptulose 7-phosphate,C7H15O10P,0,[M+H]+,[M-H]-
+Fructose 1-phosphate,C6H13O9P,0,[M+H]+,[M-H]-
+5-Methyltetrahydropteroyltri-L-glutamic acid,C25H36N8O12,0,[M+H]+,[M-H]-
+Carbamoylphosphate,CH4NO5P,0,[M+H]+,[M-H]-
+Protoporphyrinogen IX,C34H40N4O4,0,[M+H]+,[M-H]-
+Glucosamine-1P,C6H14NO8P,0,[M+H]+,[M-H]-
+D-Glyceraldehyde 3-phosphate,C3H7O6P,0,[M+H]+,[M-H]-
+4-Phosphopantothenoylcysteine,C12H23N2O9PS,0,[M+H]+,[M-H]-
+Dimethylallylpyrophosphate,C5H12O7P2,0,[M+H]+,[M-H]-
+2-Aminobenzoic acid,C7H7NO2,0,[M+H]+,[M-H]-
+6-Phosphonoglucono-D-lactone,C6H11O9P,0,[M+H]+,[M-H]-
+5-Phosphoribosylamine,C5H12NO7P,0,[M+H]+,[M-H]-
+Iminoaspartic acid,C4H5NO4,0,[M+H]+,[M-H]-
+Phosphoadenosine phosphosulfate,C10H15N5O13P2S,0,[M+H]+,[M-H]-
+N-Acetyl-L-alanine,C5H9NO3,0,[M+H]+,[M-H]-
+FMNH,C17H23N4O9P,0,[M+H]+,[M-H]-
+Dihydroneopterin triphosphate,C9H16N5O13P3,0,[M+H]+,[M-H]-
+5-Aminolevulinic acid,C5H9NO3,0,[M+H]+,[M-H]-
+Guanosine diphosphate mannose,C16H25N5O16P2,0,[M+H]+,[M-H]-
+Pyruvaldehyde,C3H4O2,0,[M+H]+,[M-H]-
+5'-Methylthioadenosine,C11H15N5O3S,0,[M+H]+,[M-H]-
+Tetrahydropteroyltri-L-glutamic acid,C24H34N8O12,0,[M+H]+,[M-H]-
+Adenosine diphosphate ribose,C15H23N5O14P2,0,[M+H]+,[M-H]-
+Nicotinic acid adenine dinucleotide,C21H27N6O15P2,0,[M+H]+,[M-H]-
+N2-Succinyl-L-glutamic acid 5-semialdehyde,C9H13NO6,0,[M+H]+,[M-H]-
+S-Adenosylmethionine,C15H23N6O5S,0,[M+H]+,[M-H]-
+Deoxyuridine triphosphate,C9H15N2O14P3,0,[M+H]+,[M-H]-
+Dyspropterin,C9H11N5O3,0,[M+H]+,[M-H]-
+N2-Succinyl-L-ornithine,C9H16N2O5,0,[M+H]+,[M-H]-
+Guanosine diphosphate,C10H15N5O11P2,0,[M+H]+,[M-H]-
+dCMP,C9H14N3O7P,0,[M+H]+,[M-H]-
+1-Deoxy-D-xylulose 5-phosphate,C5H11O7P,0,[M+H]+,[M-H]-
+5-Thymidylic acid,C10H15N2O8P,0,[M+H]+,[M-H]-
+L-Glutamic acid 5-phosphate,C5H10NO7P,0,[M+H]+,[M-H]-
+4-Nitrophenol,C6H5NO3,0,[M+H]+,[M-H]-
+5-Aminoimidazole ribonucleotide,C8H14N3O7P,0,[M+H]+,[M-H]-
+dCDP,C9H15N3O10P2,0,[M+H]+,[M-H]-
+Betaine aldehyde,C5H12NO,0,[M+H]+,[M-H]-
+Glucosamine 6-phosphate,C6H14NO8P,0,[M+H]+,[M-H]-
+Spermine,C10H26N4,0,[M+H]+,[M-H]-
+Spermidine,C7H19N3,0,[M+H]+,[M-H]-
+Succinic acid semialdehyde,C4H6O3,0,[M+H]+,[M-H]-
+Coproporphyrinogen III,C36H44N4O8,0,[M+H]+,[M-H]-
+Maltotriose,C18H32O16,0,[M+H]+,[M-H]-
+"Glyceric acid 1,3-biphosphate",C3H8O10P2,0,[M+H]+,[M-H]-
+Guanosine triphosphate,C10H16N5O14P3,0,[M+H]+,[M-H]-
+dTDP,C10H16N2O11P2,0,[M+H]+,[M-H]-
+Geranyl-PP,C10H20O7P2,0,[M+H]+,[M-H]-
+Maltotetraose,C24H42O21,0,[M+H]+,[M-H]-
+L-D-1-Pyrroline-5-carboxylic acid,C5H7NO2,0,[M+H]+,[M-H]-
+Zinc,Zn,0,[M+H]+,[M-H]-
+L-Glutamic-gamma-semialdehyde,C5H9NO3,0,[M+H]+,[M-H]-
+5'-Phosphoribosyl-N-formylglycineamide,C8H15N2O9P,0,[M+H]+,[M-H]-
+D-Alanine,C3H7NO2,0,[M+H]+,[M-H]-
+D-Lactic acid,C3H6O3,0,[M+H]+,[M-H]-
+D-Myo-inositol 4-phosphate,C6H13O9P,0,[M+H]+,[M-H]-
+6-Phosphogluconic acid,C6H13O10P,0,[M+H]+,[M-H]-
+N5-Carboxyaminoimidazole ribonucleotide,C9H14N3O9P,0,[M+H]+,[M-H]-
+Pyridoxine 5'-phosphate,C8H12NO6P,0,[M+H]+,[M-H]-
+dTDP-D-Glucose,C16H26N2O16P2,0,[M+H]+,[M-H]-
+Adenylsuccinic acid,C14H18N5O11P,0,[M+H]+,[M-H]-
+Isopentenyl pyrophosphate,C5H12O7P2,0,[M+H]+,[M-H]-
+Hydroxypyruvic acid,C3H4O4,0,[M+H]+,[M-H]-
+"5,10-Methylene-THF",C20H23N7O6,0,[M+H]+,[M-H]-
+Hydrogen (gas),H2,0,[M+H]+,[M-H]-
+N-Acetyl-glucosamine 1-phosphate,C8H16NO9P,0,[M+H]+,[M-H]-
+Pyrroline hydroxycarboxylic acid,C5H7NO3,0,[M+H]+,[M-H]-
+Diaminopimelic acid,C7H14N2O4,0,[M+H]+,[M-H]-
+GDP-4-Dehydro-6-L-deoxygalactose,C16H23N5O15P2,0,[M+H]+,[M-H]-
+p-Aminobenzoic acid,C7H7NO2,0,[M+H]+,[M-H]-
+5-Methyltetrahydrofolic acid,C20H25N7O6,0,[M+H]+,[M-H]-
+Guanosine monophosphate,C10H14N5O8P,0,[M+H]+,[M-H]-
+"4,6-Dideoxy-4-oxo-dTDP-D-glucose",C16H24N2O15P2,0,[M+H]+,[M-H]-
+Sorbitol-6-phosphate,C6H15O9P,0,[M+H]+,[M-H]-
+Glucose 6-phosphate,C6H13O9P,0,[M+H]+,[M-H]-
+Niacinamide,C6H6N2O,0,[M+H]+,[M-H]-
+"7,8-Dihydropteroic acid",C14H14N6O3,0,[M+H]+,[M-H]-
+Putrescine,C4H12N2,0,[M+H]+,[M-H]-
+Pantetheine 4'-phosphate,C11H23N2O7PS,0,[M+H]+,[M-H]-
+Formaldehyde,CH2O,0,[M+H]+,[M-H]-
+Phosphate,O4P,0,[M+H]+,[M-H]-
+Pyridoxamine,C8H12N2O2,0,[M+H]+,[M-H]-
+Agmatine,C5H14N4,0,[M+H]+,[M-H]-
+D-Mannose 1-phosphate,C6H13O9P,0,[M+H]+,[M-H]-
+N-Succinyl-L-glutamate,C9H13NO7,0,[M+H]+,[M-H]-
+Phosphoribosyl formamidocarboxamide,C10H15N4O9P,0,[M+H]+,[M-H]-
+dGTP,C10H16N5O13P3,0,[M+H]+,[M-H]-
+Sulfate,O4S,0,[M+H]+,[M-H]-
+Dihydroxyacetone phosphate,C3H7O6P,0,[M+H]+,[M-H]-
+3-Hydroxyanthranilic acid,C7H7NO3,0,[M+H]+,[M-H]-
+Nicotinic acid,C6H5NO2,0,[M+H]+,[M-H]-
+Pyridoxal 5'-phosphate,C8H10NO6P,0,[M+H]+,[M-H]-
+Acetylphosphate,C2H5O5P,0,[M+H]+,[M-H]-
+Queuine,C12H15N5O3,0,[M+H]+,[M-H]-
+AICAR,C9H15N4O8P,0,[M+H]+,[M-H]-
+Flavin Mononucleotide,C17H21N4O9P,0,[M+H]+,[M-H]-
+S-Acetyldihydrolipoamide,C10H19NO2S2,0,[M+H]+,[M-H]-
+dATP,C10H12N5O12P3,0,[M+H]+,[M-H]-
+Pyridoxal,C8H9NO3,0,[M+H]+,[M-H]-
+CDP,C9H15N3O11P2,0,[M+H]+,[M-H]-
+S-Formylglutathione,C11H17N3O7S,0,[M+H]+,[M-H]-
+2-Oxo-4-methylthiobutanoic acid,C5H8O3S,0,[M+H]+,[M-H]-
+Xanthylic acid,C10H13N4O9P,0,[M+H]+,[M-H]-
+Pyridoxamine 5'-phosphate,C8H13N2O5P,0,[M+H]+,[M-H]-
+N5-Formyl-H4F,C20H23N7O7,0,[M+H]+,[M-H]-
+Glycineamideribotide,C7H15N2O8P,0,[M+H]+,[M-H]-
+Glucose 1-phosphate,C6H13O9P,0,[M+H]+,[M-H]-
+Tetrahydrofolic acid,C19H23N7O6,0,[M+H]+,[M-H]-
+Methanol,CH4O,0,[M+H]+,[M-H]-
+Methionine sulfoxide,C5H11NO3S,0,[M+H]+,[M-H]-
+D-Ribose-5-phosphate,C5H11O8P,0,[M+H]+,[M-H]-
+Cyanate,CNO,0,[M+H]+,[M-H]-
+Cyanide,CHN,0,[M+H]+,[M-H]-
+Itaconic acid,C5H6O4,0,[M+H]+,[M-H]-
+Aminoacetone,C3H7NO,0,[M+H]+,[M-H]-
+Coproporphyrinogen I,C36H44N4O8,0,[M+H]+,[M-H]-
+Glycolaldehyde,C2H4O2,0,[M+H]+,[M-H]-
+(S)-b-aminoisobutyric acid,C4H9NO2,0,[M+H]+,[M-H]-
+Molybdopterin,C10H12MoN5O8PS2,0,[M+H]+,[M-H]-
+(S)-Methylmalonic acid semialdehyde,C4H6O3,0,[M+H]+,[M-H]-
+L-Homoserine,C4H9NO3,0,[M+H]+,[M-H]-
+Gallic acid,C7H6O5,0,[M+H]+,[M-H]-
+"7,8-Dihydroneopterin",C9H13N5O4,0,[M+H]+,[M-H]-
+Cadaverine,C5H14N2,0,[M+H]+,[M-H]-
+Hydroquinone,C6H6O2,0,[M+H]+,[M-H]-
+D-Erythrose 4-phosphate,C4H9O7P,0,[M+H]+,[M-H]-
+Thiamine monophosphate,C12H17N4O4PS,0,[M+H]+,[M-H]-
+Cysteic acid,C3H7NO5S,0,[M+H]+,[M-H]-
+Nitrite,NO2,0,[M+H]+,[M-H]-
+alpha-Ketoglutarate,C5H4O5,0,[M+H]+,[M-H]-
+Nitrate,NO3,0,[M+H]+,[M-H]-
+5-Methylcytosine,C5H7N3O,0,[M+H]+,[M-H]-
+Sodium,Na,0,[M+H]+,[M-H]-
+O-Acetylserine,C5H9NO4,0,[M+H]+,[M-H]-
+Malonic semialdehyde,C3H4O3,0,[M+H]+,[M-H]-
+Glycolic acid,C2H4O3,0,[M+H]+,[M-H]-
+Lactaldehyde,C3H6O2,0,[M+H]+,[M-H]-
+Shikimic acid,C7H10O5,0,[M+H]+,[M-H]-
+Deoxyribose,C5H10O4,0,[M+H]+,[M-H]-
+Acetoin,C4H8O2,0,[M+H]+,[M-H]-
+UDP-N-Acetylmuraminate,C20H31N3O19P2,0,[M+H]+,[M-H]-
+Hydrogen sulfide,H2S,0,[M+H]+,[M-H]-
+Histidinol phosphate,C6H12N3O4P,0,[M+H]+,[M-H]-
+Selenocysteine,C3H7NO2Se,0,[M+H]+,[M-H]-
+IDP,C10H14N4O11P2,0,[M+H]+,[M-H]-
+D-Glutamic acid,C5H9NO4,0,[M+H]+,[M-H]-
+alpha-D-Glucose,C6H12O6,0,[M+H]+,[M-H]-
+N-Acetylornithine,C7H14N2O3,0,[M+H]+,[M-H]-
+Nitric oxide,NO,0,[M+H]+,[M-H]-
+Triphosphate,O10P3,0,[M+H]+,[M-H]-
+D-Serine,C3H7NO3,0,[M+H]+,[M-H]-
+D-Cysteine,C3H7NO2S,0,[M+H]+,[M-H]-
+D-Glutamine,C5H10N2O3,0,[M+H]+,[M-H]-
+L-Histidinol,C6H11N3O,0,[M+H]+,[M-H]-
+D-Alanyl-D-alanine,C6H12N2O3,0,[M+H]+,[M-H]-
+O-Phosphohomoserine,C4H10NO6P,0,[M+H]+,[M-H]-
+beta-D-Glucose 6-phosphate,C6H13O9P,0,[M+H]+,[M-H]-
+"alpha-D-Glucose 1,6-bisphosphate",C6H14O12P2,0,[M+H]+,[M-H]-
+DIDP,C10H14N4O10P2,0,[M+H]+,[M-H]-
+Carbonic acid,CH2O3,0,[M+H]+,[M-H]-
+Butanal,C4H8O,0,[M+H]+,[M-H]-
+Carbamic acid,CH3NO2,0,[M+H]+,[M-H]-
+Chitobiose,C16H28N2O11,0,[M+H]+,[M-H]-
+Dethiobiotin,C10H18N2O3,0,[M+H]+,[M-H]-
+2-Aminoacrylic acid,C3H5NO2,0,[M+H]+,[M-H]-
+"6,7-Dimethyl-8-(1-D-ribityl)lumazine",C13H18N4O6,0,[M+H]+,[M-H]-
+Phosphoroselenoic acid,H3O3PSe,0,[M+H]+,[M-H]-
+"N1-(5-Phospho-a-D-ribosyl)-5,6-dimethylbenzimidazole",C14H19N2O7P,0,[M+H]+,[M-H]-
+beta-D-Fructose 6-phosphate,C6H13O9P,0,[M+H]+,[M-H]-
+Oxalosuccinic acid,C6H6O7,0,[M+H]+,[M-H]-
+2-Aceto-2-hydroxy-butyrate,C6H10O4,0,[M+H]+,[M-H]-
+2-Acetolactate,C5H8O4,0,[M+H]+,[M-H]-
+2-Acylglycerophosphocholine,C9H21NO7P,0,[M+H]+,[M-H]-
+Galactose 1-phosphate,C6H13O9P,0,[M+H]+,[M-H]-
+1-Amino-propan-2-one-3-phosphate,C3H8NO5P,0,[M+H]+,[M-H]-
+gamma-Aminobutyric acid,C4H9NO2,0,[M+H]+,[M-H]-
+Betaine,C5H12NO2,0,[M+H]+,[M-H]-
+3-Carboxy-3-hydroxy-isocaproate,C7H10O5,0,[M+H]+,[M-H]-
+Carbon dioxide,CO2,0,[M+H]+,[M-H]-
+Cyclic GMP,C10H12N5O7P,0,[M+H]+,[M-H]-
+Chloride,Cl,0,[M+H]+,[M-H]-
+2-Dehydro-D-gluconate,C6H10O7,0,[M+H]+,[M-H]-
+2-Dehydropantoate,C6H9O4,0,[M+H]+,[M-H]-
+3-Dehydro-shikimate,C7H7O5,0,[M+H]+,[M-H]-
+3-Dehydroquinate,C7H10O6,0,[M+H]+,[M-H]-
+"2,5-Diamino-6-hydroxy-4-(5-phosphoribosylamino)pyrimidine",C9H16N5O8P,0,[M+H]+,[M-H]-
+"2,3-Dihydrodipicolinic acid",C7H7NO4,0,[M+H]+,[M-H]-
+"(R)-2,3-Dihydroxy-isovalerate",C5H10O4,0,[M+H]+,[M-H]-
+"3,4-Dihydroxy-2-butanone-4-P",C4H7O6P,0,[M+H]+,[M-H]-
+"2,5-Diketo-D-gluconate",C6H7O7,0,[M+H]+,[M-H]-
+2'-Deoxyinosine triphosphate,C10H15N4O13P3,0,[M+H]+,[M-H]-
+Glyceric acid,C3H6O4,0,[M+H]+,[M-H]-
+Inosinic acid,C10H13N4O8P,0,[M+H]+,[M-H]-
+Myoinositol,C6H12O6,0,[M+H]+,[M-H]-
+Isocitric acid,C6H8O7,0,[M+H]+,[M-H]-
+2-Keto-3-methyl-valerate,C6H9O3,0,[M+H]+,[M-H]-
+alpha-Ketoisovaleric acid,C5H8O3,0,[M+H]+,[M-H]-
+Menaquinone,C11H8O2,0,[M+H]+,[M-H]-
+"2-C-Methyl-D-erythritol-2,4-cyclodiphosphate",C5H10O9P2,0,[M+H]+,[M-H]-
+2-C-Methyl-D-erythritol-4-phosphate,C5H11O7P,0,[M+H]+,[M-H]-
+2-Octaprenyl-6-hydroxyphenol,C48H74,0,[M+H]+,[M-H]-
+2-Octaprenyl-6-methoxyphenol,C47H72O2,0,[M+H]+,[M-H]-
+Oxoglutaric acid,C5H6O5,0,[M+H]+,[M-H]-
+Oxygen,O2,0,[M+H]+,[M-H]-
+2-Phospho-D-glyceric acid,C3H7O7P,0,[M+H]+,[M-H]-
+3-Phosphoglycerate,C3H7O7P,0,[M+H]+,[M-H]-
+Phosphoribosyl-AMP,C15H23N5O14P2,0,[M+H]+,[M-H]-
+Phosphoribosyl-ATP,C15H26N5O20P4,0,[M+H]+,[M-H]-
+Potassium,K,0,[M+H]+,[M-H]-
+Pyrophosphate,O7P2,0,[M+H]+,[M-H]-
+5-Amino-6-ribitylamino uracil,C9H16N4O6,0,[M+H]+,[M-H]-
+Ribose-1-phosphate,C5H11O8P,0,[M+H]+,[M-H]-
+D-Ribulose 5-phosphate,C5H11O8P,0,[M+H]+,[M-H]-
+3-Isopropylmalate,C7H12O5,0,[M+H]+,[M-H]-
+Uridine diphosphate glucuronic acid,C15H22N2O18P2,0,[M+H]+,[M-H]-
+UDP-N-Acetylmuramoyl-L-alanyl-D-glutamate,C22H32Cl2N2O4,0,[M+H]+,[M-H]-
+UDP-Glucose,C15H24N2O17P2,0,[M+H]+,[M-H]-
+Urea,CH4N2O,0,[M+H]+,[M-H]-
+Xylulose 5-phosphate,C5H11O8P,0,[M+H]+,[M-H]-
+5-L-Glutamyl-taurine,C7H14N2O6S,0,[M+H]+,[M-H]-
+Biotinyl-5'-AMP,C20H28N7O9PS,0,[M+H]+,[M-H]-
+S-(Hydroxymethyl)glutathione,C11H19N3O7S,0,[M+H]+,[M-H]-
+5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate,C9H14N3O9P,0,[M+H]+,[M-H]-
+Selenocystathionine,C7H14N2O4Se,0,[M+H]+,[M-H]-
+Deoxythymidine diphosphate-L-rhamnose,C16H26N2O15P2,0,[M+H]+,[M-H]-
+Cis-2-Methylaconitate,C7H8O6,0,[M+H]+,[M-H]-
+L-2-Amino-3-oxobutanoic acid,C4H7NO3,0,[M+H]+,[M-H]-
+N-Acetyl-L-glutamyl 5-phosphate,C7H12NO8P,0,[M+H]+,[M-H]-
+D-Lactaldehyde,C3H6O2,0,[M+H]+,[M-H]-
+Methylisocitric acid,C7H10O7,0,[M+H]+,[M-H]-
+N-Acetyl-L-glutamate 5-semialdehyde,C7H11NO4,0,[M+H]+,[M-H]-
+DIMP,C10H13N4O7P,0,[M+H]+,[M-H]-
+2-Oxo-3-hydroxy-4-phosphobutanoic acid,C4H7O8P,0,[M+H]+,[M-H]-
+O-Phospho-4-hydroxy-L-threonine,C4H10NO7P,0,[M+H]+,[M-H]-
+(S)-2-Acetolactate,C5H8O4,0,[M+H]+,[M-H]-
+dTDP-D-Galactose,C16H26N2O16P2,0,[M+H]+,[M-H]-
+Tartronate semialdehyde,C3H4O4,0,[M+H]+,[M-H]-
+PA(16:0/18:1(11Z)),C37H71O8P,0,[M+H]+,[M-H]-
+PA(16:0/18:1(9Z)),C37H71O8P,0,[M+H]+,[M-H]-
+"PA(16:0/18:2(9Z,12Z))",C37H69O8P,0,[M+H]+,[M-H]-
+"PA(18:0/18:2(9Z,12Z))",C39H73O8P,0,[M+H]+,[M-H]-
+PA(18:1(11Z)/18:1(11Z)),C39H73O8P,0,[M+H]+,[M-H]-
+PA(18:1(11Z)/18:1(9Z)),C39H73O8P,0,[M+H]+,[M-H]-
+PA(18:1(9Z)/18:1(11Z)),C39H73O8P,0,[M+H]+,[M-H]-
+PA(18:1(9Z)/18:1(9Z)),C39H73O8P,0,[M+H]+,[M-H]-
+PE(14:0/14:0),C33H66NO8P,0,[M+H]+,[M-H]-
+PE(14:0/16:0),C35H70NO8P,0,[M+H]+,[M-H]-
+PE(14:0/16:1(9Z)),C35H68NO8P,0,[M+H]+,[M-H]-
+PE(14:0/18:1(11Z)),C37H72NO8P,0,[M+H]+,[M-H]-
+PE(16:0/14:0),C35H70NO8P,0,[M+H]+,[M-H]-
+PE(16:0/16:0),C37H74NO8P,0,[M+H]+,[M-H]-
+PE(16:0/16:1(9Z)),C37H72NO8P,0,[M+H]+,[M-H]-
+PE(16:0/18:1(11Z)),C39H76NO8P,0,[M+H]+,[M-H]-
+PE(16:1(9Z)/14:0),C35H68NO8P,0,[M+H]+,[M-H]-
+PE(16:1(9Z)/16:0),C37H72NO8P,0,[M+H]+,[M-H]-
+PE(16:1(9Z)/16:1(9Z)),C37H70NO8P,0,[M+H]+,[M-H]-
+PE(16:1(9Z)/18:1(11Z)),C39H74NO8P,0,[M+H]+,[M-H]-
+PE(18:1(11Z)/14:0),C37H72NO8P,0,[M+H]+,[M-H]-
+PE(18:1(11Z)/16:0),C39H76NO8P,0,[M+H]+,[M-H]-
+PE(18:1(11Z)/16:1(9Z)),C39H74NO8P,0,[M+H]+,[M-H]-
+PE(18:1(11Z)/18:1(11Z)),C41H78NO8P,0,[M+H]+,[M-H]-
+PG(16:0/16:0),C38H75O10P,0,[M+H]+,[M-H]-
+PG(16:1(9Z)/18:1(11Z)),C40H75O10P,0,[M+H]+,[M-H]-
+PG(18:1(11Z)/16:0),C40H77O10P,0,[M+H]+,[M-H]-
+PG(18:1(11Z)/16:1(9Z)),C40H75O10P,0,[M+H]+,[M-H]-
+PG(18:1(11Z)/18:1(11Z)),C42H79O10P,0,[M+H]+,[M-H]-
+gamma-Glutamyl-Se-methylselenocysteine,C9H16N2O5Se,0,[M+H]+,[M-H]-
+Hydrogen selenide,H2Se,0,[M+H]+,[M-H]-
+"N1-(alpha-D-ribosyl)-5,6-dimethyl-benzimidazole",C14H18N2O4,0,[M+H]+,[M-H]-
+Se-Adenosylselenomethionine,C15H23N6O5Se,0,[M+H]+,[M-H]-
+PA(16:0e/18:0),C37H75O7P,0,[M+H]+,[M-H]-
+"PA(P-16:0e/18:2(9Z,12Z))",C37H69O7P,0,[M+H]+,[M-H]-
+"PA(20:4(5Z,8Z,11Z,14Z)e/2:0)",C25H43O7P,0,[M+H]+,[M-H]-
+"Ribose 1,5-bisphosphate",C5H12O11P2,0,[M+H]+,[M-H]-
+5-Keto-D-gluconate,C6H10O7,0,[M+H]+,[M-H]-
+D-Arabinose 5-phosphate,C5H11O8P,0,[M+H]+,[M-H]-
+"(R) 2,3-Dihydroxy-3-methylvalerate",C6H12O4,0,[M+H]+,[M-H]-
+2-Isopropyl-3-oxosuccinate,C7H10O5,0,[M+H]+,[M-H]-
+4-(Glutamylamino) butanoate,C9H16N2O5,0,[M+H]+,[M-H]-
+Aminopropylcadaverine,C8H21N3,0,[M+H]+,[M-H]-
+Chorismate,C10H10O6,0,[M+H]+,[M-H]-
+D-Erythro-imidazole-glycerol-phosphate,C6H11N2O6P,0,[M+H]+,[M-H]-
+gamma-Glutamyl-L-putrescine,C9H19N3O3,0,[M+H]+,[M-H]-
+Imidazole acetol-phosphate,C6H9N2O5P,0,[M+H]+,[M-H]-
+Isopropylmaleate,C7H10O4,0,[M+H]+,[M-H]-
+L-Aspartate-semialdehyde,C4H7NO3,0,[M+H]+,[M-H]-
+L-Aspartyl-4-phosphate,C4H8NO7P,0,[M+H]+,[M-H]-
+N-Succinyl-2-amino-6-ketopimelate,C11H15NO8,0,[M+H]+,[M-H]-
+"N-Succinyl-L,L-2,6-diaminopimelate",C11H18N2O7,0,[M+H]+,[M-H]-
+PhosphoribosylformiminoAICAR-phosphate,C15H25N5O15P2,0,[M+H]+,[M-H]-
+Phosphoribulosylformimino-AICAR-P,C15H25N5O15P2,0,[M+H]+,[M-H]-
+Prephenate,C10H10O6,0,[M+H]+,[M-H]-
+Tetrahydrodipicolinate,C7H9NO4,0,[M+H]+,[M-H]-
+PS(14:0/14:0),C34H66NO10P,0,[M+H]+,[M-H]-
+PS(14:0/16:0),C36H70NO10P,0,[M+H]+,[M-H]-
+PS(14:0/16:1(9Z)),C36H68NO10P,0,[M+H]+,[M-H]-
+PS(16:0/14:0),C36H70NO10P,0,[M+H]+,[M-H]-
+PS(16:0/16:1(9Z)),C38H72NO10P,0,[M+H]+,[M-H]-
+PS(16:1(9Z)/14:0),C36H68NO10P,0,[M+H]+,[M-H]-
+PS(16:1(9Z)/16:0),C38H72NO10P,0,[M+H]+,[M-H]-
+PS(16:1(9Z)/16:1(9Z)),C38H70NO10P,0,[M+H]+,[M-H]-
+"(1R,2S)-Naphthalene 1,2-oxide",C10H8O,0,[M+H]+,[M-H]-
+"(1R)-Glutathionyl-(2R)-hydroxy-1,2-dihydronaphthalene",C20H25N3O7S,0,[M+H]+,[M-H]-
+"(1R)-Hydroxy-(2R)-glutathionyl-1,2-dihydronaphthalene",C20H25N3O7S,0,[M+H]+,[M-H]-
+"(1S)-Hydroxy-(2S)-glutathionyl-1,2-dihydronaphthalene",C20H25N3O7S,0,[M+H]+,[M-H]-
+(2-Naphthyl)methanol,C11H10O,0,[M+H]+,[M-H]-
+(R)-3-Hydroxy-3-methyl-2-oxopentanoate,C6H10O4,0,[M+H]+,[M-H]-
+(R)-Malate,C4H6O5,0,[M+H]+,[M-H]-
+(R)-Pantoate,C6H11O4,0,[M+H]+,[M-H]-
+(S)-4-Amino-5-oxopentanoate,C5H9NO3,0,[M+H]+,[M-H]-
+1-(2-Carboxyphenylamino)-1'-deoxy-D-ribulose 5'-phosphate,C12H16NO9P,0,[M+H]+,[M-H]-
+1-Hydroxy-2-methyl-2-butenyl 4-diphosphate,C5H12O8P2,0,[M+H]+,[M-H]-
+1-Hydroxymethylnaphthalene,C11H10O,0,[M+H]+,[M-H]-
+"1-Nitro-5-glutathionyl-6-hydroxy-5,6-dihydronaphthalene",C20H24N4O9S,0,[M+H]+,[M-H]-
+"1-Nitro-5-hydroxy-6-glutathionyl-5,6-dihydronaphthalene",C20H24N4O9S,0,[M+H]+,[M-H]-
+"1-Nitro-7-glutathionyl-8-hydroxy-7,8-dihydronaphthalene",C20H24N4O9S,0,[M+H]+,[M-H]-
+"1-Nitro-7-hydroxy-8-glutathionyl-7,8-dihydronaphthalene",C20H24N4O9S,0,[M+H]+,[M-H]-
+"1-Nitronaphthalene-5,6-oxide",C10H7NO3,0,[M+H]+,[M-H]-
+"1-Nitronaphthalene-7,8-oxide",C10H7NO3,0,[M+H]+,[M-H]-
+2-(S-Glutathionyl)acetyl chloride,C12H18ClN3O7S,0,[M+H]+,[M-H]-
+2-(S-Glutathionyl)acetyl glutathione,C22H34N6O13S2,0,[M+H]+,[M-H]-
+2-Amino-3-oxo-4-phosphonooxybutyrate,C4H8NO7P,0,[M+H]+,[M-H]-
+2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate,C7H13O10P,0,[M+H]+,[M-H]-
+2-Methyl-4-amino-5-hydroxymethylpyrimidine diphosphate,C6H8N3O7P2,0,[M+H]+,[M-H]-
+2-Naphthaldehyde,C11H8O,0,[M+H]+,[M-H]-
+"2-Phenyl-1,3-propanediol monocarbamate",C10H13NO3,0,[M+H]+,[M-H]-
+2-Phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol,C14H22N3O17P3,0,[M+H]+,[M-H]-
+"2,2-Dichloroacetaldehyde",C2H3Cl3,0,[M+H]+,[M-H]-
+"2,3-Bis(3-hydroxytetradecanoyl)-beta-D-glucosaminyl 1-phosphate",C34H66NO12P,0,[M+H]+,[M-H]-
+"2,3-Dihydro-2-S-glutathionyl-3-hydroxy bromobenzene",C16H22BrN3O7S,0,[M+H]+,[M-H]-
+"2,5-Diamino-6-(5'-phosphoribosylamino)-4-pyrimidineone",C9H16N5O8P,0,[M+H]+,[M-H]-
+3-Carbamoyl-2-phenylpropionaldehyde,C10H11NO3,0,[M+H]+,[M-H]-
+3-Cyano-L-alanine,C4H6N2O2,0,[M+H]+,[M-H]-
+3-Deoxy-D-manno-octulosonate 8-phosphate,C8H12O11P,0,[M+H]+,[M-H]-
+3-Deoxy-D-manno-octulosonate,C8H13O8,0,[M+H]+,[M-H]-
+3-Hydroxy-3-methyl-2-oxobutanoic acid,C5H8O4,0,[M+H]+,[M-H]-
+"3,4-Dihydro-3-hydroxy-4-S-glutathionyl bromobenzene",C16H22BrN3O7S,0,[M+H]+,[M-H]-
+3'-Phosphoadenylylselenate,C10H15N5O13P2Se,0,[M+H]+,[M-H]-
+4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol,C14H23N3O14P2,0,[M+H]+,[M-H]-
+4-Amino-2-methyl-5-phosphomethylpyrimidine,C6H8N3O4P,0,[M+H]+,[M-H]-
+4-Amino-4-deoxychorismate,C10H10NO5,0,[M+H]+,[M-H]-
+4-Amino-5-hydroxymethyl-2-methylpyrimidine,C6H9N3O,0,[M+H]+,[M-H]-
+4-Glutathionyl cyclophosphamide,C17H30Cl2N5O8PS,0,[M+H]+,[M-H]-
+"4-Hydroxy-5-phenyltetrahydro-1,3-oxazin-2-one",C10H11NO3,0,[M+H]+,[M-H]-
+4-Hydroxy-L-threonine,C4H9NO4,0,[M+H]+,[M-H]-
+4-Methyl-5-(2-phosphoethyl)-thiazole,C6H10NO4PS,0,[M+H]+,[M-H]-
+4-Phospho-D-erythronate,C4H9O8P,0,[M+H]+,[M-H]-
+"4,5-Dihydro-4-hydroxy-5-S-glutathionyl-benzo[a]pyrene",C30H29N3O7S,0,[M+H]+,[M-H]-
+5-Amino-4-imidazolecarboxyamide,C4H6N4O,0,[M+H]+,[M-H]-
+5-Amino-6-(5'-phosphoribosylamino)uracil,C9H15N4O9P,0,[M+H]+,[M-H]-
+5-O-(1-Carboxyvinyl)-3-phosphoshikimate,C10H13O10P,0,[M+H]+,[M-H]-
+"5-Phenyl-1,3-oxazinane-2,4-dione",C10H9NO3,0,[M+H]+,[M-H]-
+"7,8-Diaminononanoate",C9H19N2O2,0,[M+H]+,[M-H]-
+"7,8-Dihydro-7-hydroxy-8-S-glutathionyl-benzo[a]pyrene",C30H29N3O7S,0,[M+H]+,[M-H]-
+8-Amino-7-oxononanoate,C9H17NO3,0,[M+H]+,[M-H]-
+ADP-D-Glycero-D-manno-heptose,C17H27N5O16P2,0,[M+H]+,[M-H]-
+ADP-L-Glycero-D-manno-heptose,C17H27N5O16P2,0,[M+H]+,[M-H]-
+Aminoacetaldehyde,C2H5NO,0,[M+H]+,[M-H]-
+"Benzo[a]pyrene-4,5-oxide",C20H12O,0,[M+H]+,[M-H]-
+"Benzo[a]pyrene-7,8-diol",C20H14O2,0,[M+H]+,[M-H]-
+"beta-D-Fructose 1,6-bisphosphate",C6H14O12P2,0,[M+H]+,[M-H]-
+"Bromobenzene-2,3-oxide",C6H5BrO,0,[M+H]+,[M-H]-
+"Bromobenzene-3,4-oxide",C6H5BrO,0,[M+H]+,[M-H]-
+CMP-3-Deoxy-D-manno-octulosonate,C17H26N3O15P,0,[M+H]+,[M-H]-
+D-Erythro-3-Methylmalate,C5H8O5,0,[M+H]+,[M-H]-
+D-Galactonate,C6H12O7,0,[M+H]+,[M-H]-
+D-Phenylalanine,C9H11NO2,0,[M+H]+,[M-H]-
+Galactitol 1-phosphate,C6H15O9P,0,[M+H]+,[M-H]-
+gamma-Glutamyl-beta-aminopropiononitrile,C8H13N3O3,0,[M+H]+,[M-H]-
+gamma-Glutamyl-beta-cyanoalanine,C9H13N3O5,0,[M+H]+,[M-H]-
+Glutathione episulfonium ion,C12H20N3O6S,0,[M+H]+,[M-H]-
+Guanosine 3'-diphosphate 5'-triphosphate,C10H18N5O20P5,0,[M+H]+,[M-H]-
+"Guanosine 3',5'-bis(diphosphate)",C10H17N5O17P4,0,[M+H]+,[M-H]-
+Indoleglycerol phosphate,C11H14NO6P,0,[M+H]+,[M-H]-
+N-(5-Phospho-D-ribosyl)anthranilate,C12H16NO9P,0,[M+H]+,[M-H]-
+N-Acetyl-D-muramoate,C11H19NO8,0,[M+H]+,[M-H]-
+N-Acetylmuramoyl-Ala,C14H24N2O9,0,[M+H]+,[M-H]-
+Propanoyl phosphate,C3H5O5P,0,[M+H]+,[M-H]-
+"S-(1,2-Dichlorovinyl)glutathione",C12H17Cl2N3O6S,0,[M+H]+,[M-H]-
+S-(2-Chloroacetyl)glutathione,C12H18ClN3O7S,0,[M+H]+,[M-H]-
+"S-(2,2-Dichloro-1-hydroxy)ethyl glutathione",C12H19Cl2N3O7S,0,[M+H]+,[M-H]-
+S-(Formylmethyl)glutathione,C12H19N3O7S,0,[M+H]+,[M-H]-
+Shikimate 3-phosphate,C7H8O8P,0,[M+H]+,[M-H]-
+UDP-N-Acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine,C39H65N9O24P2,0,[M+H]+,[M-H]-
+Ethylenediamine,C2H9N2,0,[M+H]+,[M-H]-
+L-Ribose,C5H10O5,0,[M+H]+,[M-H]-
+7-Cyano-7-carbaguanine,C7H5N5O,0,[M+H]+,[M-H]-
+L-Methionine-(S)-S-oxide,C5H11NO3S,0,[M+H]+,[M-H]-
+TDP-Glucose,C16H24N2O16P2,0,[M+H]+,[M-H]-
+Decarboxy-SAM,C14H24N6O3S,0,[M+H]+,[M-H]-
+Methylphosphonate,CH5O3P,0,[M+H]+,[M-H]-
+Ethylphosphonate,C2H6O3P,0,[M+H]+,[M-H]-
+Propylphosphonate,C3H8O3P,0,[M+H]+,[M-H]-
+Phenylphosphonate,C6H5O3P,0,[M+H]+,[M-H]-
+beta-D-ribofuranose,C5H10O5,0,[M+H]+,[M-H]-
+beta-D-Ribopyranose,C5H10O5,0,[M+H]+,[M-H]-
+Phosphonate,HO3P,0,[M+H]+,[M-H]-
+Ubiquinone-0,C9H10O4,0,[M+H]+,[M-H]-
+"1,6-Anhydro-N-acetylmuramate",C11H17NO7,0,[M+H]+,[M-H]-
+N-Ethylsuccinimide,C6H9NO2,0,[M+H]+,[M-H]-
+TDP-Rhamnose,C17H26N2O14P2,0,[M+H]+,[M-H]-
+D-Myo-inositol (1)-monophosphate,C6H13O9P,0,[M+H]+,[M-H]-
+Dihydromonapterin-triphosphate,C9H14N5O13P3,0,[M+H]+,[M-H]-
+L-Ala-D-Glu-meso-A2pm,C15H26N4O8,0,[M+H]+,[M-H]-
+L-Ala-gamma-D-Glu-Dap,C13H19N5O4,0,[M+H]+,[M-H]-
+NMNH,C11H17N2O8P,0,[M+H]+,[M-H]-
+Phenylglyoxal,C8H6O2,0,[M+H]+,[M-H]-
+Cyclic pyranopterin monophosphate,C10H14N5O8P,0,[M+H]+,[M-H]-
+Sn-Glycerol-1-phosphate,C3H9O6P,0,[M+H]+,[M-H]-
+Ubiquinone-6,C39H58O4,0,[M+H]+,[M-H]-
+3-Sulfopyruvic acid,C3H4O6S,0,[M+H]+,[M-H]-
+Adenylylselenate,C10H14N5O10PSe,0,[M+H]+,[M-H]-
+beta-Aminopropionitrile,C3H6N2,0,[M+H]+,[M-H]-
+Cinnavalininate,C14H8N2O6,0,[M+H]+,[M-H]-
+L-Allothreonine,C4H9NO3,0,[M+H]+,[M-H]-
+Se-Methylselenocysteine,C4H9NO2Se,0,[M+H]+,[M-H]-
+Selenohomocysteine,C4H9NO2Se,0,[M+H]+,[M-H]-
+PG(14:0/14:0),C34H67O10P,0,[M+H]+,[M-H]-
+PE(17:0/16:0),C38H76NO8P,0,[M+H]+,[M-H]-
+PE(17:0/17:0),C39H78NO8P,0,[M+H]+,[M-H]-
+PE(17:0/19:0),C41H82NO8P,0,[M+H]+,[M-H]-
+PE(19:0/14:0),C38H76NO8P,0,[M+H]+,[M-H]-
+PE(19:0/16:0),C40H80NO8P,0,[M+H]+,[M-H]-
+PE(19:0/17:0),C41H82NO8P,0,[M+H]+,[M-H]-
+PE(19:0/19:0),C43H86NO8P,0,[M+H]+,[M-H]-
+PG(14:0/16:0),C36H71O10P,0,[M+H]+,[M-H]-
+PG(17:0/17:0),C40H79O10P,0,[M+H]+,[M-H]-
+PS(16:0/18:1(11Z)),C40H76NO10P,0,[M+H]+,[M-H]-
+PE(14:0/17:0),C36H72NO8P,0,[M+H]+,[M-H]-
+PE(14:0/19:0),C38H76NO8P,0,[M+H]+,[M-H]-
+PE(16:0/17:0),C38H76NO8P,0,[M+H]+,[M-H]-
+PE(16:0/19:0),C40H80NO8P,0,[M+H]+,[M-H]-
+PE(17:0/14:0),C36H72NO8P,0,[M+H]+,[M-H]-
+PG(14:0/17:0),C37H73O10P,0,[M+H]+,[M-H]-
+PG(19:0/14:0),C39H77O10P,0,[M+H]+,[M-H]-
+PG(19:0/16:0),C41H81O10P,0,[M+H]+,[M-H]-
+PG(19:0/17:0),C42H83O10P,0,[M+H]+,[M-H]-
+PG(19:0/19:0),C44H87O10P,0,[M+H]+,[M-H]-
+PG(16:1(9Z)/14:0),C36H69O10P,0,[M+H]+,[M-H]-
+PS(14:0/17:0),C37H72NO10P,0,[M+H]+,[M-H]-
+PS(14:0/19:0),C39H76NO10P,0,[M+H]+,[M-H]-
+PS(16:0/17:0),C39H76NO10P,0,[M+H]+,[M-H]-
+PS(16:0/19:0),C41H80NO10P,0,[M+H]+,[M-H]-
+PS(18:1(11Z)/14:0),C38H72NO10P,0,[M+H]+,[M-H]-
+PG(14:0/19:0),C39H77O10P,0,[M+H]+,[M-H]-
+PS(17:0/14:0),C37H72NO10P,0,[M+H]+,[M-H]-
+PS(17:0/19:0),C42H82NO10P,0,[M+H]+,[M-H]-
+PS(19:0/14:0),C39H76NO10P,0,[M+H]+,[M-H]-
+PS(19:0/16:0),C41H80NO10P,0,[M+H]+,[M-H]-
+PS(19:0/17:0),C42H82NO10P,0,[M+H]+,[M-H]-
+PS(19:0/19:0),C44H86NO10P,0,[M+H]+,[M-H]-
+PG(14:0/18:1(11Z)),C38H73O10P,0,[M+H]+,[M-H]-
+PG(17:0/16:0),C39H77O10P,0,[M+H]+,[M-H]-
+PS(14:0/18:1(11Z)),C38H72NO10P,0,[M+H]+,[M-H]-
+PS(18:1(11Z)/16:0),C40H76NO10P,0,[M+H]+,[M-H]-
+PG(14:0/16:1(9Z)),C36H69O10P,0,[M+H]+,[M-H]-
+PS(18:1(11Z)/18:1(11Z)),C42H78NO10P,0,[M+H]+,[M-H]-
+PS(18:1(11Z)/16:1(9Z)),C40H74NO10P,0,[M+H]+,[M-H]-
+PS(17:0/16:0),C39H76NO10P,0,[M+H]+,[M-H]-
+PS(17:0/17:0),C40H78NO10P,0,[M+H]+,[M-H]-
+PS(16:1(9Z)/18:1(11Z)),C40H74NO10P,0,[M+H]+,[M-H]-
+PE(18:1(11Z)/17:0),C40H78NO8P,0,[M+H]+,[M-H]-
+PE(18:1(11Z)/19:0),C42H82NO8P,0,[M+H]+,[M-H]-
+PE(17:0/16:1(9Z)),C38H74NO8P,0,[M+H]+,[M-H]-
+PE(19:0/18:1(11Z)),C42H82NO8P,0,[M+H]+,[M-H]-
+PE(17:0/18:1(11Z)),C40H78NO8P,0,[M+H]+,[M-H]-
+PG(16:0/14:0),C36H71O10P,0,[M+H]+,[M-H]-
+PE(19:0/16:1(9Z)),C40H78NO8P,0,[M+H]+,[M-H]-
+PE(16:1(9Z)/17:0),C38H74NO8P,0,[M+H]+,[M-H]-
+PE(16:1(9Z)/19:0),C40H78NO8P,0,[M+H]+,[M-H]-
+PG(18:1(11Z)/17:0),C41H79O10P,0,[M+H]+,[M-H]-
+PG(18:1(11Z)/19:0),C43H83O10P,0,[M+H]+,[M-H]-
+PG(17:0/18:1(11Z)),C41H79O10P,0,[M+H]+,[M-H]-
+PG(17:0/16:1(9Z)),C39H75O10P,0,[M+H]+,[M-H]-
+PG(19:0/18:1(11Z)),C43H83O10P,0,[M+H]+,[M-H]-
+PG(19:0/16:1(9Z)),C41H79O10P,0,[M+H]+,[M-H]-
+PG(16:0/17:0),C39H77O10P,0,[M+H]+,[M-H]-
+PG(16:1(9Z)/19:0),C41H79O10P,0,[M+H]+,[M-H]-
+PS(18:1(11Z)/17:0),C41H78NO10P,0,[M+H]+,[M-H]-
+PS(18:1(11Z)/19:0),C43H82NO10P,0,[M+H]+,[M-H]-
+PS(17:0/18:1(11Z)),C41H78NO10P,0,[M+H]+,[M-H]-
+PS(17:0/16:1(9Z)),C39H74NO10P,0,[M+H]+,[M-H]-
+PS(19:0/18:1(11Z)),C43H82NO10P,0,[M+H]+,[M-H]-
+PS(19:0/16:1(9Z)),C41H78NO10P,0,[M+H]+,[M-H]-
+PS(16:1(9Z)/17:0),C39H74NO10P,0,[M+H]+,[M-H]-
+PS(16:1(9Z)/19:0),C41H78NO10P,0,[M+H]+,[M-H]-
+PG(16:0/19:0),C41H81O10P,0,[M+H]+,[M-H]-
+PG(18:1(11Z)/14:0),C38H73O10P,0,[M+H]+,[M-H]-
+PG(17:0/14:0),C37H73O10P,0,[M+H]+,[M-H]-
+PG(17:0/19:0),C42H83O10P,0,[M+H]+,[M-H]-
+"1,2-Diacyl-sn-glycerol (didodecanoyl, n-C12:0)",C27H52O5,0,[M+H]+,[M-H]-
+"1,2-Diacyl-sn-glycerol (dihexadec-9-enoyl, n-C16:1)",C35H64O5,0,[M+H]+,[M-H]-
+"1,2-Diacyl-sn-glycerol (dihexadecanoyl, n-C16:0)",C35H68O5,0,[M+H]+,[M-H]-
+"1,2-Diacyl-sn-glycerol (dioctadec-11-enoyl, n-C18:1)",C39H72O5,0,[M+H]+,[M-H]-
+"1,2-Diacyl-sn-glycerol (ditetradec-7-enoyl, n-C14:1)",C31H56O5,0,[M+H]+,[M-H]-
+"1,2-Diacyl-sn-glycerol (ditetradecanoyl, n-C14:0)",C31H60O5,0,[M+H]+,[M-H]-
+1-Acyl-sn-glycero-3-phosphoethanolamine (N-C12:0),C17H36NO7P,0,[M+H]+,[M-H]-
+1-Acyl-sn-glycero-3-phosphoethanolamine (N-C14:0),C19H40NO7P,0,[M+H]+,[M-H]-
+1-Acyl-sn-glycero-3-phosphoethanolamine (N-C14:1),C19H35NO7P,0,[M+H]+,[M-H]-
+1-Acyl-sn-glycero-3-phosphoethanolamine (N-C16:0),C21H44NO7P,0,[M+H]+,[M-H]-
+1-Acyl-sn-glycero-3-phosphoethanolamine (N-C16:1),C21H39NO7P,0,[M+H]+,[M-H]-
+1-Acyl-sn-glycero-3-phosphoethanolamine (N-C18:0),C23H48NO7P,0,[M+H]+,[M-H]-
+1-Acyl-sn-glycero-3-phosphoethanolamine (N-C18:1),C23H43NO7P,0,[M+H]+,[M-H]-
+1-Acyl-sn-glycero-3-phosphoglycerol (N-C12:0),C18H36O9P,0,[M+H]+,[M-H]-
+1-Acyl-sn-glycero-3-phosphoglycerol (N-C14:0),C20H40O9P,0,[M+H]+,[M-H]-
+1-Acyl-sn-glycero-3-phosphoglycerol (N-C14:1),C20H38O9P,0,[M+H]+,[M-H]-
+1-Acyl-sn-glycero-3-phosphoglycerol (N-C16:0),C22H44O9P,0,[M+H]+,[M-H]-
+1-Acyl-sn-glycero-3-phosphoglycerol (N-C16:1),C22H42O9P,0,[M+H]+,[M-H]-
+1-Acyl-sn-glycero-3-phosphoglycerol (N-C18:0),C24H48O9P,0,[M+H]+,[M-H]-
+1-Acyl-sn-glycero-3-phosphoglycerol (N-C18:1),C24H46O9P,0,[M+H]+,[M-H]-
+1-Dodecanoyl-sn-glycerol 3-phosphate,C15H29O7P,0,[M+H]+,[M-H]-
+1-Hexadec-9-enoyl-sn-glycerol 3-phosphate,C19H35O7P,0,[M+H]+,[M-H]-
+1-hexadecanoyl-sn-glycerol 3-phosphate,C19H39O7P,0,[M+H]+,[M-H]-
+1-Octadec-11-enoyl-sn-glycerol 3-phosphate,C21H39O7P,0,[M+H]+,[M-H]-
+1-Octadecanoyl-sn-glycerol 3-phosphate,C21H41O7P,0,[M+H]+,[M-H]-
+1-Tetradec-7-enoyl-sn-glycerol 3-phosphate,C17H31O7P,0,[M+H]+,[M-H]-
+1-Tetradecanoyl-sn-glycerol 3-phosphate,C17H33O7P,0,[M+H]+,[M-H]-
+2-Acyl-sn-glycero-3-phosphoethanolamine (N-C12:0),C17H36NO7P,0,[M+H]+,[M-H]-
+2-Acyl-sn-glycero-3-phosphoethanolamine (N-C14:0),C19H40NO7P,0,[M+H]+,[M-H]-
+2-Acyl-sn-glycero-3-phosphoethanolamine (N-C14:1),C19H35NO7P,0,[M+H]+,[M-H]-
+2-Acyl-sn-glycero-3-phosphoethanolamine (N-C16:0),C21H44NO7P,0,[M+H]+,[M-H]-
+2-Acyl-sn-glycero-3-phosphoethanolamine (N-C16:1),C21H39NO7P,0,[M+H]+,[M-H]-
+2-Acyl-sn-glycero-3-phosphoethanolamine (N-C18:0),C23H48NO7P,0,[M+H]+,[M-H]-
+2-Acyl-sn-glycero-3-phosphoethanolamine (N-C18:1),C23H43NO7P,0,[M+H]+,[M-H]-
+2-Acyl-sn-glycero-3-phosphoglycerol (n-C12:0),C18H36O9P,0,[M+H]+,[M-H]-
+2-Acyl-sn-glycero-3-phosphoglycerol (N-C14:0),C20H40O9P,0,[M+H]+,[M-H]-
+2-Acyl-sn-glycero-3-phosphoglycerol (N-C14:1),C20H38O9P,0,[M+H]+,[M-H]-
+2-Acyl-sn-glycero-3-phosphoglycerol (N-C16:0),C22H44O9P,0,[M+H]+,[M-H]-
+2-Acyl-sn-glycero-3-phosphoglycerol (N-C16:1),C22H42O9P,0,[M+H]+,[M-H]-
+2-Acyl-sn-glycero-3-phosphoglycerol (N-C18:0),C24H48O9P,0,[M+H]+,[M-H]-
+2-Acyl-sn-glycero-3-phosphoglycerol (N-C18:1),C24H46O9P,0,[M+H]+,[M-H]-
+2-Aminomalonate semialdehyde,C3H5NO3,0,[M+H]+,[M-H]-
+2-Demethylmenaquinol 8,C50H72O2,0,[M+H]+,[M-H]-
+2-Demethylmenaquinone 8,C50H70O2,0,[M+H]+,[M-H]-
+2-dodecanoyl-sn-glycerol 3-phosphate,C15H31O7P,0,[M+H]+,[M-H]-
+2-hexadec-9-enoyl-sn-glycerol 3-phosphate,C19H37O7P,0,[M+H]+,[M-H]-
+2-hexadecanoyl-sn-glycerol 3-phosphate,C19H39O7P,0,[M+H]+,[M-H]-
+2-octadec-11-enoyl-sn-glycerol 3-phosphate,C21H41O7P,0,[M+H]+,[M-H]-
+2-octadecanoyl-sn-glycerol 3-phosphate,C21H43O7P,0,[M+H]+,[M-H]-
+2-tetradec-7-enoyl-sn-glycerol 3-phosphate,C17H33O7P,0,[M+H]+,[M-H]-
+2-tetradecanoyl-sn-glycerol 3-phosphate,C17H35O7P,0,[M+H]+,[M-H]-
+5'-Deoxyadenosine,C10H13N5O3,0,[M+H]+,[M-H]-
+"5,10-Methenyltetrahydrofolate",C20H22N7O6,0,[M+H]+,[M-H]-
+5-Amino-6-(5'-phosphoribitylamino)uracil,C9H17N4O9P,0,[M+H]+,[M-H]-
+5-Phosphoribosyl-5-carboxyaminoimidazole,C9H11N3O9P,0,[M+H]+,[M-H]-
+"6-Carboxy-5,6,7,8-tetrahydropterin",C7H9N5O3,0,[M+H]+,[M-H]-
+6-Hydroxymethyl dihydropterin,C7H9N5O2,0,[M+H]+,[M-H]-
+6-Hydroxymethyl-dihydropterin pyrophosphate,C7H8N5O8P2,0,[M+H]+,[M-H]-
+Ammonium,H4N,0,[M+H]+,[M-H]-
+"D-Glycero-D-manno-heptose 1,7-bisphosphate",C7H16O13P2,0,[M+H]+,[M-H]-
+D-Glycero-D-manno-heptose 1-phosphate,C7H13O10P,0,[M+H]+,[M-H]-
+D-Glycero-D-manno-heptose 7-phosphate,C7H15O10P,0,[M+H]+,[M-H]-
+Decanoate (N-C10:0),C10H19O2,0,[M+H]+,[M-H]-
+Dihydroneopterin monophosphate,C9H12N5O7P,0,[M+H]+,[M-H]-
+Dodecanoate (N-C12:0),C12H23O2,0,[M+H]+,[M-H]-
+Dodecanoly-phosphate (n-C12:0),C12H23O5P,0,[M+H]+,[M-H]-
+Fe(III)dicitrate,C12H28FeO14,0,[M+H]+,[M-H]-
+Glutathione disulfide,C20H32N6O12S2,0,[M+H]+,[M-H]-
+Glycerol 2-phosphate,C3H9O6P,0,[M+H]+,[M-H]-
+Glycerophosphoglycerol,C6H14O8P,0,[M+H]+,[M-H]-
+Hydrogen ion,H,0,[M+H]+,[M-H]-
+Hexadecanoyl-phosphate (n-C16:0),C16H31O5P,0,[M+H]+,[M-H]-
+Hexanoate (N-C6:0),C6H11O2,0,[M+H]+,[M-H]-
+Hydrogen cyanide,CHN,0,[M+H]+,[M-H]-
+Hydrogen peroxide,H2O2,0,[M+H]+,[M-H]-
+Isethionic acid,C2H6O4S,0,[M+H]+,[M-H]-
+L-Prolinylglycine,C7H12N2O3,0,[M+H]+,[M-H]-
+L-Threonine O-3-phosphate,C4H10NO6P,0,[M+H]+,[M-H]-
+"L-Alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine",C18H31N5O9,0,[M+H]+,[M-H]-
+"L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate",C18H31N5O9,0,[M+H]+,[M-H]-
+Maltohexaose,C36H62O31,0,[M+H]+,[M-H]-
+Maltopentaose,C27H48O26,0,[M+H]+,[M-H]-
+Menaquinol 8,C51H74O2,0,[M+H]+,[M-H]-
+Molybdate,H2MoO4,0,[M+H]+,[M-H]-
+N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid,C19H30N2O12,0,[M+H]+,[M-H]-
+Nitrous oxide,N2O,0,[M+H]+,[M-H]-
+Octadecanoyl-phosphate (n-C18:0),C18H35O5P,0,[M+H]+,[M-H]-
+Octadecanoyl-phosphate (n-C18:1),C18H33O5P,0,[M+H]+,[M-H]-
+PG(12:0/12:0),C30H59O10P,0,[M+H]+,[M-H]-
+PG(14:1(7Z)/14:1(7Z)),C34H63O10P,0,[M+H]+,[M-H]-
+PG(18:0/18:0),C42H83O10P,0,[M+H]+,[M-H]-
+PGP(12:0/12:0),C30H60O13P2,0,[M+H]+,[M-H]-
+PGP(14:0/14:0),C34H68O13P2,0,[M+H]+,[M-H]-
+PGP(14:1(7Z)/14:1(7Z)),C34H64O13P2,0,[M+H]+,[M-H]-
+PGP(16:0/16:0),C38H76O13P2,0,[M+H]+,[M-H]-
+PGP(16:1(9Z)/16:1(9Z)),C38H72O13P2,0,[M+H]+,[M-H]-
+PGP(18:0/18:0),C42H84O13P2,0,[M+H]+,[M-H]-
+Phosphotyrosine,C9H12NO6P,0,[M+H]+,[M-H]-
+Propanal,C3H6O,0,[M+H]+,[M-H]-
+Reduced riboflavin,C15H16N4O6,0,[M+H]+,[M-H]-
+S-Adenosyl-4-methylthio-2-oxobutanoate,C15H20N5O6S,0,[M+H]+,[M-H]-
+Selenodiglutathione,C20H32N6O12S2Se,0,[M+H]+,[M-H]-
+Superoxide anion,O2,0,[M+H]+,[M-H]-
+Tetradecanoyl-phosphate (n-C14:0),C14H27O5P,0,[M+H]+,[M-H]-
+Tetrahydromonapterin,C9H15N5O4,0,[M+H]+,[M-H]-
+Thiocyanate,CNS,0,[M+H]+,[M-H]-
+UDP-4-Keto-pyranose,C14H18N2O16P2,0,[M+H]+,[M-H]-
+Acyl phosphatidylglycerol (N-C16:1),C54H98O11P,0,[M+H]+,[M-H]-
+Arsenite,H3AsO3,0,[M+H]+,[M-H]-
+Butanesulfonate,C4H9O3S,0,[M+H]+,[M-H]-
+Crotonobetaine,C7H13NO2,0,[M+H]+,[M-H]-
+dADP,C10H15N5O9P2,0,[M+H]+,[M-H]-
+dTDP-4-Dehydro-6-deoxy-L-mannose,C16H24N2O15P2,0,[M+H]+,[M-H]-
+Dehydroglycine,C2H2NO2,0,[M+H]+,[M-H]-
+"ferric 2,3-dihydroxybenzoylserine",C10H11FeNO6,0,[M+H]+,[M-H]-
+gamma-Glutamyl-gamma-butyraldehyde,C9H16N2O4,0,[M+H]+,[M-H]-
+Glycogen,C24H42O21,0,[M+H]+,[M-H]-
+Methanesulfonate,CH3O3S,0,[M+H]+,[M-H]-
+Octadecanoate (N-C18:0),C18H35O2,0,[M+H]+,[M-H]-
+Octadecenoate (N-C18:1),C18H33O2,0,[M+H]+,[M-H]-
+p-Cresol,C7H8O,0,[M+H]+,[M-H]-
+Selenite,O3Se,0,[M+H]+,[M-H]-
+Sn-Glycero-3-phospho-1-inositol,C9H19O11P,0,[M+H]+,[M-H]-
+Sulfoacetate,C2H4O5S,0,[M+H]+,[M-H]-
+tetradecanoate (n-C14:0),C14H27O2,0,[M+H]+,[M-H]-
+Tetradecenoate (N-C14:1),C14H25O2,0,[M+H]+,[M-H]-
+Uridine 5''-diphospho-{beta}-4-deoxy-4-amino-L-arabinose,C14H22N3O15P2,0,[M+H]+,[M-H]-
+Uridine 5''-diphospho-{beta}-4-deoxy-4-formamido-L-arabinose,C15H21N3O16P2,0,[M+H]+,[M-H]-
+Ferric enterobactin,C30H33FeN3O15,0,[M+H]+,[M-H]-
+L-Idonate,C6H12O7,0,[M+H]+,[M-H]-
+Inorganic phosphate,H3O4P,0,[M+H]+,[M-H]-
+Deoxycholic acid,C24H40O4,0,[M+H]+,[M-H]-
+Molybdenum,Mo,0,[M+H]+,[M-H]-
+Nickel,Ni,0,[M+H]+,[M-H]-
+Lithium,Li,0,[M+H]+,[M-H]-
+Arsenate,H3AsO4,0,[M+H]+,[M-H]-
+Fe3+,Fe,0,[M+H]+,[M-H]-
+Citraconic acid,C5H6O4,0,[M+H]+,[M-H]-
+2-Phosphoglyceric acid,C3H7O7P,0,[M+H]+,[M-H]-
+Cholic acid,C24H40O5,0,[M+H]+,[M-H]-
+Glutaric acid,C5H8O4,0,[M+H]+,[M-H]-
+Myristic acid,C14H28O2,0,[M+H]+,[M-H]-
+Stearic acid,C18H36O2,0,[M+H]+,[M-H]-
+N-Acetylglutamic acid,C7H11NO5,0,[M+H]+,[M-H]-
+Adenosine tetraphosphate,C10H17N5O16P4,0,[M+H]+,[M-H]-
+Mannitol 1-phosphate,C6H15O9P,0,[M+H]+,[M-H]-
+Ubiquinone-1,C19H28O4,0,[M+H]+,[M-H]-
+Palmitoleic acid,C16H30O2,0,[M+H]+,[M-H]-
+Ubiquinol-6,C39H60O4,0,[M+H]+,[M-H]-
+Pyrroloquinoline quinone,C14H6N2O8,0,[M+H]+,[M-H]-
+"1,2-Dioctadecanoyl-sn-glycerol",C39H76O5,0,[M+H]+,[M-H]-
+1-(2-Carboxyphenylamino)-1'-deoxyribulose-5'-phosphate,C12H13NO9P,0,[M+H]+,[M-H]-
+1-Hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate,C5H9O8P2,0,[M+H]+,[M-H]-
+"2,3-Dihydroxyisovaleric acid",C5H10O4,0,[M+H]+,[M-H]-
+"2-Amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine",C7H9N5O2,0,[M+H]+,[M-H]-
+3-Hydroxymyristic acid,C14H28O3,0,[M+H]+,[M-H]-
+4-Amino-4-deoxy-L-arabinose,C14H23N3O15P2,0,[M+H]+,[M-H]-
+Margaric acid,C17H34O2,0,[M+H]+,[M-H]-
+D-Threonine,C4H9NO3,0,[M+H]+,[M-H]-
+Demethylmenaquinone-7,C45H62O2,0,[M+H]+,[M-H]-
+Deoxycytidine 5'-phosphate,C9H13ClIN,0,[M+H]+,[M-H]-
+Deoxycytidine 5'-triphosphate,C9H16N3O13P3,0,[M+H]+,[M-H]-
+Heptadecenoic acid,C17H32O2,0,[M+H]+,[M-H]-
+L-Histidinal,C6H10N3O,0,[M+H]+,[M-H]-
+Menaquinol 6,C41H58O2,0,[M+H]+,[M-H]-
+N-Acetylglucosamine,C8H15NO6,0,[M+H]+,[M-H]-
+Thioglycolate,C2H4O2S,0,[M+H]+,[M-H]-
+Ubiquinol-1,C14H20O4,0,[M+H]+,[M-H]-
+Ubiquinol-3,C24H36O4,0,[M+H]+,[M-H]-
+Ubiquinol-4,C29H44O4,0,[M+H]+,[M-H]-
+Ubiquinol-5,C34H52O4,0,[M+H]+,[M-H]-
+Ubiquinone-2,C19H26O4,0,[M+H]+,[M-H]-
+Ubiquinone-3,C24H34O4,0,[M+H]+,[M-H]-
+PE(10:0/10:0),C25H50NO8P,0,[M+H]+,[M-H]-
+PE(10:0/12:0),C27H54NO8P,0,[M+H]+,[M-H]-
+PE(10:0/14:0),C29H58NO8P,0,[M+H]+,[M-H]-
+PE(10:0/15:0),C30H60NO8P,0,[M+H]+,[M-H]-
+PE(10:0/16:0),C31H62NO8P,0,[M+H]+,[M-H]-
+PE(10:0/16:1(9Z)),C31H60NO8P,0,[M+H]+,[M-H]-
+PE(10:0/17:0cycw7c),C32H62NO8P,0,[M+H]+,[M-H]-
+PE(10:0/18:0),C33H66NO8P,0,[M+H]+,[M-H]-
+PE(10:0/18:1(11Z)),C33H64NO8P,0,[M+H]+,[M-H]-
+PE(10:0/19:1(12Z)),C34H66NO8P,0,[M+H]+,[M-H]-
+PE(10:0/19:0cycw8c),C34H66NO8P,0,[M+H]+,[M-H]-
+PE(12:0/10:0),C27H54NO8P,0,[M+H]+,[M-H]-
+PE(12:0/12:0),C29H58NO8P,0,[M+H]+,[M-H]-
+PE(12:0/14:0),C31H62NO8P,0,[M+H]+,[M-H]-
+PE(12:0/15:0),C32H64NO8P,0,[M+H]+,[M-H]-
+PE(12:0/16:0),C33H66NO8P,0,[M+H]+,[M-H]-
+PE(12:0/16:1(9Z)),C33H64NO8P,0,[M+H]+,[M-H]-
+PE(12:0/17:0cycw7c),C34H66NO8P,0,[M+H]+,[M-H]-
+PE(12:0/18:0),C35H70NO8P,0,[M+H]+,[M-H]-
+PE(12:0/18:1(11Z)),C35H68NO8P,0,[M+H]+,[M-H]-
+PE(12:0/19:1(12Z)),C36H70NO8P,0,[M+H]+,[M-H]-
+PE(12:0/19:0cycw8c),C36H70NO8P,0,[M+H]+,[M-H]-
+PE(14:0/10:0),C29H58NO8P,0,[M+H]+,[M-H]-
+PE(14:0/12:0),C31H62NO8P,0,[M+H]+,[M-H]-
+PE(14:0/17:0cycw7c),C36H70NO8P,0,[M+H]+,[M-H]-
+PE(15:0/10:0),C30H60NO8P,0,[M+H]+,[M-H]-
+PE(15:0/12:0),C32H64NO8P,0,[M+H]+,[M-H]-
+PE(15:0/17:0cycw7c),C37H72NO8P,0,[M+H]+,[M-H]-
+PE(16:0/10:0),C31H62NO8P,0,[M+H]+,[M-H]-
+PE(16:0/12:0),C33H66NO8P,0,[M+H]+,[M-H]-
+PE(16:0/17:0cycw7c),C38H74NO8P,0,[M+H]+,[M-H]-
+PE(16:0/19:0cycw8c),C40H78NO8P,0,[M+H]+,[M-H]-
+PE(16:1(9Z)/10:0),C31H60NO8P,0,[M+H]+,[M-H]-
+PE(16:1(9Z)/12:0),C33H64NO8P,0,[M+H]+,[M-H]-
+PE(17:0cycw7c/10:0),C32H62NO8P,0,[M+H]+,[M-H]-
+PE(17:0cycw7c/12:0),C34H66NO8P,0,[M+H]+,[M-H]-
+PE(18:0/10:0),C33H66NO8P,0,[M+H]+,[M-H]-
+PE(18:0/12:0),C35H70NO8P,0,[M+H]+,[M-H]-
+PE(18:0/17:0cycw7c),C40H78NO8P,0,[M+H]+,[M-H]-
+PE(18:1(11Z)/10:0),C33H64NO8P,0,[M+H]+,[M-H]-
+PE(18:1(11Z)/12:0),C35H68NO8P,0,[M+H]+,[M-H]-
+PE(19:1(12Z)/10:0),C34H66NO8P,0,[M+H]+,[M-H]-
+PE(19:1(12Z)/12:0),C36H70NO8P,0,[M+H]+,[M-H]-
+PE(19:0cycw8c/10:0),C34H66NO8P,0,[M+H]+,[M-H]-
+PE(19:0cycw8c/12:0),C36H70NO8P,0,[M+H]+,[M-H]-
+PE(17:0cycw7c/17:0cycw7c),C39H74NO8P,0,[M+H]+,[M-H]-
+PE(19:0cycw8c/17:0cycw7c),C41H78NO8P,0,[M+H]+,[M-H]-
+PG(14:0/17:0cycw7c),C37H71O10P,0,[M+H]+,[M-H]-
+PG(15:0/16:1),C37H71O10P,0,[M+H]+,[M-H]-
+PG(15:0/17:0cycw7c),C38H73O10P,0,[M+H]+,[M-H]-
+PG(16:0/17:0cycw7c),C39H75O10P,0,[M+H]+,[M-H]-
+PG(16:0/19:0cycw8c),C41H79O10P,0,[M+H]+,[M-H]-
+2-Dehydro-3-deoxy-L-rhamnonate,C6H10O5,0,[M+H]+,[M-H]-
+3-Phospho-D-glycerate,C3H7O7P,0,[M+H]+,[M-H]-
+Aldehyde,C20H30O5,0,[M+H]+,[M-H]-
+Dextrin,C18H32O16,0,[M+H]+,[M-H]-
+Phosphatidylglycerophosphate,C8H16O13P2,0,[M+H]+,[M-H]-
+Retinal,C20H28O,0,[M+H]+,[M-H]-
+Retinol,C20H30O,0,[M+H]+,[M-H]-
+Tetrahydrofolyl-[Glu](2),C24H30N8O9,0,[M+H]+,[M-H]-
+alpha-D-Glucosamine 1-phosphate,C6H14NO8P,0,[M+H]+,[M-H]-
+beta-D-Fructose 2-phosphate,C6H13O9P,0,[M+H]+,[M-H]-
+"Meso-2,6-Diaminoheptanedioate",C7H14N2O4,0,[M+H]+,[M-H]-
+DG(12:0/16:0/0:0),C31H60O5,0,[M+H]+,[M-H]-
+DG(12:0/16:1(9Z)/0:0),C31H58O5,0,[M+H]+,[M-H]-
+DG(12:0/18:0/0:0),C33H64O5,0,[M+H]+,[M-H]-
+PE(14:0/12:0(3-OH)),C31H62NO9P,0,[M+H]+,[M-H]-
+PE(14:0/14:0(3-OH)),C33H66NO9P,0,[M+H]+,[M-H]-
+PE(14:0/19:iso),C38H76NO8P,0,[M+H]+,[M-H]-
+PE(15:0/10:0(3-OH)),C30H60NO9P,0,[M+H]+,[M-H]-
+PE(16:1(9Z)/12:0(3-OH)),C33H64NO9P,0,[M+H]+,[M-H]-
+PE(16:1(9Z)/14:0(3-OH)),C35H68NO9P,0,[M+H]+,[M-H]-
+PE(16:1(9Z)/19:iso),C40H78NO8P,0,[M+H]+,[M-H]-
+PE(17:0cycw7c/10:0(3-OH)),C32H62NO9P,0,[M+H]+,[M-H]-
+PG(10:0(3-OH)/16:0),C32H63O11P,0,[M+H]+,[M-H]-
+PG(10:0(3-OH)/16:1(9Z)),C32H61O11P,0,[M+H]+,[M-H]-
+PG(10:0(3-OH)/17:0cycw7c),C33H63O11P,0,[M+H]+,[M-H]-
+PG(10:0(3-OH)/18:1(9Z)),C34H65O11P,0,[M+H]+,[M-H]-
+PG(10:0(3-OH)/19:0cycv8c),C35H67O11P,0,[M+H]+,[M-H]-
+PG(10:0(3-OH)/19:iso),C35H69O11P,0,[M+H]+,[M-H]-
+PG(10:0/10:0(3-OH)),C26H51O11P,0,[M+H]+,[M-H]-
+PG(10:0/12:0(3-OH)),C28H55O11P,0,[M+H]+,[M-H]-
+Selenate,H2O4Se,0,[M+H]+,[M-H]-
+L-Alanyl-tRNA,C6H14O12P2,0,[M+H]+,[M-H]-
+L-Threonylcarbamoyladenylate,C15H21N6O11P,0,[M+H]+,[M-H]-
+superoxide,HO2,0,[M+H]+,[M-H]-
+Cu(+),Cu,0,[M+H]+,[M-H]-
+5-amino-6-(D-ribitylamino)uracil,C9H16N4O6,0,[M+H]+,[M-H]-
+5-carboxyamino-1-(5-phospho-D-ribosyl)imidazole,C9H14N3O9P,0,[M+H]+,[M-H]-
+2-(Formamido)-N(1)-(5-phospho-D-ribosyl)acetamidine,C8H16N3O8P,0,[M+H]+,[M-H]-
+D-glycero-beta-D-manno-heptose 7-phosphate,C7H15O10P,0,[M+H]+,[M-H]-
+5'-Phospho-ribosylglycinamide,C7H15N2O8P,0,[M+H]+,[M-H]-
+N-Acetyl-L-methionine,C7H13NO3S,0,[M+H]+,[M-H]-
+"(2S,3S)-2-hydroxybutane-1,2,3-tricarboxylate",C7H10O7,0,[M+H]+,[M-H]-
+"(2R,3S)-2-Hydroxybutane-1,2,3-tricarboxylate",C7H10O7,0,[M+H]+,[M-H]-
+"2-((2R,5Z)-2-Carboxy-4-methylthiazol-5(2H)-ylidene)ethyl phosphate",C7H7NO6PS,0,[M+H]+,[M-H]-
+Quinone,C6H4O2,0,[M+H]+,[M-H]-
+Alpha-D-glucose 6-phosphate,C6H13O9P,0,[M+H]+,[M-H]-
+S-Carboxymethyl-L-cysteine,C5H9NO4S,0,[M+H]+,[M-H]-
+(S)-1-pyrroline-5-carboxylate,C5H7NO2,0,[M+H]+,[M-H]-
+"2-C-Methyl-D-erythritol 2,4-cyclodiphosphate",C5H12O9P2,0,[M+H]+,[M-H]-
+L-methionine (S)-S-oxide,C5H11NO3S,0,[M+H]+,[M-H]-
+1-Deoxy-L-glycero-tetrulose 4-phosphate,C4H9O6P,0,[M+H]+,[M-H]-
+2-Methyl-3-oxopropanoate,C4H6O3,0,[M+H]+,[M-H]-
+Ferrocytochrome c,C5H12,0,[M+H]+,[M-H]-
+Geranyl diphosphate,C40H68O7P2,0,[M+H]+,[M-H]-
+3-phospho-D-glyceroyl phosphate,C3H8O10P2,0,[M+H]+,[M-H]-
+2-iminoacetate,C2H3NO2,0,[M+H]+,[M-H]-
+"3-Alpha,7-alpha,12-alpha-trihydroxy-5-beta-cholanate",C24H40O5,0,[M+H]+,[M-H]-
+epoxyqueuosine,C17H23N5O8,0,[M+H]+,[M-H]-
+FMNH(2),C17H21N4O9P,0,[M+H]+,[M-H]-
+1-(5-phosphoribosyl)-5-((5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide,C15H21N5O15P2,0,[M+H]+,[M-H]-
+UDP-4-Deoxy-4-formamido-beta-L-arabinose,C15H23N3O16P2,0,[M+H]+,[M-H]-
+UDP-beta-L-Threo-pentapyranos-4-ulose,C14H20N2O16P2,0,[M+H]+,[M-H]-
+7-Aminomethyl-7-deazaguanosine,C12H17N5O5,0,[M+H]+,[M-H]-
+pantotheine 4'-phosphate,C11H23N2O7PS,0,[M+H]+,[M-H]-
+NMN,C11H16N2O8P,0,[M+H]+,[M-H]-
+8-oxo-dGTP,C10H16N5O14P3,0,[M+H]+,[M-H]-
+8-oxo-dGMP,C10H14N5O8P,0,[M+H]+,[M-H]-
+"2,3-bis((3R)-3-hydroxymyristoyl)-beta-D-glucosaminyl 1-phosphate",C34H66NO12P,0,[M+H]+,[M-H]-
+DG(10:0/10:0/0:0),C23H44O5,0,[M+H]+,[M-H]-
+DG(10:0/12:0/0:0),C25H48O5,0,[M+H]+,[M-H]-
+DG(10:0/14:0/0:0),C27H52O5,0,[M+H]+,[M-H]-
+DG(10:0/15:0/0:0),C28H54O5,0,[M+H]+,[M-H]-
+DG(10:0/16:0/0:0),C29H56O5,0,[M+H]+,[M-H]-
+DG(10:0/16:1(9Z)/0:0),C29H54O5,0,[M+H]+,[M-H]-
+DG(10:0/18:0/0:0),C31H60O5,0,[M+H]+,[M-H]-
+DG(10:0/18:1(9Z)/0:0),C31H58O5,0,[M+H]+,[M-H]-
+DG(10:0/19:1(9Z)/0:0),C32H60O5,0,[M+H]+,[M-H]-
+DG(12:0/10:0/0:0),C25H48O5,0,[M+H]+,[M-H]-
+DG(12:0/12:0/0:0),C27H52O5,0,[M+H]+,[M-H]-
+DG(12:0/14:0/0:0),C29H56O5,0,[M+H]+,[M-H]-
+DG(12:0/15:0/0:0),C30H58O5,0,[M+H]+,[M-H]-
+DG(12:0/18:1(9Z)/0:0),C33H62O5,0,[M+H]+,[M-H]-
+DG(12:0/19:1(9Z)/0:0),C34H64O5,0,[M+H]+,[M-H]-
+DG(14:0/10:0/0:0),C27H52O5,0,[M+H]+,[M-H]-
+DG(14:0/12:0/0:0),C29H56O5,0,[M+H]+,[M-H]-
+DG(14:0/14:0/0:0),C31H60O5,0,[M+H]+,[M-H]-
+DG(14:0/15:0/0:0),C32H62O5,0,[M+H]+,[M-H]-
+DG(14:0/16:0/0:0),C33H64O5,0,[M+H]+,[M-H]-
+DG(14:0/16:1(9Z)/0:0),C33H62O5,0,[M+H]+,[M-H]-
+DG(14:0/18:0/0:0),C35H68O5,0,[M+H]+,[M-H]-
+DG(14:0/18:1(9Z)/0:0),C35H66O5,0,[M+H]+,[M-H]-
+DG(14:0/19:1(9Z)/0:0),C36H68O5,0,[M+H]+,[M-H]-
+DG(15:0/10:0/0:0),C28H54O5,0,[M+H]+,[M-H]-
+DG(15:0/12:0/0:0),C30H58O5,0,[M+H]+,[M-H]-
+DG(15:0/14:0/0:0),C32H62O5,0,[M+H]+,[M-H]-
+DG(15:0/15:0/0:0),C33H64O5,0,[M+H]+,[M-H]-
+DG(15:0/16:0/0:0),C34H66O5,0,[M+H]+,[M-H]-
+DG(15:0/16:1(9Z)/0:0),C34H64O5,0,[M+H]+,[M-H]-
+DG(15:0/18:0/0:0),C36H70O5,0,[M+H]+,[M-H]-
+DG(15:0/18:1(9Z)/0:0),C36H68O5,0,[M+H]+,[M-H]-
+DG(15:0/19:1(9Z)/0:0),C37H70O5,0,[M+H]+,[M-H]-
+DG(16:0/10:0/0:0),C29H56O5,0,[M+H]+,[M-H]-
+DG(16:0/12:0/0:0),C31H60O5,0,[M+H]+,[M-H]-
+DG(16:0/14:0/0:0),C33H64O5,0,[M+H]+,[M-H]-
+DG(16:0/15:0/0:0),C34H66O5,0,[M+H]+,[M-H]-
+DG(16:0/16:0/0:0),C35H68O5,0,[M+H]+,[M-H]-
+DG(16:0/16:1(9Z)/0:0),C35H66O5,0,[M+H]+,[M-H]-
+DG(16:0/18:0/0:0),C37H72O5,0,[M+H]+,[M-H]-
+DG(16:0/18:1(9Z)/0:0),C37H70O5,0,[M+H]+,[M-H]-
+DG(16:0/19:1(9Z)/0:0),C38H72O5,0,[M+H]+,[M-H]-
+DG(16:1(9Z)/10:0/0:0),C29H54O5,0,[M+H]+,[M-H]-
+DG(16:1(9Z)/12:0/0:0),C31H58O5,0,[M+H]+,[M-H]-
+DG(16:1(9Z)/14:0/0:0),C33H62O5,0,[M+H]+,[M-H]-
+DG(16:1(9Z)/15:0/0:0),C34H64O5,0,[M+H]+,[M-H]-
+DG(16:1(9Z)/16:0/0:0),C35H66O5,0,[M+H]+,[M-H]-
+DG(16:1(9Z)/16:1(9Z)/0:0),C35H64O5,0,[M+H]+,[M-H]-
+DG(16:1(9Z)/18:0/0:0),C37H70O5,0,[M+H]+,[M-H]-
+DG(16:1(9Z)/18:1(9Z)/0:0),C37H68O5,0,[M+H]+,[M-H]-
+DG(16:1(9Z)/19:1(9Z)/0:0),C38H70O5,0,[M+H]+,[M-H]-
+DG(18:0/10:0/0:0),C31H60O5,0,[M+H]+,[M-H]-
+DG(18:0/14:0/0:0),C35H68O5,0,[M+H]+,[M-H]-
+DG(18:0/15:0/0:0),C36H70O5,0,[M+H]+,[M-H]-
+DG(18:0/16:0/0:0),C37H72O5,0,[M+H]+,[M-H]-
+DG(18:0/16:1(9Z)/0:0),C37H70O5,0,[M+H]+,[M-H]-
+DG(18:0/18:0/0:0),C39H76O5,0,[M+H]+,[M-H]-
+DG(18:0/18:1(9Z)/0:0),C39H74O5,0,[M+H]+,[M-H]-
+DG(18:0/19:1(9Z)/0:0),C40H76O5,0,[M+H]+,[M-H]-
+DG(18:1(9Z)/10:0/0:0),C31H58O5,0,[M+H]+,[M-H]-
+DG(18:1(9Z)/12:0/0:0),C33H62O5,0,[M+H]+,[M-H]-
+DG(18:1(9Z)/14:0/0:0),C35H66O5,0,[M+H]+,[M-H]-
+DG(18:1(9Z)/15:0/0:0),C36H68O5,0,[M+H]+,[M-H]-
+DG(18:1(9Z)/16:0/0:0),C37H70O5,0,[M+H]+,[M-H]-
+DG(18:1(9Z)/16:1(9Z)/0:0),C37H68O5,0,[M+H]+,[M-H]-
+DG(18:1(9Z)/18:0/0:0),C39H74O5,0,[M+H]+,[M-H]-
+DG(18:1(9Z)/18:1(9Z)/0:0),C39H72O5,0,[M+H]+,[M-H]-
+DG(18:1(9Z)/19:1(9Z)/0:0),C40H74O5,0,[M+H]+,[M-H]-
+DG(19:1(9Z)/10:0/0:0),C32H60O5,0,[M+H]+,[M-H]-
+DG(19:1(9Z)/12:0/0:0),C34H64O5,0,[M+H]+,[M-H]-
+DG(19:1(9Z)/14:0/0:0),C36H68O5,0,[M+H]+,[M-H]-
+DG(19:1(9Z)/15:0/0:0),C37H70O5,0,[M+H]+,[M-H]-
+DG(19:1(9Z)/16:0/0:0),C38H72O5,0,[M+H]+,[M-H]-
+DG(19:1(9Z)/16:1(9Z)/0:0),C38H70O5,0,[M+H]+,[M-H]-
+DG(19:1(9Z)/18:0/0:0),C40H76O5,0,[M+H]+,[M-H]-
+DG(19:1(9Z)/18:1(9Z)/0:0),C40H74O5,0,[M+H]+,[M-H]-
+DG(19:1(9Z)/19:1(9Z)/0:0),C41H76O5,0,[M+H]+,[M-H]-
+CDP-DG(10:0/10:0),C32H57N3O15P2,0,[M+H]+,[M-H]-
+"6-Methoxy-3-methyl-2-all-trans-octaprenyl-1,4-benzoquinol",C46H70O3,0,[M+H]+,[M-H]-
+2-methoxy-6-(all-trans-octaprenyl)phenol,C40H58O2,0,[M+H]+,[M-H]-
+PE(10:0(3-OH)/10:0),C25H50NO9P,0,[M+H]+,[M-H]-
+PE(10:0(3-OH)/10:0(3-OH)),C25H50NO10P,0,[M+H]+,[M-H]-
+PE(10:0(3-OH)/12:0),C27H54NO9P,0,[M+H]+,[M-H]-
+PE(10:0(3-OH)/12:0(3-OH)),C27H54NO10P,0,[M+H]+,[M-H]-
+PE(10:0(3-OH)/14:0),C29H58NO9P,0,[M+H]+,[M-H]-
+PE(10:0(3-OH)/14:0(3-OH)),C29H58NO10P,0,[M+H]+,[M-H]-
+PE(10:0(3-OH)/15:0),C30H60NO9P,0,[M+H]+,[M-H]-
+PE(10:0(3-OH)/15:0cyclo),C30H58NO9P,0,[M+H]+,[M-H]-
+PE(10:0(3-OH)/16:0),C31H62NO9P,0,[M+H]+,[M-H]-
+PE(10:0(3-OH)/16:1(9Z)),C31H60NO9P,0,[M+H]+,[M-H]-
+PE(10:0(3-OH)/17:0cycw7c),C32H62NO9P,0,[M+H]+,[M-H]-
+PE(10:0(3-OH)/18:1(9Z)),C33H64NO9P,0,[M+H]+,[M-H]-
+PE(10:0(3-OH)/19:0cycv8c),C34H66NO9P,0,[M+H]+,[M-H]-
+PE(10:0(3-OH)/19:iso),C34H68NO9P,0,[M+H]+,[M-H]-
+PE(10:0/10:0(3-OH)),C25H50NO9P,0,[M+H]+,[M-H]-
+PE(10:0/12:0(3-OH)),C27H54NO9P,0,[M+H]+,[M-H]-
+PE(10:0/14:0(3-OH)),C29H58NO9P,0,[M+H]+,[M-H]-
+PE(10:0/19:iso),C34H68NO8P,0,[M+H]+,[M-H]-
+PE(12:0(3-OH)/10:0),C27H54NO9P,0,[M+H]+,[M-H]-
+PE(12:0(3-OH)/10:0(3-OH)),C27H54NO10P,0,[M+H]+,[M-H]-
+PE(12:0(3-OH)/12:0),C29H58NO9P,0,[M+H]+,[M-H]-
+PE(12:0(3-OH)/12:0(3-OH)),C29H58NO10P,0,[M+H]+,[M-H]-
+PE(12:0(3-OH)/14:0),C31H62NO9P,0,[M+H]+,[M-H]-
+PE(12:0(3-OH)/14:0(3-OH)),C31H62NO10P,0,[M+H]+,[M-H]-
+PE(12:0(3-OH)/15:0),C32H64NO9P,0,[M+H]+,[M-H]-
+PE(12:0(3-OH)/15:0cyclo),C32H62NO9P,0,[M+H]+,[M-H]-
+PE(12:0(3-OH)/16:0),C33H66NO9P,0,[M+H]+,[M-H]-
+PE(12:0(3-OH)/16:1(9Z)),C33H64NO9P,0,[M+H]+,[M-H]-
+PE(12:0(3-OH)/17:0cycw7c),C34H66NO9P,0,[M+H]+,[M-H]-
+PE(12:0(3-OH)/18:1(9Z)),C35H68NO9P,0,[M+H]+,[M-H]-
+PE(12:0(3-OH)/19:0cycv8c),C36H70NO9P,0,[M+H]+,[M-H]-
+PE(12:0(3-OH)/19:iso),C36H72NO9P,0,[M+H]+,[M-H]-
+PE(12:0/10:0(3-OH)),C27H54NO9P,0,[M+H]+,[M-H]-
+PE(12:0/12:0(3-OH)),C29H58NO9P,0,[M+H]+,[M-H]-
+PE(12:0/14:0(3-OH)),C31H62NO9P,0,[M+H]+,[M-H]-
+PE(12:0/19:iso),C36H72NO8P,0,[M+H]+,[M-H]-
+PE(14:0(3-OH)/10:0),C29H58NO9P,0,[M+H]+,[M-H]-
+PE(14:0(3-OH)/10:0(3-OH)),C29H58NO10P,0,[M+H]+,[M-H]-
+PE(14:0(3-OH)/12:0),C31H62NO9P,0,[M+H]+,[M-H]-
+PE(14:0(3-OH)/12:0(3-OH)),C31H62NO10P,0,[M+H]+,[M-H]-
+PE(14:0(3-OH)/14:0),C33H66NO9P,0,[M+H]+,[M-H]-
+PE(14:0(3-OH)/14:0(3-OH)),C33H66NO10P,0,[M+H]+,[M-H]-
+PE(14:0(3-OH)/15:0),C34H68NO9P,0,[M+H]+,[M-H]-
+PE(14:0(3-OH)/15:0cyclo),C34H66NO9P,0,[M+H]+,[M-H]-
+PE(14:0(3-OH)/16:0),C35H70NO9P,0,[M+H]+,[M-H]-
+PE(14:0(3-OH)/16:1(9Z)),C35H68NO9P,0,[M+H]+,[M-H]-
+PE(14:0(3-OH)/17:0cycw7c),C36H70NO9P,0,[M+H]+,[M-H]-
+PE(14:0(3-OH)/18:1(9Z)),C37H72NO9P,0,[M+H]+,[M-H]-
+PE(14:0(3-OH)/19:0cycv8c),C38H74NO9P,0,[M+H]+,[M-H]-
+PE(14:0(3-OH)/19:iso),C38H76NO9P,0,[M+H]+,[M-H]-
+PE(14:0/10:0(3-OH)),C29H58NO9P,0,[M+H]+,[M-H]-
+PE(15:0/12:0(3-OH)),C32H64NO9P,0,[M+H]+,[M-H]-
+PE(15:0/14:0(3-OH)),C34H68NO9P,0,[M+H]+,[M-H]-
+PE(15:0/19:iso),C39H78NO8P,0,[M+H]+,[M-H]-
+PE(15:0cyclo/10:0(3-OH)),C30H58NO9P,0,[M+H]+,[M-H]-
+PE(15:0cyclo/12:0(3-OH)),C32H62NO9P,0,[M+H]+,[M-H]-
+PE(15:0cyclo/14:0(3-OH)),C34H66NO9P,0,[M+H]+,[M-H]-
+PE(15:0cyclo/19:iso),C39H76NO8P,0,[M+H]+,[M-H]-
+PE(16:0/10:0(3-OH)),C31H62NO9P,0,[M+H]+,[M-H]-
+PE(16:0/12:0(3-OH)),C33H66NO9P,0,[M+H]+,[M-H]-
+PE(16:0/14:0(3-OH)),C35H70NO9P,0,[M+H]+,[M-H]-
+PE(16:0/19:iso),C40H80NO8P,0,[M+H]+,[M-H]-
+PE(16:1(9Z)/10:0(3-OH)),C31H60NO9P,0,[M+H]+,[M-H]-
+PE(17:0cycw7c/12:0(3-OH)),C34H66NO9P,0,[M+H]+,[M-H]-
+PE(17:0cycw7c/14:0(3-OH)),C36H70NO9P,0,[M+H]+,[M-H]-
+PE(17:0cycw7c/19:iso),C41H80NO8P,0,[M+H]+,[M-H]-
+PE(18:1(9Z)/10:0(3-OH)),C33H64NO9P,0,[M+H]+,[M-H]-
+PE(18:1(9Z)/12:0(3-OH)),C35H68NO9P,0,[M+H]+,[M-H]-
+PE(18:1(9Z)/14:0(3-OH)),C37H72NO9P,0,[M+H]+,[M-H]-
+PE(18:1(9Z)/19:iso),C42H82NO8P,0,[M+H]+,[M-H]-
+PE(19:0cycv8c/10:0(3-OH)),C34H66NO9P,0,[M+H]+,[M-H]-
+PE(19:0cycv8c/12:0(3-OH)),C36H70NO9P,0,[M+H]+,[M-H]-
+PE(19:0cycv8c/14:0(3-OH)),C38H74NO9P,0,[M+H]+,[M-H]-
+PE(19:0cycv8c/19:iso),C43H84NO8P,0,[M+H]+,[M-H]-
+PE(19:iso/10:0),C34H68NO8P,0,[M+H]+,[M-H]-
+PE(19:iso/10:0(3-OH)),C34H68NO9P,0,[M+H]+,[M-H]-
+PE(19:iso/12:0),C36H72NO8P,0,[M+H]+,[M-H]-
+PE(19:iso/12:0(3-OH)),C36H72NO9P,0,[M+H]+,[M-H]-
+PE(19:iso/14:0),C38H76NO8P,0,[M+H]+,[M-H]-
+PE(19:iso/14:0(3-OH)),C38H76NO9P,0,[M+H]+,[M-H]-
+PE(19:iso/15:0),C39H78NO8P,0,[M+H]+,[M-H]-
+PE(19:iso/15:0cyclo),C39H76NO8P,0,[M+H]+,[M-H]-
+PE(19:iso/16:0),C40H80NO8P,0,[M+H]+,[M-H]-
+PE(19:iso/16:1(9Z)),C40H78NO8P,0,[M+H]+,[M-H]-
+PE(19:iso/17:0cycw7c),C41H80NO8P,0,[M+H]+,[M-H]-
+PE(19:iso/18:1(9Z)),C42H82NO8P,0,[M+H]+,[M-H]-
+PE(19:iso/19:0cycv8c),C43H84NO8P,0,[M+H]+,[M-H]-
+PE(19:iso/19:iso),C43H86NO8P,0,[M+H]+,[M-H]-
+PS(10:0(3-OH)/10:0),C26H50NO11P,0,[M+H]+,[M-H]-
+PS(10:0(3-OH)/10:0(3-OH)),C26H50NO12P,0,[M+H]+,[M-H]-
+PS(10:0(3-OH)/12:0),C28H54NO11P,0,[M+H]+,[M-H]-
+PS(10:0(3-OH)/12:0(3-OH)),C28H54NO12P,0,[M+H]+,[M-H]-
+PS(10:0(3-OH)/14:0),C30H58NO11P,0,[M+H]+,[M-H]-
+PS(10:0(3-OH)/14:0(3-OH)),C30H58NO12P,0,[M+H]+,[M-H]-
+PS(10:0(3-OH)/15:0),C31H60NO11P,0,[M+H]+,[M-H]-
+PS(10:0(3-OH)/15:0cyclo),C31H58NO11P,0,[M+H]+,[M-H]-
+PS(10:0(3-OH)/16:0),C32H62NO11P,0,[M+H]+,[M-H]-
+PS(10:0(3-OH)/16:1(9Z)),C32H60NO11P,0,[M+H]+,[M-H]-
+PS(10:0(3-OH)/17:0cycw7c),C33H62NO11P,0,[M+H]+,[M-H]-
+PS(10:0(3-OH)/18:1(9Z)),C34H64NO11P,0,[M+H]+,[M-H]-
+PS(10:0(3-OH)/19:0cycv8c),C35H66NO11P,0,[M+H]+,[M-H]-
+PS(10:0(3-OH)/19:iso),C35H66NO11P,0,[M+H]+,[M-H]-
+PS(10:0/10:0(3-OH)),C26H50NO11P,0,[M+H]+,[M-H]-
+PS(10:0/12:0(3-OH)),C28H54NO11P,0,[M+H]+,[M-H]-
+PS(10:0/14:0(3-OH)),C30H58NO11P,0,[M+H]+,[M-H]-
+PS(10:0/19:iso),C35H66NO10P,0,[M+H]+,[M-H]-
+PS(12:0(3-OH)/10:0),C28H54NO11P,0,[M+H]+,[M-H]-
+PS(12:0(3-OH)/10:0(3-OH)),C28H54NO12P,0,[M+H]+,[M-H]-
+PS(12:0(3-OH)/12:0),C30H58NO11P,0,[M+H]+,[M-H]-
+PS(12:0(3-OH)/12:0(3-OH)),C30H58NO12P,0,[M+H]+,[M-H]-
+PS(12:0(3-OH)/14:0),C32H62NO11P,0,[M+H]+,[M-H]-
+PS(12:0(3-OH)/14:0(3-OH)),C32H62NO12P,0,[M+H]+,[M-H]-
+PS(12:0(3-OH)/15:0),C33H64NO11P,0,[M+H]+,[M-H]-
+PS(12:0(3-OH)/15:0cyclo),C33H62NO11P,0,[M+H]+,[M-H]-
+PS(12:0(3-OH)/16:0),C34H66NO11P,0,[M+H]+,[M-H]-
+PS(12:0(3-OH)/16:1(9Z)),C34H64NO11P,0,[M+H]+,[M-H]-
+PS(12:0(3-OH)/17:0cycw7c),C35H66NO11P,0,[M+H]+,[M-H]-
+PS(12:0(3-OH)/18:1(9Z)),C36H68NO11P,0,[M+H]+,[M-H]-
+PS(12:0(3-OH)/19:0cycv8c),C37H70NO11P,0,[M+H]+,[M-H]-
+PS(12:0(3-OH)/19:iso),C37H70NO11P,0,[M+H]+,[M-H]-
+PS(12:0/10:0(3-OH)),C28H54NO11P,0,[M+H]+,[M-H]-
+PS(12:0/12:0(3-OH)),C30H58NO11P,0,[M+H]+,[M-H]-
+PS(12:0/14:0(3-OH)),C32H62NO11P,0,[M+H]+,[M-H]-
+PS(12:0/19:iso),C37H70NO10P,0,[M+H]+,[M-H]-
+PS(14:0(3-OH)/10:0),C30H58NO11P,0,[M+H]+,[M-H]-
+PS(14:0(3-OH)/10:0(3-OH)),C30H58NO12P,0,[M+H]+,[M-H]-
+PS(14:0(3-OH)/12:0),C32H62NO11P,0,[M+H]+,[M-H]-
+PS(14:0(3-OH)/12:0(3-OH)),C32H62NO12P,0,[M+H]+,[M-H]-
+PS(14:0(3-OH)/14:0),C34H66NO11P,0,[M+H]+,[M-H]-
+PS(14:0(3-OH)/14:0(3-OH)),C34H66NO12P,0,[M+H]+,[M-H]-
+PS(14:0(3-OH)/15:0),C35H68NO11P,0,[M+H]+,[M-H]-
+PS(14:0(3-OH)/15:0cyclo),C35H66NO11P,0,[M+H]+,[M-H]-
+PS(14:0(3-OH)/16:0),C36H70NO11P,0,[M+H]+,[M-H]-
+PS(14:0(3-OH)/16:1(9Z)),C36H68NO11P,0,[M+H]+,[M-H]-
+PS(14:0(3-OH)/17:0cycw7c),C37H70NO11P,0,[M+H]+,[M-H]-
+PS(14:0(3-OH)/18:1(9Z)),C38H72NO11P,0,[M+H]+,[M-H]-
+PS(14:0(3-OH)/19:iso),C39H74NO11P,0,[M+H]+,[M-H]-
+PS(14:0/10:0(3-OH)),C30H58NO11P,0,[M+H]+,[M-H]-
+PS(14:0/12:0(3-OH)),C32H62NO11P,0,[M+H]+,[M-H]-
+PS(14:0/14:0(3-OH)),C34H66NO11P,0,[M+H]+,[M-H]-
+PS(14:0/19:iso),C39H74NO10P,0,[M+H]+,[M-H]-
+PS(15:0/10:0(3-OH)),C31H60NO11P,0,[M+H]+,[M-H]-
+PS(15:0/12:0(3-OH)),C33H64NO11P,0,[M+H]+,[M-H]-
+PS(15:0/14:0(3-OH)),C35H68NO11P,0,[M+H]+,[M-H]-
+PS(15:0/19:iso),C40H76NO10P,0,[M+H]+,[M-H]-
+PS(15:0cyclo/10:0(3-OH)),C31H58NO11P,0,[M+H]+,[M-H]-
+PS(15:0cyclo/12:0(3-OH)),C33H62NO11P,0,[M+H]+,[M-H]-
+PS(15:0cyclo/14:0(3-OH)),C35H66NO11P,0,[M+H]+,[M-H]-
+PS(15:0cyclo/19:iso),C40H74NO10P,0,[M+H]+,[M-H]-
+PS(16:0/10:0(3-OH)),C32H62NO11P,0,[M+H]+,[M-H]-
+PS(16:0/12:0(3-OH)),C34H66NO11P,0,[M+H]+,[M-H]-
+PS(16:0/14:0(3-OH)),C36H70NO11P,0,[M+H]+,[M-H]-
+PS(16:0/19:iso),C41H78NO10P,0,[M+H]+,[M-H]-
+PS(16:1(9Z)/10:0(3-OH)),C32H60NO11P,0,[M+H]+,[M-H]-
+PS(16:1(9Z)/12:0(3-OH)),C34H64NO11P,0,[M+H]+,[M-H]-
+PS(16:1(9Z)/14:0(3-OH)),C36H68NO11P,0,[M+H]+,[M-H]-
+PS(16:1(9Z)/19:iso),C41H76NO10P,0,[M+H]+,[M-H]-
+PS(17:0cycw7c/10:0(3-OH)),C33H62NO11P,0,[M+H]+,[M-H]-
+PS(17:0cycw7c/12:0(3-OH)),C35H66NO11P,0,[M+H]+,[M-H]-
+PS(17:0cycw7c/14:0(3-OH)),C37H70NO11P,0,[M+H]+,[M-H]-
+PS(17:0cycw7c/19:iso),C42H78NO10P,0,[M+H]+,[M-H]-
+PS(18:1(9Z)/10:0(3-OH)),C34H64NO11P,0,[M+H]+,[M-H]-
+PS(18:1(9Z)/12:0(3-OH)),C36H68NO11P,0,[M+H]+,[M-H]-
+PS(18:1(9Z)/14:0(3-OH)),C38H72NO11P,0,[M+H]+,[M-H]-
+PS(18:1(9Z)/19:iso),C43H80NO10P,0,[M+H]+,[M-H]-
+PS(19:0cycv8c/10:0(3-OH)),C35H66NO11P,0,[M+H]+,[M-H]-
+PS(19:0cycv8c/12:0(3-OH)),C37H70NO11P,0,[M+H]+,[M-H]-
+PS(19:0cycv8c/14:0(3-OH)),C39H74NO11P,0,[M+H]+,[M-H]-
+PS(19:0cycv8c/19:iso),C44H82NO10P,0,[M+H]+,[M-H]-
+PS(19:iso/10:0),C35H66NO10P,0,[M+H]+,[M-H]-
+PS(19:iso/10:0(3-OH)),C35H66NO11P,0,[M+H]+,[M-H]-
+PS(19:iso/12:0),C37H70NO10P,0,[M+H]+,[M-H]-
+PS(19:iso/12:0(3-OH)),C37H70NO11P,0,[M+H]+,[M-H]-
+PS(19:iso/14:0),C39H74NO10P,0,[M+H]+,[M-H]-
+PS(19:iso/14:0(3-OH)),C39H74NO11P,0,[M+H]+,[M-H]-
+PS(19:iso/15:0),C40H76NO10P,0,[M+H]+,[M-H]-
+PS(19:iso/15:0cyclo),C40H74NO10P,0,[M+H]+,[M-H]-
+PS(19:iso/16:0),C41H78NO10P,0,[M+H]+,[M-H]-
+PS(19:iso/16:1(9Z)),C41H76NO10P,0,[M+H]+,[M-H]-
+PS(19:iso/17:0cycw7c),C42H78NO10P,0,[M+H]+,[M-H]-
+PS(19:iso/18:1(9Z)),C43H80NO10P,0,[M+H]+,[M-H]-
+PS(19:iso/19:0cycv8c),C44H82NO10P,0,[M+H]+,[M-H]-
+PS(19:iso/19:iso),C44H84NO10P,0,[M+H]+,[M-H]-
+PG(10:0(3-OH)/10:0),C26H51O11P,0,[M+H]+,[M-H]-
+PG(10:0(3-OH)/10:0(3-OH)),C26H51O12P,0,[M+H]+,[M-H]-
+PG(10:0(3-OH)/12:0),C28H55O11P,0,[M+H]+,[M-H]-
+PG(10:0(3-OH)/12:0(3-OH)),C28H55O12P,0,[M+H]+,[M-H]-
+PG(10:0(3-OH)/14:0),C30H59O11P,0,[M+H]+,[M-H]-
+PG(10:0(3-OH)/14:0(3-OH)),C30H59O12P,0,[M+H]+,[M-H]-
+PG(10:0(3-OH)/15:0),C31H61O11P,0,[M+H]+,[M-H]-
+PG(10:0(3-OH)/15:0cyclo),C31H59O11P,0,[M+H]+,[M-H]-
+PG(10:0/14:0(3-OH)),C30H59O11P,0,[M+H]+,[M-H]-
+PG(10:0/19:iso),C35H69O10P,0,[M+H]+,[M-H]-
+PG(12:0(3-OH)/10:0),C28H55O11P,0,[M+H]+,[M-H]-
+PG(12:0(3-OH)/10:0(3-OH)),C28H55O12P,0,[M+H]+,[M-H]-
+PG(12:0(3-OH)/12:0),C30H59O11P,0,[M+H]+,[M-H]-
+PG(12:0(3-OH)/12:0(3-OH)),C30H59O12P,0,[M+H]+,[M-H]-
+PG(12:0(3-OH)/14:0),C32H63O11P,0,[M+H]+,[M-H]-
+PG(12:0(3-OH)/14:0(3-OH)),C32H63O12P,0,[M+H]+,[M-H]-
+PG(12:0(3-OH)/15:0),C33H65O11P,0,[M+H]+,[M-H]-
+PG(12:0(3-OH)/15:0cyclo),C33H63O11P,0,[M+H]+,[M-H]-
+PG(12:0(3-OH)/16:0),C34H67O11P,0,[M+H]+,[M-H]-
+PG(12:0(3-OH)/16:1(9Z)),C34H65O11P,0,[M+H]+,[M-H]-
+PG(12:0(3-OH)/17:0cycw7c),C35H67O11P,0,[M+H]+,[M-H]-
+PG(12:0(3-OH)/18:1(9Z)),C36H69O11P,0,[M+H]+,[M-H]-
+PG(12:0(3-OH)/19:0cycv8c),C37H71O11P,0,[M+H]+,[M-H]-
+PG(12:0(3-OH)/19:iso),C37H73O11P,0,[M+H]+,[M-H]-
+PG(12:0/10:0(3-OH)),C28H55O11P,0,[M+H]+,[M-H]-
+PG(12:0/12:0(3-OH)),C30H59O11P,0,[M+H]+,[M-H]-
+PG(12:0/14:0(3-OH)),C32H63O11P,0,[M+H]+,[M-H]-
+PG(12:0/19:iso),C37H73O10P,0,[M+H]+,[M-H]-
+PG(14:0(3-OH)/10:0),C30H59O11P,0,[M+H]+,[M-H]-
+PG(14:0(3-OH)/10:0(3-OH)),C30H59O12P,0,[M+H]+,[M-H]-
+PG(14:0(3-OH)/12:0),C32H63O11P,0,[M+H]+,[M-H]-
+PG(14:0(3-OH)/12:0(3-OH)),C32H63O12P,0,[M+H]+,[M-H]-
+PG(14:0(3-OH)/14:0),C34H67O11P,0,[M+H]+,[M-H]-
+PG(14:0(3-OH)/14:0(3-OH)),C34H67O12P,0,[M+H]+,[M-H]-
+PG(14:0(3-OH)/15:0),C35H69O11P,0,[M+H]+,[M-H]-
+PG(14:0(3-OH)/15:0cyclo),C35H67O11P,0,[M+H]+,[M-H]-
+PG(14:0(3-OH)/16:0),C36H71O11P,0,[M+H]+,[M-H]-
+PG(14:0(3-OH)/16:1(9Z)),C36H69O11P,0,[M+H]+,[M-H]-
+PG(14:0(3-OH)/17:0cycw7c),C37H71O11P,0,[M+H]+,[M-H]-
+PG(14:0(3-OH)/18:1(9Z)),C38H73O11P,0,[M+H]+,[M-H]-
+PG(14:0(3-OH)/19:0cycv8c),C39H75O11P,0,[M+H]+,[M-H]-
+PG(14:0(3-OH)/19:iso),C39H77O11P,0,[M+H]+,[M-H]-
+PG(14:0/10:0(3-OH)),C30H59O11P,0,[M+H]+,[M-H]-
+PG(14:0/12:0(3-OH)),C32H63O11P,0,[M+H]+,[M-H]-
+PG(14:0/14:0(3-OH)),C34H67O11P,0,[M+H]+,[M-H]-
+PG(14:0/19:iso),C39H77O10P,0,[M+H]+,[M-H]-
+PG(15:0/10:0(3-OH)),C31H61O11P,0,[M+H]+,[M-H]-
+PG(15:0/12:0(3-OH)),C33H65O11P,0,[M+H]+,[M-H]-
+PG(15:0/14:0(3-OH)),C35H69O11P,0,[M+H]+,[M-H]-
+PG(15:0/19:iso),C40H79O10P,0,[M+H]+,[M-H]-
+PG(15:0cyclo/10:0(3-OH)),C31H59O11P,0,[M+H]+,[M-H]-
+PG(15:0cyclo/12:0(3-OH)),C33H63O11P,0,[M+H]+,[M-H]-
+PG(15:0cyclo/14:0(3-OH)),C35H67O11P,0,[M+H]+,[M-H]-
+PG(15:0cyclo/19:iso),C40H77O10P,0,[M+H]+,[M-H]-
+PG(16:0/10:0(3-OH)),C32H63O11P,0,[M+H]+,[M-H]-
+PG(16:0/12:0(3-OH)),C34H67O11P,0,[M+H]+,[M-H]-
+PG(16:0/14:0(3-OH)),C36H71O11P,0,[M+H]+,[M-H]-
+PG(16:0/19:iso),C41H81O10P,0,[M+H]+,[M-H]-
+PG(16:1(9Z)/10:0(3-OH)),C32H61O11P,0,[M+H]+,[M-H]-
+PG(16:1(9Z)/12:0(3-OH)),C34H65O11P,0,[M+H]+,[M-H]-
+PG(16:1(9Z)/14:0(3-OH)),C36H69O11P,0,[M+H]+,[M-H]-
+PG(16:1(9Z)/19:iso),C41H79O10P,0,[M+H]+,[M-H]-
+PG(17:0cycw7c/10:0(3-OH)),C33H63O11P,0,[M+H]+,[M-H]-
+PG(17:0cycw7c/12:0(3-OH)),C35H67O11P,0,[M+H]+,[M-H]-
+PG(17:0cycw7c/14:0(3-OH)),C37H71O11P,0,[M+H]+,[M-H]-
+PG(17:0cycw7c/19:iso),C42H81O10P,0,[M+H]+,[M-H]-
+PG(18:1(9Z)/10:0(3-OH)),C34H65O11P,0,[M+H]+,[M-H]-
+PG(18:1(9Z)/12:0(3-OH)),C36H69O11P,0,[M+H]+,[M-H]-
+PG(18:1(9Z)/14:0(3-OH)),C38H73O11P,0,[M+H]+,[M-H]-
+PG(18:1(9Z)/19:iso),C43H83O10P,0,[M+H]+,[M-H]-
+PG(19:0cycv8c/10:0(3-OH)),C35H67O11P,0,[M+H]+,[M-H]-
+PG(19:0cycv8c/12:0(3-OH)),C37H71O11P,0,[M+H]+,[M-H]-
+PG(19:0cycv8c/14:0(3-OH)),C39H75O11P,0,[M+H]+,[M-H]-
+PG(19:0cycv8c/19:iso),C44H85O10P,0,[M+H]+,[M-H]-
+PG(19:iso/10:0),C35H69O10P,0,[M+H]+,[M-H]-
+PG(19:iso/10:0(3-OH)),C35H69O11P,0,[M+H]+,[M-H]-
+PG(19:iso/12:0),C37H73O10P,0,[M+H]+,[M-H]-
+PG(19:iso/12:0(3-OH)),C37H73O11P,0,[M+H]+,[M-H]-
+PG(19:iso/14:0),C39H77O10P,0,[M+H]+,[M-H]-
+PG(19:iso/14:0(3-OH)),C39H77O11P,0,[M+H]+,[M-H]-
+PG(19:iso/15:0),C40H79O10P,0,[M+H]+,[M-H]-
+PG(19:iso/15:0cyclo),C40H77O10P,0,[M+H]+,[M-H]-
+PG(19:iso/16:0),C41H81O10P,0,[M+H]+,[M-H]-
+PG(19:iso/16:1(9Z)),C41H79O10P,0,[M+H]+,[M-H]-
+PG(19:iso/17:0cycw7c),C42H81O10P,0,[M+H]+,[M-H]-
+PG(19:iso/18:1(9Z)),C43H83O10P,0,[M+H]+,[M-H]-
+PG(19:iso/19:0cycv8c),C44H85O10P,0,[M+H]+,[M-H]-
+PG(19:iso/19:iso),C44H87O10P,0,[M+H]+,[M-H]-
+(S)-Succinyldihydrolipoamide,C12H21NO4S2,0,[M+H]+,[M-H]-
+Ubiquinone-5,C34H50O4,0,[M+H]+,[M-H]-
+Ubiquinone-4,C29H42O4,0,[M+H]+,[M-H]-
+2-Aminobut-2-enoate,C4H7NO2,0,[M+H]+,[M-H]-
+Glycolate,C2H4O3,0,[M+H]+,[M-H]-
+Thioredoxin,C9H16N3O2S,0,[M+H]+,[M-H]-
+4-Hydroxy-3-polyprenylbenzoate,C17H22O3,0,[M+H]+,[M-H]-
+Alkanesulfonate,C18H24O3,0,[M+H]+,[M-H]-
+3-Amino-2-oxopropyl phosphate,C3H8NO5P,0,[M+H]+,[M-H]-
+L-Lysyl-tRNA,C10H16MoN5O8PS2,0,[M+H]+,[M-H]-
+"(2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate",C7H7NO5,0,[M+H]+,[M-H]-
+L-Glutamyl-tRNA(Glu),C5H9NO5,0,[M+H]+,[M-H]-
+Enzyme N6-(dihydrolipoyl)lysine,C3H5ClO,0,[M+H]+,[M-H]-
+Dihydrolipoylprotein,C4H6N2O2,0,[M+H]+,[M-H]-
+Glufosinate,C4H10NO4P,0,[M+H]+,[M-H]-
+L-Prolyl-tRNA(Pro),C4H8N2O3,0,[M+H]+,[M-H]-
+Pimeloyl-[acyl-carrier protein],C6H5NO3,0,[M+H]+,[M-H]-
+L-Tyrosyl-tRNA(Tyr),C7H15O10P,0,[M+H]+,[M-H]-
+2-Polyprenylphenol,C16H22O,0,[M+H]+,[M-H]-
+Demethylmenaquinol,C20H24O2,0,[M+H]+,[M-H]-
+"2-[(2R,5Z)-2-Carboxy-4-methylthiazol-5(2H)-ylidene]ethyl phosphate",C7H10NO6PS,0,[M+H]+,[M-H]-
+N-Acetylphosphinothricin,C7H14NO5P,0,[M+H]+,[M-H]-
+"alpha-D-Ribose 1,2-cyclic phosphate 5-phosphate",C5H10O10P2,0,[M+H]+,[M-H]-
+(S)-Lactaldehyde,C3H6O2,0,[M+H]+,[M-H]-
+Benzyl alcohol,C7H8O,0,[M+H]+,[M-H]-
+Methane,CH4,0,[M+H]+,[M-H]-
+alpha-D-Ribose 1-methylphosphonate 5-triphosphate,C6H16O16P4,0,[M+H]+,[M-H]-
+alpha-D-Ribose 1-methylphosphonate 5-phosphate,C6H14O10P2,0,[M+H]+,[M-H]-
+tRNA(Tyr),C10H10O4,0,[M+H]+,[M-H]-
+tRNA(Ala),C10H18O9,0,[M+H]+,[M-H]-
+L-Ornithine,C5H12N2O2,0,[M+H]+,[M-H]-
+Fe2+,Fe,0,[M+H]+,[M-H]-
+Homocysteine,C4H9NO2S,0,[M+H]+,[M-H]-
+FMNH2,C17H23N4O9P,0,[M+H]+,[M-H]-
+"5,10-Methenyltetrahydrofolic acid",C20H21N7O6,0,[M+H]+,[M-H]-
+DL-O-Phosphoserine,C3H8NO6P,0,[M+H]+,[M-H]-
+DG(18:1(11Z)/19:0/0:0),C40H76O5,0,[M+H]+,[M-H]-
+DG(18:1(9Z)/0:0/18:1(11Z)),C39H72O5,0,[M+H]+,[M-H]-
+DG(19:0/16:1(9Z)/0:0),C38H72O5,0,[M+H]+,[M-H]-
+PGP(14:0/17:0cycw7c),C37H72O13P2,0,[M+H]+,[M-H]-
+PGP(14:0/19:0cycv8c),C39H76O13P2,0,[M+H]+,[M-H]-
+PGP(14:0/19:iso),C39H78O13P2,0,[M+H]+,[M-H]-
+DG(18:1(9Z)/17:0cycw7c/0:0),C38H70O5,0,[M+H]+,[M-H]-
+DG(18:1(9Z)/19:0cycv8c/0:0),C40H74O5,0,[M+H]+,[M-H]-
+DG(18:1(9Z)/19:0cycw8c/0:0),C40H74O5,0,[M+H]+,[M-H]-
+D-threo-Isocitric acid,C6H8O7,0,[M+H]+,[M-H]-
+5'-phosphoribosyl-a-N-formylglycineamidine,C8H16N3O8P,0,[M+H]+,[M-H]-
+Amylose,C14H26O11,0,[M+H]+,[M-H]-
+2-(Formamido)-N1-(5-phospho-D-ribosyl)acetamidine,C6H12N3O8P,0,[M+H]+,[M-H]-
+LPA(18:0/0:0),C21H43O7P,0,[M+H]+,[M-H]-
+LPA(18:1(9Z)/0:0),C21H41O7P,0,[M+H]+,[M-H]-
+PE(14:0/15:0),C34H68NO8P,0,[M+H]+,[M-H]-
+PE(14:0/18:1(9Z)),C37H72NO8P,0,[M+H]+,[M-H]-
+PE(15:0/14:0),C34H68NO8P,0,[M+H]+,[M-H]-
+PE(15:0/15:0),C35H70NO8P,0,[M+H]+,[M-H]-
+PE(15:0/16:0),C36H72NO8P,0,[M+H]+,[M-H]-
+PE(15:0/16:1(9Z)),C36H70NO8P,0,[M+H]+,[M-H]-
+PE(15:0/18:1(9Z)),C38H74NO8P,0,[M+H]+,[M-H]-
+PE(16:0/15:0),C36H72NO8P,0,[M+H]+,[M-H]-
+PE(16:0/18:0),C39H78NO8P,0,[M+H]+,[M-H]-
+PE(16:0/18:1(9Z)),C39H76NO8P,0,[M+H]+,[M-H]-
+PE(16:1(9Z)/18:0),C39H76NO8P,0,[M+H]+,[M-H]-
+PE(16:1(9Z)/18:1(9Z)),C39H74NO8P,0,[M+H]+,[M-H]-
+PE(18:0/14:0),C37H74NO8P,0,[M+H]+,[M-H]-
+PE(18:0/16:0),C39H78NO8P,0,[M+H]+,[M-H]-
+PE(18:0/16:1(9Z)),C39H76NO8P,0,[M+H]+,[M-H]-
+PE(18:0/18:0),C41H82NO8P,0,[M+H]+,[M-H]-
+PE(18:0/18:1(9Z)),C41H80NO8P,0,[M+H]+,[M-H]-
+PE(18:1(9Z)/14:0),C37H72NO8P,0,[M+H]+,[M-H]-
+PE(18:1(9Z)/15:0),C38H74NO8P,0,[M+H]+,[M-H]-
+PE(18:1(9Z)/16:0),C39H76NO8P,0,[M+H]+,[M-H]-
+PE(18:1(9Z)/16:1(9Z)),C39H74NO8P,0,[M+H]+,[M-H]-
+PE(18:1(9Z)/18:0),C41H80NO8P,0,[M+H]+,[M-H]-
+PE(18:1(9Z)/18:1(9Z)),C41H78NO8P,0,[M+H]+,[M-H]-
+PS(18:0/18:1(9Z)),C42H80NO10P,0,[M+H]+,[M-H]-
+PS(18:0/20:0),C44H86NO10P,0,[M+H]+,[M-H]-
+PG(16:0/18:1(9Z)),C40H77O10P,0,[M+H]+,[M-H]-
+PG(16:1(9Z)/18:1(9Z)),C40H75O10P,0,[M+H]+,[M-H]-
+PG(18:1(9Z)/16:0),C40H77O10P,0,[M+H]+,[M-H]-
+PG(18:1(9Z)/16:1(9Z)),C40H75O10P,0,[M+H]+,[M-H]-
+PG(18:1(9Z)/18:1(9Z)),C42H79O10P,0,[M+H]+,[M-H]-
+PS(14:0/14:1(9Z)),C34H64NO10P,0,[M+H]+,[M-H]-
+PS(14:0/18:0),C38H74NO10P,0,[M+H]+,[M-H]-
+PS(14:0/18:1(9Z)),C38H72NO10P,0,[M+H]+,[M-H]-
+PS(16:0/14:1(9Z)),C36H68NO10P,0,[M+H]+,[M-H]-
+PS(16:0/18:0),C40H78NO10P,0,[M+H]+,[M-H]-
+PS(16:0/18:1(9Z)),C40H76NO10P,0,[M+H]+,[M-H]-
+PS(16:1(9Z)/18:0),C40H76NO10P,0,[M+H]+,[M-H]-
+PS(16:1(9Z)/18:1(9Z)),C40H74NO10P,0,[M+H]+,[M-H]-
+PS(18:0/14:0),C38H74NO10P,0,[M+H]+,[M-H]-
+PS(18:0/16:0),C40H78NO10P,0,[M+H]+,[M-H]-
+PS(18:0/16:1(9Z)),C40H76NO10P,0,[M+H]+,[M-H]-
+PS(18:0/18:0),C42H82NO10P,0,[M+H]+,[M-H]-
+PS(18:1(9Z)/14:0),C38H72NO10P,0,[M+H]+,[M-H]-
+PS(18:1(9Z)/16:0),C40H76NO10P,0,[M+H]+,[M-H]-
+PS(18:1(9Z)/16:1(9Z)),C40H74NO10P,0,[M+H]+,[M-H]-
+PS(18:1(9Z)/18:0),C42H80NO10P,0,[M+H]+,[M-H]-
+PS(18:1(9Z)/18:1(9Z)),C42H78NO10P,0,[M+H]+,[M-H]-
+PGP(16:0/18:0),C40H80O13P2,0,[M+H]+,[M-H]-
+PGP(16:0/18:1(9Z)),C40H78O13P2,0,[M+H]+,[M-H]-
+PGP(18:1(9Z)/16:0),C40H78O13P2,0,[M+H]+,[M-H]-
+ADP-L-glycero-beta-D-manno-heptose,C17H25N5O16P2,0,[M+H]+,[M-H]-
+3-deoxy-D-arabino-heptulosonate-7-phosphate,C7H10O10P,0,[M+H]+,[M-H]-
+4-nitrophenylphosphate,C6H6NO6P,0,[M+H]+,[M-H]-
+a sulfurated [sulfur carrier],C2H6,0,[M+H]+,[M-H]-
+"(S)-2,3,4,5-tetrahydrodipicolinate",C7H7NO4,0,[M+H]+,[M-H]-
+FAICAR,C10H15N4O9P,0,[M+H]+,[M-H]-
+N-carbamoyl-L-aspartate,C5H6N2O5,0,[M+H]+,[M-H]-
+N2-succinyl-L-arginine,C10H17N4O5,0,[M+H]+,[M-H]-
+N2-succinylglutamate,C9H10NO7,0,[M+H]+,[M-H]-
+4-(gamma;-glutamylamino)butanal,C9H15N2O4,0,[M+H]+,[M-H]-
+gamma;-L-glutamyl 5-phosphate,C5H8NO7P,0,[M+H]+,[M-H]-
+L-histidinol-phosphate,C12H9ClO,0,[M+H]+,[M-H]-
+N-(5-phosphoribosyl)-anthranilate,C12H13NO9P,0,[M+H]+,[M-H]-
+1-(o-carboxyphenylamino)-1'-deoxyribulose 5'-phosphate,C12H13NO9P,0,[M+H]+,[M-H]-
+"(1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate",C11H12NO6P,0,[M+H]+,[M-H]-
+5-enolpyruvyl-shikimate 3-phosphate,C10H9O10P,0,[M+H]+,[M-H]-
+(2Z)-2-aminobut-2-enoate,C4H6NO2,0,[M+H]+,[M-H]-
+D-tagatofuranose 6-phosphate,C6H11O9P,0,[M+H]+,[M-H]-
+beta;-D-glucose 6-phosphate,C7H13O8P,0,[M+H]+,[M-H]-
+4'-phosphopantetheine,C12H23N2O6PS,0,[M+H]+,[M-H]-
+"2,3-bis[(3R)-3-hydroxymyristoyl]-alpha;-D-glucosaminyl 1-phosphate",C34H64NO12P,0,[M+H]+,[M-H]-
+UDP-N-acetyl-alpha;-D-glucosamine-enolpyruvate,C20H26N3O19P2,0,[M+H]+,[M-H]-
+UDP-N-acetyl-alpha;-D-muramate,C20H28N3O19P2,0,[M+H]+,[M-H]-
+beta;-D-glucose 1-phosphate,C5H9O9P,0,[M+H]+,[M-H]-
+UDP-beta;-L-threo-pentapyranos-4-ulose,C14H20N2O16P2,0,[M+H]+,[M-H]-
+GDP-4-dehydro-6-deoxy-alpha;-D-mannose,C16H21N5O15P2,0,[M+H]+,[M-H]-
+"7,8-dihydroneopterin 3'-triphosphate",C9H12N5O13P3,0,[M+H]+,[M-H]-
+N1-(5-phospho-beta;-D-ribosyl)glycinamide,C7H14N2O8P,0,[M+H]+,[M-H]-
+beta;-D-fructofuranose 1-phosphate,C6H11O9P,0,[M+H]+,[M-H]-
+sn-glycero-3-phosphocholine,C8H20NO6P,0,[M+H]+,[M-H]-
+sn-glycero-3-phosphoethanolamine,C5H14NO6P,0,[M+H]+,[M-H]-
+glycerophosphoserine,C6H13NO8P,0,[M+H]+,[M-H]-
+3-(N-morpholino)propanesulfonate,C7H15NO4S,0,[M+H]+,[M-H]-
+ethanesulfonate,C2H5O3S,0,[M+H]+,[M-H]-
+isethionate,C2H5O4S,0,[M+H]+,[M-H]-
+"alpha;,alpha;-trehalose",C12H22O11,0,[M+H]+,[M-H]-
+3-demethylubiquinol-8,C48H74O4,0,[M+H]+,[M-H]-
+PA(18:0/18:0),C39H77O8P,0,[M+H]+,[M-H]-
+tetrahydropteroyl mono-L-glutamate,C19H21N7O6,0,[M+H]+,[M-H]-
+PG(10:0/10:0),C26H51O10P,0,[M+H]+,[M-H]-
+PG(14:0/18:1(9Z)),C38H73O10P,0,[M+H]+,[M-H]-
+PG(16:0/15:0),C37H73O10P,0,[M+H]+,[M-H]-
+PG(16:1(9Z)/12:0),C34H65O10P,0,[M+H]+,[M-H]-
+PG(16:1(9Z)/15:0),C37H71O10P,0,[M+H]+,[M-H]-
+PG(18:0/12:0),C36H71O10P,0,[M+H]+,[M-H]-
+PG(18:0/18:1(9Z)),C42H81O10P,0,[M+H]+,[M-H]-
+PG(18:1(11Z)/18:1(9Z)),C42H79O10P,0,[M+H]+,[M-H]-
+PG(18:1(9Z)/12:0),C36H69O10P,0,[M+H]+,[M-H]-
+PG(18:1(9Z)/14:0),C38H73O10P,0,[M+H]+,[M-H]-
+PG(18:1(9Z)/15:0),C39H75O10P,0,[M+H]+,[M-H]-
+PGP(10:0/10:0),C26H52O13P2,0,[M+H]+,[M-H]-
+PGP(14:0/16:0),C36H72O13P2,0,[M+H]+,[M-H]-
+PGP(14:0/16:1(9Z)),C36H70O13P2,0,[M+H]+,[M-H]-
+PGP(14:0/17:0),C37H74O13P2,0,[M+H]+,[M-H]-
+PGP(14:0/18:1(9Z)),C38H74O13P2,0,[M+H]+,[M-H]-
+PGP(14:0/19:0),C39H78O13P2,0,[M+H]+,[M-H]-
+PGP(16:0/14:0),C36H72O13P2,0,[M+H]+,[M-H]-
+PGP(16:0/15:0),C37H74O13P2,0,[M+H]+,[M-H]-
+PGP(16:0/17:0),C39H78O13P2,0,[M+H]+,[M-H]-
+PGP(16:0/19:0),C41H82O13P2,0,[M+H]+,[M-H]-
+PGP(16:1(9Z)/12:0),C34H66O13P2,0,[M+H]+,[M-H]-
+PGP(16:1(9Z)/14:0),C36H70O13P2,0,[M+H]+,[M-H]-
+PGP(16:1(9Z)/15:0),C37H72O13P2,0,[M+H]+,[M-H]-
+PGP(16:1(9Z)/17:0),C39H76O13P2,0,[M+H]+,[M-H]-
+PGP(16:1(9Z)/19:0),C41H80O13P2,0,[M+H]+,[M-H]-
+PGP(17:0/14:0),C37H74O13P2,0,[M+H]+,[M-H]-
+PGP(17:0/16:0),C39H78O13P2,0,[M+H]+,[M-H]-
+PGP(17:0/16:1(9Z)),C39H76O13P2,0,[M+H]+,[M-H]-
+PGP(17:0/17:0),C40H80O13P2,0,[M+H]+,[M-H]-
+PGP(17:0/18:1(11Z)),C41H80O13P2,0,[M+H]+,[M-H]-
+PGP(17:0/19:0),C42H84O13P2,0,[M+H]+,[M-H]-
+PGP(18:0/12:0),C36H72O13P2,0,[M+H]+,[M-H]-
+PGP(18:0/18:1(9Z)),C42H82O13P2,0,[M+H]+,[M-H]-
+PGP(18:1(11Z)/17:0),C41H80O13P2,0,[M+H]+,[M-H]-
+PGP(18:1(9Z)/12:0),C36H70O13P2,0,[M+H]+,[M-H]-
+PGP(18:1(9Z)/14:0),C38H74O13P2,0,[M+H]+,[M-H]-
+PGP(19:0/14:0),C39H78O13P2,0,[M+H]+,[M-H]-
+PGP(19:0/16:0),C41H82O13P2,0,[M+H]+,[M-H]-
+PGP(19:0/16:1(9Z)),C41H80O13P2,0,[M+H]+,[M-H]-
+PGP(19:0/17:0),C42H84O13P2,0,[M+H]+,[M-H]-
+PGP(19:0/19:0),C44H88O13P2,0,[M+H]+,[M-H]-
+PS(12:0/12:0),C30H58NO10P,0,[M+H]+,[M-H]-
+PS(16:0/12:0),C34H66NO10P,0,[M+H]+,[M-H]-
+PS(16:1(9Z)/10:0),C32H60NO10P,0,[M+H]+,[M-H]-
+PS(16:1(9Z)/12:0),C34H64NO10P,0,[M+H]+,[M-H]-
+PS(18:0/10:0),C34H66NO10P,0,[M+H]+,[M-H]-
+PS(18:0/12:0),C36H70NO10P,0,[M+H]+,[M-H]-
+PS(18:1(11Z)/10:0),C34H64NO10P,0,[M+H]+,[M-H]-
+PS(18:1(11Z)/12:0),C36H68NO10P,0,[M+H]+,[M-H]-
+DG(16:1(9Z)/0:0/19:0),C38H72O5,0,[M+H]+,[M-H]-
+DG(16:1(9Z)/19:0/0:0),C38H72O5,0,[M+H]+,[M-H]-
+DG(17:0/16:1(9Z)/0:0),C36H68O5,0,[M+H]+,[M-H]-
+DG(18:1(11Z)/0:0/18:0),C39H74O5,0,[M+H]+,[M-H]-
+DG(18:1(11Z)/0:0/18:1(9Z)),C39H72O5,0,[M+H]+,[M-H]-
+DG(18:1(11Z)/10:0/0:0),C31H58O5,0,[M+H]+,[M-H]-
+DG(18:1(11Z)/12:0/0:0),C33H62O5,0,[M+H]+,[M-H]-
+DG(18:1(11Z)/17:0/0:0),C38H72O5,0,[M+H]+,[M-H]-
+DG(19:0/18:1(11Z)/0:0),C40H76O5,0,[M+H]+,[M-H]-
+PG(14:0/15:0cyclo),C35H67O10P,0,[M+H]+,[M-H]-
+PG(14:0/19:0cycv8c),C39H75O10P,0,[M+H]+,[M-H]-
+PG(15:0cyclo/14:0),C35H67O10P,0,[M+H]+,[M-H]-
+PG(15:0cyclo/15:0cyclo),C36H67O10P,0,[M+H]+,[M-H]-
+PG(15:0cyclo/16:0),C37H71O10P,0,[M+H]+,[M-H]-
+PG(15:0cyclo/17:0cycw7c),C38H71O10P,0,[M+H]+,[M-H]-
+PG(15:0cyclo/19:0cycv8c),C40H75O10P,0,[M+H]+,[M-H]-
+PG(16:0/19:1(9Z)),C41H79O10P,0,[M+H]+,[M-H]-
+PG(16:1(9Z)/17:0cycw7c),C39H73O10P,0,[M+H]+,[M-H]-
+PG(16:1(9Z)/19:0cycv8c),C41H77O10P,0,[M+H]+,[M-H]-
+PG(17:0cycw7c/14:0),C37H71O10P,0,[M+H]+,[M-H]-
+PG(17:0cycw7c/16:0),C39H75O10P,0,[M+H]+,[M-H]-
+PG(17:0cycw7c/16:1(9Z)),C39H73O10P,0,[M+H]+,[M-H]-
+PG(17:0cycw7c/17:0cycw7c),C40H75O10P,0,[M+H]+,[M-H]-
+PG(17:0cycw7c/18:1(9Z)),C41H77O10P,0,[M+H]+,[M-H]-
+PG(17:0cycw7c/19:0cycv8c),C42H79O10P,0,[M+H]+,[M-H]-
+PG(18:1(9Z)/15:0cyclo),C39H73O10P,0,[M+H]+,[M-H]-
+PG(18:1(9Z)/17:0cycw7c),C41H77O10P,0,[M+H]+,[M-H]-
+PG(19:0cycv8c/14:0),C39H75O10P,0,[M+H]+,[M-H]-
+PG(19:0cycv8c/15:0cyclo),C40H75O10P,0,[M+H]+,[M-H]-
+PG(19:0cycv8c/16:0),C41H79O10P,0,[M+H]+,[M-H]-
+PG(19:0cycv8c/16:1(9Z)),C41H77O10P,0,[M+H]+,[M-H]-
+PG(19:0cycv8c/17:0cycw7c),C42H79O10P,0,[M+H]+,[M-H]-
+PG(19:0cycv8c/19:0cycv8c),C44H83O10P,0,[M+H]+,[M-H]-
+PG(19:1(9Z)/16:0),C41H79O10P,0,[M+H]+,[M-H]-
+PG(19:1(9Z)/16:1(9Z)),C41H77O10P,0,[M+H]+,[M-H]-
+PGP(19:iso/19:iso),C44H88O13P2,0,[M+H]+,[M-H]-
+PGP(10:0(3-OH)/10:0(3-OH)),C26H52O15P2,0,[M+H]+,[M-H]-
+PGP(10:0(3-OH)/10:0),C26H52O14P2,0,[M+H]+,[M-H]-
+PGP(10:0(3-OH)/12:0(3-OH)),C28H56O15P2,0,[M+H]+,[M-H]-
+PGP(10:0(3-OH)/12:0),C28H56O14P2,0,[M+H]+,[M-H]-
+PGP(10:0(3-OH)/14:0(3-OH)),C30H60O15P2,0,[M+H]+,[M-H]-
+PGP(10:0(3-OH)/14:0),C30H60O14P2,0,[M+H]+,[M-H]-
+PGP(10:0(3-OH)/15:0),C31H62O14P2,0,[M+H]+,[M-H]-
+PGP(10:0(3-OH)/15:0cyclo),C31H60O14P2,0,[M+H]+,[M-H]-
+PGP(10:0(3-OH)/16:0),C32H64O14P2,0,[M+H]+,[M-H]-
+PGP(10:0(3-OH)/16:1(9Z)),C32H62O14P2,0,[M+H]+,[M-H]-
+PGP(10:0(3-OH)/17:0cycw7c),C33H64O14P2,0,[M+H]+,[M-H]-
+PGP(10:0(3-OH)/18:1(9Z)),C34H66O14P2,0,[M+H]+,[M-H]-
+PGP(10:0(3-OH)/19:0cycv8c),C35H68O14P2,0,[M+H]+,[M-H]-
+PGP(10:0(3-OH)/19:iso),C35H70O14P2,0,[M+H]+,[M-H]-
+PGP(10:0/10:0(3-OH)),C26H52O14P2,0,[M+H]+,[M-H]-
+PGP(10:0/12:0(3-OH)),C28H56O14P2,0,[M+H]+,[M-H]-
+PGP(10:0/14:0(3-OH)),C30H60O14P2,0,[M+H]+,[M-H]-
+PGP(10:0/19:iso),C35H70O13P2,0,[M+H]+,[M-H]-
+PGP(12:0(3-OH)/10:0(3-OH)),C28H56O15P2,0,[M+H]+,[M-H]-
+PGP(12:0(3-OH)/10:0),C28H56O14P2,0,[M+H]+,[M-H]-
+PGP(12:0(3-OH)/12:0(3-OH)),C30H60O15P2,0,[M+H]+,[M-H]-
+PGP(12:0(3-OH)/12:0),C30H60O14P2,0,[M+H]+,[M-H]-
+PGP(12:0(3-OH)/14:0(3-OH)),C32H64O15P2,0,[M+H]+,[M-H]-
+PGP(12:0(3-OH)/14:0),C32H64O14P2,0,[M+H]+,[M-H]-
+PGP(12:0(3-OH)/15:0),C33H66O14P2,0,[M+H]+,[M-H]-
+PGP(12:0(3-OH)/15:0cyclo),C33H64O14P2,0,[M+H]+,[M-H]-
+PGP(12:0(3-OH)/16:0),C34H68O14P2,0,[M+H]+,[M-H]-
+PGP(12:0(3-OH)/16:1(9Z)),C34H66O14P2,0,[M+H]+,[M-H]-
+PGP(12:0(3-OH)/17:0cycw7c),C35H68O14P2,0,[M+H]+,[M-H]-
+PGP(12:0(3-OH)/18:1(9Z)),C36H70O14P2,0,[M+H]+,[M-H]-
+PGP(12:0(3-OH)/19:0cycv8c),C37H72O14P2,0,[M+H]+,[M-H]-
+PGP(12:0(3-OH)/19:iso),C37H74O14P2,0,[M+H]+,[M-H]-
+PGP(12:0/10:0(3-OH)),C28H56O14P2,0,[M+H]+,[M-H]-
+PGP(12:0/12:0(3-OH)),C30H60O14P2,0,[M+H]+,[M-H]-
+PGP(12:0/14:0(3-OH)),C32H64O14P2,0,[M+H]+,[M-H]-
+PGP(12:0/19:iso),C37H74O13P2,0,[M+H]+,[M-H]-
+PGP(14:0(3-OH)/10:0(3-OH)),C30H60O15P2,0,[M+H]+,[M-H]-
+PGP(14:0(3-OH)/10:0),C30H60O14P2,0,[M+H]+,[M-H]-
+PGP(14:0(3-OH)/12:0(3-OH)),C32H64O15P2,0,[M+H]+,[M-H]-
+PGP(14:0(3-OH)/12:0),C32H64O14P2,0,[M+H]+,[M-H]-
+PGP(14:0(3-OH)/14:0(3-OH)),C34H68O15P2,0,[M+H]+,[M-H]-
+PGP(14:0(3-OH)/14:0),C34H68O14P2,0,[M+H]+,[M-H]-
+PGP(14:0(3-OH)/15:0),C35H70O14P2,0,[M+H]+,[M-H]-
+PGP(14:0(3-OH)/15:0cyclo),C35H68O14P2,0,[M+H]+,[M-H]-
+PGP(14:0(3-OH)/16:0),C36H72O14P2,0,[M+H]+,[M-H]-
+PGP(14:0(3-OH)/16:1(9Z)),C36H70O14P2,0,[M+H]+,[M-H]-
+PGP(14:0(3-OH)/17:0cycw7c),C37H72O14P2,0,[M+H]+,[M-H]-
+PGP(14:0(3-OH)/19:0cycv8c),C39H76O14P2,0,[M+H]+,[M-H]-
+PGP(14:0(3-OH)/19:iso),C39H78O14P2,0,[M+H]+,[M-H]-
+PGP(14:0/10:0(3-OH)),C30H60O14P2,0,[M+H]+,[M-H]-
+PGP(14:0/12:0(3-OH)),C32H64O14P2,0,[M+H]+,[M-H]-
+PGP(14:0/14:0(3-OH)),C34H68O14P2,0,[M+H]+,[M-H]-
+PGP(14:0/15:0cyclo),C35H68O13P2,0,[M+H]+,[M-H]-
+PGP(15:0/10:0(3-OH)),C31H62O14P2,0,[M+H]+,[M-H]-
+PGP(15:0/12:0(3-OH)),C33H66O14P2,0,[M+H]+,[M-H]-
+PGP(15:0/17:0cycw7c),C38H74O13P2,0,[M+H]+,[M-H]-
+PGP(15:0/19:iso),C40H80O13P2,0,[M+H]+,[M-H]-
+PGP(15:0cyclo/10:0(3-OH)),C31H60O14P2,0,[M+H]+,[M-H]-
+PGP(15:0cyclo/12:0(3-OH)),C33H64O14P2,0,[M+H]+,[M-H]-
+PGP(15:0cyclo/14:0(3-OH)),C35H68O14P2,0,[M+H]+,[M-H]-
+PGP(15:0cyclo/14:0),C35H68O13P2,0,[M+H]+,[M-H]-
+PGP(15:0cyclo/15:0cyclo),C36H68O13P2,0,[M+H]+,[M-H]-
+PGP(15:0cyclo/16:0),C37H72O13P2,0,[M+H]+,[M-H]-
+PGP(15:0cyclo/17:0cycw7c),C38H72O13P2,0,[M+H]+,[M-H]-
+PGP(15:0cyclo/19:0cycv8c),C40H76O13P2,0,[M+H]+,[M-H]-
+PGP(15:0cyclo/19:iso),C40H78O13P2,0,[M+H]+,[M-H]-
+PGP(16:0/10:0(3-OH)),C32H64O14P2,0,[M+H]+,[M-H]-
+PGP(16:0/12:0(3-OH)),C34H68O14P2,0,[M+H]+,[M-H]-
+PGP(16:0/14:0(3-OH)),C36H72O14P2,0,[M+H]+,[M-H]-
+PGP(16:0/17:0cycw7c),C39H76O13P2,0,[M+H]+,[M-H]-
+PGP(16:0/19:0cycw8c),C41H80O13P2,0,[M+H]+,[M-H]-
+PGP(16:0/19:iso),C41H82O13P2,0,[M+H]+,[M-H]-
+PGP(16:1(9Z)/10:0(3-OH)),C32H62O14P2,0,[M+H]+,[M-H]-
+PGP(16:1(9Z)/12:0(3-OH)),C34H66O14P2,0,[M+H]+,[M-H]-
+PGP(16:1(9Z)/14:0(3-OH)),C36H70O14P2,0,[M+H]+,[M-H]-
+PGP(16:1(9Z)/19:0cycv8c),C41H78O13P2,0,[M+H]+,[M-H]-
+PGP(16:1(9Z)/19:iso),C41H80O13P2,0,[M+H]+,[M-H]-
+PGP(17:0cycw7c/10:0(3-OH)),C33H64O14P2,0,[M+H]+,[M-H]-
+PGP(17:0cycw7c/12:0(3-OH)),C35H68O14P2,0,[M+H]+,[M-H]-
+PGP(17:0cycw7c/14:0(3-OH)),C37H72O14P2,0,[M+H]+,[M-H]-
+PGP(17:0cycw7c/14:0),C37H72O13P2,0,[M+H]+,[M-H]-
+PGP(17:0cycw7c/16:0),C39H76O13P2,0,[M+H]+,[M-H]-
+PGP(17:0cycw7c/17:0cycw7c),C40H76O13P2,0,[M+H]+,[M-H]-
+PGP(17:0cycw7c/18:1(9Z)),C41H78O13P2,0,[M+H]+,[M-H]-
+PGP(18:1(9Z)/10:0(3-OH)),C34H66O14P2,0,[M+H]+,[M-H]-
+PGP(18:1(9Z)/12:0(3-OH)),C36H70O14P2,0,[M+H]+,[M-H]-
+PGP(18:1(9Z)/17:0cycw7c),C41H78O13P2,0,[M+H]+,[M-H]-
+PGP(18:1(9Z)/19:iso),C43H84O13P2,0,[M+H]+,[M-H]-
+PGP(19:0cycv8c/10:0(3-OH)),C35H68O14P2,0,[M+H]+,[M-H]-
+PGP(19:0cycv8c/12:0(3-OH)),C37H72O14P2,0,[M+H]+,[M-H]-
+PGP(19:0cycv8c/14:0(3-OH)),C39H76O14P2,0,[M+H]+,[M-H]-
+PGP(19:0cycv8c/14:0),C39H76O13P2,0,[M+H]+,[M-H]-
+PGP(19:0cycv8c/15:0cyclo),C40H76O13P2,0,[M+H]+,[M-H]-
+PGP(19:0cycv8c/16:0),C41H80O13P2,0,[M+H]+,[M-H]-
+PGP(19:0cycv8c/16:1(9Z)),C41H78O13P2,0,[M+H]+,[M-H]-
+PGP(19:0cycv8c/19:0cycv8c),C44H84O13P2,0,[M+H]+,[M-H]-
+PGP(19:iso/10:0(3-OH)),C35H70O14P2,0,[M+H]+,[M-H]-
+PGP(19:iso/10:0),C35H70O13P2,0,[M+H]+,[M-H]-
+PGP(19:iso/12:0(3-OH)),C37H74O14P2,0,[M+H]+,[M-H]-
+PGP(19:iso/12:0),C37H74O13P2,0,[M+H]+,[M-H]-
+PGP(19:iso/14:0(3-OH)),C39H78O14P2,0,[M+H]+,[M-H]-
+PGP(19:iso/14:0),C39H78O13P2,0,[M+H]+,[M-H]-
+PGP(19:iso/15:0),C40H80O13P2,0,[M+H]+,[M-H]-
+PGP(19:iso/15:0cyclo),C40H78O13P2,0,[M+H]+,[M-H]-
+PGP(19:iso/16:1(9Z)),C41H80O13P2,0,[M+H]+,[M-H]-
+PGP(19:iso/18:1(9Z)),C43H84O13P2,0,[M+H]+,[M-H]-
+PE(14:0/15:0cyclo),C34H66NO8P,0,[M+H]+,[M-H]-
+PE(14:0/19:0cycv8c),C38H74NO8P,0,[M+H]+,[M-H]-
+PE(14:0/19:0cycw8c),C38H74NO8P,0,[M+H]+,[M-H]-
+PE(15:0cyclo/14:0),C34H66NO8P,0,[M+H]+,[M-H]-
+PE(15:0cyclo/15:0cyclo),C35H66NO8P,0,[M+H]+,[M-H]-
+PE(15:0cyclo/16:0),C36H70NO8P,0,[M+H]+,[M-H]-
+PE(15:0cyclo/17:0cycw7c),C37H70NO8P,0,[M+H]+,[M-H]-
+PE(15:0cyclo/19:0cycv8c),C39H74NO8P,0,[M+H]+,[M-H]-
+PE(16:0/19:0cycv8c),C40H78NO8P,0,[M+H]+,[M-H]-
+PE(16:1(9Z)/17:0cycw7c),C38H72NO8P,0,[M+H]+,[M-H]-
+PE(16:1(9Z)/19:0cycv8c),C40H76NO8P,0,[M+H]+,[M-H]-
+PE(16:1(9Z)/19:0cycw8c),C40H76NO8P,0,[M+H]+,[M-H]-
+PE(17:0cycw7c/14:0),C36H70NO8P,0,[M+H]+,[M-H]-
+PE(17:0cycw7c/15:0cyclo),C37H70NO8P,0,[M+H]+,[M-H]-
+PE(17:0cycw7c/16:0),C38H74NO8P,0,[M+H]+,[M-H]-
+PE(17:0cycw7c/16:1(9Z)),C38H72NO8P,0,[M+H]+,[M-H]-
+PE(17:0cycw7c/18:1(9Z)),C40H76NO8P,0,[M+H]+,[M-H]-
+PE(17:0cycw7c/19:0cycv8c),C41H78NO8P,0,[M+H]+,[M-H]-
+PE(18:1(9Z)/15:0cyclo),C38H72NO8P,0,[M+H]+,[M-H]-
+PE(18:1(9Z)/17:0cycw7c),C40H76NO8P,0,[M+H]+,[M-H]-
+PE(18:1(9Z)/19:0cycv8c),C42H80NO8P,0,[M+H]+,[M-H]-
+PE(18:1(9Z)/19:0cycw8c),C42H80NO8P,0,[M+H]+,[M-H]-
+PE(19:0cycv8c/14:0),C38H74NO8P,0,[M+H]+,[M-H]-
+PE(19:0cycv8c/15:0cyclo),C39H74NO8P,0,[M+H]+,[M-H]-
+PE(19:0cycv8c/16:0),C40H78NO8P,0,[M+H]+,[M-H]-
+PE(19:0cycv8c/16:1(9Z)),C40H76NO8P,0,[M+H]+,[M-H]-
+PE(19:0cycv8c/17:0cycw7c),C41H78NO8P,0,[M+H]+,[M-H]-
+PE(19:0cycv8c/18:1(9Z)),C42H80NO8P,0,[M+H]+,[M-H]-
+PE(19:0cycv8c/19:0cycv8c),C43H82NO8P,0,[M+H]+,[M-H]-
+PS(10:0/17:0cycw7c),C33H62NO10P,0,[M+H]+,[M-H]-
+PS(12:0/17:0cycw7c),C35H66NO10P,0,[M+H]+,[M-H]-
+PS(14:0/15:0cyclo),C35H66NO10P,0,[M+H]+,[M-H]-
+PS(14:0/17:0cycw7c),C37H70NO10P,0,[M+H]+,[M-H]-
+PS(14:0/19:0cycv8c),C39H74NO10P,0,[M+H]+,[M-H]-
+PS(14:0/19:0cycw8c),C39H74NO10P,0,[M+H]+,[M-H]-
+PS(15:0cyclo/14:0),C35H66NO10P,0,[M+H]+,[M-H]-
+PS(15:0cyclo/15:0cyclo),C36H66NO10P,0,[M+H]+,[M-H]-
+PS(15:0cyclo/16:0),C37H70NO10P,0,[M+H]+,[M-H]-
+PS(15:0cyclo/17:0cycw7c),C38H70NO10P,0,[M+H]+,[M-H]-
+PS(15:0cyclo/19:0cycv8c),C40H74NO10P,0,[M+H]+,[M-H]-
+PS(16:0/17:0cycw7c),C39H74NO10P,0,[M+H]+,[M-H]-
+PS(16:0/19:0cycv8c),C41H78NO10P,0,[M+H]+,[M-H]-
+PS(16:0/19:0cycw8c),C41H78NO10P,0,[M+H]+,[M-H]-
+PS(16:1(9Z)/17:0cycw7c),C39H72NO10P,0,[M+H]+,[M-H]-
+PS(16:1(9Z)/19:0cycv8c),C41H76NO10P,0,[M+H]+,[M-H]-
+PS(16:1(9Z)/19:0cycw8c),C41H76NO10P,0,[M+H]+,[M-H]-
+PS(17:0cycw7c/12:0),C35H66NO10P,0,[M+H]+,[M-H]-
+PS(17:0cycw7c/14:0),C37H70NO10P,0,[M+H]+,[M-H]-
+PS(17:0cycw7c/15:0cyclo),C38H70NO10P,0,[M+H]+,[M-H]-
+PS(17:0cycw7c/16:0),C39H74NO10P,0,[M+H]+,[M-H]-
+PS(17:0cycw7c/16:1(9Z)),C39H72NO10P,0,[M+H]+,[M-H]-
+PS(17:0cycw7c/17:0cycw7c),C40H74NO10P,0,[M+H]+,[M-H]-
+PS(17:0cycw7c/18:1(9Z)),C41H76NO10P,0,[M+H]+,[M-H]-
+PS(17:0cycw7c/19:0cycv8c),C42H78NO10P,0,[M+H]+,[M-H]-
+PS(18:1(9Z)/15:0cyclo),C39H72NO10P,0,[M+H]+,[M-H]-
+PS(18:1(9Z)/17:0cycw7c),C41H76NO10P,0,[M+H]+,[M-H]-
+PS(19:0cycv8c/14:0),C39H74NO10P,0,[M+H]+,[M-H]-
+PS(19:0cycv8c/15:0cyclo),C40H74NO10P,0,[M+H]+,[M-H]-
+PS(19:0cycv8c/16:0),C41H78NO10P,0,[M+H]+,[M-H]-
+PS(19:0cycv8c/16:1(9Z)),C41H76NO10P,0,[M+H]+,[M-H]-
+PS(19:0cycv8c/17:0cycw7c),C42H78NO10P,0,[M+H]+,[M-H]-
+PS(19:0cycv8c/19:0cycv8c),C44H82NO10P,0,[M+H]+,[M-H]-
+PS(19:0cycw8c/10:0),C35H66NO10P,0,[M+H]+,[M-H]-
+DG(19:0cycv8c/12:0(3-OH)/0:0),C34H64O6,0,[M+H]+,[M-H]-
+DG(10:0(3-OH)/12:0(3-OH)/0:0),C25H48O7,0,[M+H]+,[M-H]-
+DG(10:0(3-OH)/12:0/0:0),C25H48O6,0,[M+H]+,[M-H]-
+DG(10:0(3-OH)/15:0cyclo/0:0),C28H52O6,0,[M+H]+,[M-H]-
+DG(10:0(3-OH)/16:0/0:0),C29H56O6,0,[M+H]+,[M-H]-
+DG(10:0(3-OH)/16:1(9Z)/0:0),C29H54O6,0,[M+H]+,[M-H]-
+DG(10:0(3-OH)/17:0cycw7c/0:0),C30H56O6,0,[M+H]+,[M-H]-
+DG(10:0(3-OH)/19:0cycv8c/0:0),C32H60O6,0,[M+H]+,[M-H]-
+DG(10:0(3-OH)/19:iso/0:0),C32H62O6,0,[M+H]+,[M-H]-
+DG(10:0/10:0(3-OH)/0:0),C23H44O6,0,[M+H]+,[M-H]-
+DG(10:0/12:0(3-OH)/0:0),C25H48O6,0,[M+H]+,[M-H]-
+DG(10:0/17:0cycw7c/0:0),C30H56O5,0,[M+H]+,[M-H]-
+DG(12:0(3-OH)/10:0/0:0),C25H48O6,0,[M+H]+,[M-H]-
+DG(12:0(3-OH)/12:0(3-OH)/0:0),C27H52O7,0,[M+H]+,[M-H]-
+DG(12:0(3-OH)/12:0/0:0),C27H52O6,0,[M+H]+,[M-H]-
+DG(12:0(3-OH)/14:0(3-OH)/0:0),C29H56O7,0,[M+H]+,[M-H]-
+DG(12:0(3-OH)/14:0/0:0),C29H56O6,0,[M+H]+,[M-H]-
+DG(12:0(3-OH)/15:0/0:0),C30H58O6,0,[M+H]+,[M-H]-
+DG(12:0(3-OH)/15:0cyclo/0:0),C30H56O6,0,[M+H]+,[M-H]-
+DG(12:0(3-OH)/17:0cycw7c/0:0),C32H60O6,0,[M+H]+,[M-H]-
+DG(12:0(3-OH)/18:1(9Z)/0:0),C33H62O6,0,[M+H]+,[M-H]-
+DG(12:0(3-OH)/19:0cycv8c/0:0),C34H64O6,0,[M+H]+,[M-H]-
+DG(12:0(3-OH)/19:iso/0:0),C34H66O6,0,[M+H]+,[M-H]-
+DG(12:0/10:0(3-OH)/0:0),C25H48O6,0,[M+H]+,[M-H]-
+DG(12:0/12:0(3-OH)/0:0),C27H52O6,0,[M+H]+,[M-H]-
+DG(12:0/14:0(3-OH)/0:0),C29H56O6,0,[M+H]+,[M-H]-
+DG(12:0/17:0cycw7c/0:0),C32H60O5,0,[M+H]+,[M-H]-
+DG(12:0/19:iso/0:0),C34H66O5,0,[M+H]+,[M-H]-
+DG(14:0(3-OH)/12:0(3-OH)/0:0),C29H56O7,0,[M+H]+,[M-H]-
+DG(14:0(3-OH)/12:0/0:0),C29H56O6,0,[M+H]+,[M-H]-
+DG(14:0(3-OH)/14:0(3-OH)/0:0),C31H60O7,0,[M+H]+,[M-H]-
+DG(14:0(3-OH)/14:0/0:0),C31H60O6,0,[M+H]+,[M-H]-
+DG(14:0(3-OH)/16:0/0:0),C33H64O6,0,[M+H]+,[M-H]-
+DG(14:0(3-OH)/16:1(9Z)/0:0),C33H62O6,0,[M+H]+,[M-H]-
+DG(14:0(3-OH)/17:0cycw7c/0:0),C34H64O6,0,[M+H]+,[M-H]-
+DG(14:0/12:0(3-OH)/0:0),C29H56O6,0,[M+H]+,[M-H]-
+DG(14:0/14:0(3-OH)/0:0),C31H60O6,0,[M+H]+,[M-H]-
+DG(14:0/15:0cyclo/0:0),C32H60O5,0,[M+H]+,[M-H]-
+DG(14:0/17:0cycw7c/0:0),C34H64O5,0,[M+H]+,[M-H]-
+DG(14:0/19:0cycv8c/0:0),C36H68O5,0,[M+H]+,[M-H]-
+DG(14:0/19:0cycw8c/0:0),C36H68O5,0,[M+H]+,[M-H]-
+DG(15:0/10:0(3-OH)/0:0),C28H54O6,0,[M+H]+,[M-H]-
+DG(15:0/12:0(3-OH)/0:0),C30H58O6,0,[M+H]+,[M-H]-
+DG(15:0/14:0(3-OH)/0:0),C32H62O6,0,[M+H]+,[M-H]-
+DG(15:0cyclo/10:0(3-OH)/0:0),C28H52O6,0,[M+H]+,[M-H]-
+DG(15:0cyclo/14:0/0:0),C32H60O5,0,[M+H]+,[M-H]-
+DG(15:0cyclo/15:0cyclo/0:0),C33H60O5,0,[M+H]+,[M-H]-
+DG(15:0cyclo/16:0/0:0),C34H64O5,0,[M+H]+,[M-H]-
+DG(15:0cyclo/16:1(9Z)/0:0),C34H62O5,0,[M+H]+,[M-H]-
+DG(15:0cyclo/17:0cycw7c/0:0),C35H64O5,0,[M+H]+,[M-H]-
+DG(15:0cyclo/18:1(9Z)/0:0),C36H66O5,0,[M+H]+,[M-H]-
+DG(15:0cyclo/19:0cycv8c/0:0),C37H68O5,0,[M+H]+,[M-H]-
+DG(16:0/10:0(3-OH)/0:0),C29H56O6,0,[M+H]+,[M-H]-
+DG(16:0/14:0(3-OH)/0:0),C33H64O6,0,[M+H]+,[M-H]-
+DG(16:0/15:0cyclo/0:0),C34H64O5,0,[M+H]+,[M-H]-
+DG(16:0/17:0cycw7c/0:0),C36H68O5,0,[M+H]+,[M-H]-
+DG(16:0/19:0cycv8c/0:0),C38H72O5,0,[M+H]+,[M-H]-
+DG(16:0/19:0cycw8c/0:0),C38H72O5,0,[M+H]+,[M-H]-
+DG(16:1(9Z)/14:0(3-OH)/0:0),C33H62O6,0,[M+H]+,[M-H]-
+DG(16:1(9Z)/17:0cycw7c/0:0),C36H66O5,0,[M+H]+,[M-H]-
+DG(16:1(9Z)/19:0cycv8c/0:0),C38H70O5,0,[M+H]+,[M-H]-
+DG(16:1(9Z)/19:0cycw8c/0:0),C38H70O5,0,[M+H]+,[M-H]-
+DG(17:0cycw7c/10:0(3-OH)/0:0),C30H56O6,0,[M+H]+,[M-H]-
+DG(17:0cycw7c/10:0/0:0),C30H56O5,0,[M+H]+,[M-H]-
+DG(17:0cycw7c/12:0(3-OH)/0:0),C32H60O6,0,[M+H]+,[M-H]-
+DG(17:0cycw7c/12:0/0:0),C32H60O5,0,[M+H]+,[M-H]-
+DG(17:0cycw7c/14:0/0:0),C34H64O5,0,[M+H]+,[M-H]-
+DG(17:0cycw7c/15:0cyclo/0:0),C35H64O5,0,[M+H]+,[M-H]-
+DG(17:0cycw7c/16:0/0:0),C36H68O5,0,[M+H]+,[M-H]-
+DG(17:0cycw7c/16:1(9Z)/0:0),C36H66O5,0,[M+H]+,[M-H]-
+DG(17:0cycw7c/17:0cycw7c/0:0),C37H68O5,0,[M+H]+,[M-H]-
+DG(17:0cycw7c/18:1(9Z)/0:0),C38H70O5,0,[M+H]+,[M-H]-
+DG(17:0cycw7c/19:0cycv8c/0:0),C39H72O5,0,[M+H]+,[M-H]-
+DG(17:0cycw7c/19:iso/0:0),C39H74O5,0,[M+H]+,[M-H]-
+DG(18:1(9Z)/12:0(3-OH)/0:0),C33H62O6,0,[M+H]+,[M-H]-
+DG(18:1(9Z)/15:0cyclo/0:0),C36H66O5,0,[M+H]+,[M-H]-
+DG(19:0cycv8c/10:0(3-OH)/0:0),C32H60O6,0,[M+H]+,[M-H]-
+DG(19:0cycv8c/14:0/0:0),C36H68O5,0,[M+H]+,[M-H]-
+DG(19:0cycv8c/15:0cyclo/0:0),C37H68O5,0,[M+H]+,[M-H]-
+DG(19:0cycv8c/16:0/0:0),C38H72O5,0,[M+H]+,[M-H]-
+DG(19:0cycv8c/16:1(9Z)/0:0),C38H70O5,0,[M+H]+,[M-H]-
+DG(19:0cycv8c/17:0cycw7c/0:0),C39H72O5,0,[M+H]+,[M-H]-
+DG(19:0cycv8c/18:1(9Z)/0:0),C40H74O5,0,[M+H]+,[M-H]-
+DG(19:0cycv8c/19:0cycv8c/0:0),C41H76O5,0,[M+H]+,[M-H]-
+DG(19:0cycw8c/10:0/0:0),C32H60O5,0,[M+H]+,[M-H]-
+DG(19:iso/10:0(3-OH)/0:0),C32H62O6,0,[M+H]+,[M-H]-
+DG(19:iso/10:0/0:0),C32H62O5,0,[M+H]+,[M-H]-
+DG(19:iso/12:0(3-OH)/0:0),C34H66O6,0,[M+H]+,[M-H]-
+DG(19:iso/12:0/0:0),C34H66O5,0,[M+H]+,[M-H]-
+DG(19:iso/14:0(3-OH)/0:0),C36H70O6,0,[M+H]+,[M-H]-
+DG(19:iso/14:0/0:0),C36H70O5,0,[M+H]+,[M-H]-
+DG(19:iso/17:0cycw7c/0:0),C39H74O5,0,[M+H]+,[M-H]-
+DG(19:iso/19:0cycv8c/0:0),C41H78O5,0,[M+H]+,[M-H]-
+DG(19:iso/19:iso/0:0),C41H80O5,0,[M+H]+,[M-H]-
+2-amino-4-formylaminooxy-but-3E-enoic acid,C5H8N2O4,0,[M+H]+,[M-H]-
+acetylpyruvic acid,C5H6O4,0,[M+H]+,[M-H]-
+4-methyl-5-nitrocatechol,C7H7NO4,0,[M+H]+,[M-H]-
+iminoarginine,C6H12N4O2,0,[M+H]+,[M-H]-
+N-isopropyl-L-glutamine zwitterion,C8H16N2O3,0,[M+H]+,[M-H]-
+monodechloroaminopyrrolnitrin,C10H9ClN2,0,[M+H]+,[M-H]-
+N-isopropyl-L-glutamine,C8H16N2O3,0,[M+H]+,[M-H]-
+"1,3,7-trimethyl-5-hydroxyisouric acid",C8H10N4O4,0,[M+H]+,[M-H]-
+"2-hydroxy-6-oxo-2,4-heptadienoic acid",C7H8O4,0,[M+H]+,[M-H]-
+"2-hydroxy-6-oxo-2,4-heptadienoate",C7H7O4,0,[M+H]+,[M-H]-
+2-aminobenzoylacetic acid,C9H9NO3,0,[M+H]+,[M-H]-
+"5,10-dihydrophenazine",C12H10N2,0,[M+H]+,[M-H]-
+pyrrolnitrin,C10H6Cl2N2O2,0,[M+H]+,[M-H]-
+"(R)-(2-chloro-5-oxo-2,5-dihydro-2-furyl)acetate",C6H4ClO4,0,[M+H]+,[M-H]-
+"(R)-(2-chloro-5-oxo-2,5-dihydro-2-furyl)acetic acid",C6H5ClO4,0,[M+H]+,[M-H]-
+D-3-sulfolactaldehyde,C3H6O5S,0,[M+H]+,[M-H]-
+"(2Z,4Z)-2,3-dichloromuconic acid",C6H4Cl2O4,0,[M+H]+,[M-H]-
+"2,4-diacetylphloroglucinol",C10H10O5,0,[M+H]+,[M-H]-
+o-aminoacetophenone,C8H9NO,0,[M+H]+,[M-H]-
+furanomycin,C7H11NO3,0,[M+H]+,[M-H]-
+6-hydroxy-N-methylmyosmine(1+),C10H13N2O,0,[M+H]+,[M-H]-
+6-hydroxy-N-methylmyosmine,C10H12N2O,0,[M+H]+,[M-H]-
+2-hydroxylauric acid,C12H24O3,0,[M+H]+,[M-H]-
+"2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid",C12H10O4,0,[M+H]+,[M-H]-
+nitrofurazone,C6H6N4O4,0,[M+H]+,[M-H]-
+"2,5-dihydroxy-3-methanesulfinylbenzyl alcohol",C8H10O4S,0,[M+H]+,[M-H]-
+"4-chloro-3,5-dimethylphenol",C8H9ClO,0,[M+H]+,[M-H]-
+asphodelin A,C15H10O6,0,[M+H]+,[M-H]-
+Pseudomonas quinolone signal,C16H21NO2,0,[M+H]+,[M-H]-
+2-heptyl-4-quinolone,C16H21NO,0,[M+H]+,[M-H]-
+2-Heptyl-4-quinolinol 1-oxide,C16H21NO2,0,[M+H]+,[M-H]-
+1-Hydroxy-2-nonyl-4(1H)-quinolinone,C18H25NO2,0,[M+H]+,[M-H]-
+N-Butanoyl-D-homoserine lactone,C8H13NO3,0,[M+H]+,[M-H]-
+N-[(3S)-2-Oxotetrahydro-3-furanyl]dodecanamide,C16H29NO3,0,[M+H]+,[M-H]-
+3-Oxo-N-(2-oxotetrahydro-3-furanyl)dodecanamide,C16H27NO4,0,[M+H]+,[M-H]-
+3-Oxo-N-(2-oxotetrahydro-3-furanyl)butanamide,C8H11NO4,0,[M+H]+,[M-H]-
+Alpha Biliverdin,C33H34N4O6,0,[M+H]+,[M-H]-
+Pyocyanin,C13H10N2O,0,[M+H]+,[M-H]-
+Delta Biliverdin,C33H34N4O6,0,[M+H]+,[M-H]-
+2-aminobenzoylacetate,C9H8NO3,0,[M+H]+,[M-H]-
+DHQ,C9H7NO2,0,[M+H]+,[M-H]-
+C9:1-HQ (II),C18H23NO,0,[M+H]+,[M-H]-
+Rha-C10-C12:1,C28H50O9,0,[M+H]+,[M-H]-
+C6-HQ,C15H19NO,0,[M+H]+,[M-H]-
+C11:2-HQ (II),C20H25NO,0,[M+H]+,[M-H]-
+C8:1-HQ,C17H21NO,0,[M+H]+,[M-H]-
+C8-HQ,C17H23NO,0,[M+H]+,[M-H]-
+C10:1-HQ (II),C19H25NO,0,[M+H]+,[M-H]-
+Rha-Rha-C10-C10,C32H58O13,0,[M+H]+,[M-H]-
+Rha-Rha-C10-C12:1,C34H60O13,0,[M+H]+,[M-H]-
+C9:1-QNO (II),C18H23NO2,0,[M+H]+,[M-H]-
+C15:1-QNO,C24H35NO2,0,[M+H]+,[M-H]-
+C11:2-HQ (I),C20H25NO,0,[M+H]+,[M-H]-
+C7-QNO,C16H21NO2,0,[M+H]+,[M-H]-
+Rha-Rha-C12-C12,C36H66O13,0,[M+H]+,[M-H]-
+C9-QNO,C18H25NO2,0,[M+H]+,[M-H]-
+C10:1-HQ (I),C19H25NO,0,[M+H]+,[M-H]-
+C7:1-HQ,C16H19NO,0,[M+H]+,[M-H]-
+C11:1-HQ (III),C20H27NO,0,[M+H]+,[M-H]-
+C11:1-HQ (II),C20H27NO,0,[M+H]+,[M-H]-
+C9:2-HQ,C18H21NO,0,[M+H]+,[M-H]-
+C11:1-HQ (I),C20H27NO,0,[M+H]+,[M-H]-
+C7-HQ,C16H21NO,0,[M+H]+,[M-H]-
+C9:1-PQS,C18H23NO2,0,[M+H]+,[M-H]-
+Rha-Rha-C12-C12:1,C36H64O13,0,[M+H]+,[M-H]-
+Pyochelin,C14H16N2O3S2,0,[M+H]+,[M-H]-
+Rha-Rha-C12-C12,C36H66O13,0,[M+H]+,[M-H]-
+C5-HQ,C14H17NO,0,[M+H]+,[M-H]-
+C8:1-QNO,C17H21NO2,0,[M+H]+,[M-H]-
+Rha-Rha-C10-C12,C34H62O13,0,[M+H]+,[M-H]-
+C9-PQS,C18H25NO2,0,[M+H]+,[M-H]-
+Phenanzine-1-carboxamide,C13H9N3O,0,[M+H]+,[M-H]-
+1-Hydroxyphenazine,C12H8N2O,0,[M+H]+,[M-H]-
+C8-QNO,C17H23NO2,0,[M+H]+,[M-H]-
+C3-HQ,C12H13NO,0,[M+H]+,[M-H]-
+Rha-C10-C12,C28H52O9,0,[M+H]+,[M-H]-
+C5:1-HQ,C14H15NO,0,[M+H]+,[M-H]-
+Rha-Rha-C10-C12,C34H62O13,0,[M+H]+,[M-H]-
+C10-HQ,C19H27NO,0,[M+H]+,[M-H]-
+PQS,C16H21NO2,0,[M+H]+,[M-H]-
+C9:1-HQ (I),C18H23NO,0,[M+H]+,[M-H]-
+Rha-C10-C10,C26H48O9,0,[M+H]+,[M-H]-
+C9-HQ,C18H25NO,0,[M+H]+,[M-H]-
+C9:1-QNO (I),C18H23NO2,0,[M+H]+,[M-H]-
+C11-HQ,C20H29NO,0,[M+H]+,[M-H]-
+GlcNac,C8H15NO6,0,[M+H]+,[M-H]-
+Glu-Glu,C10H16N2O7,0,[M+H]+,[M-H]-
+C7:1-QNO,C16H19NO2,0,[M+H]+,[M-H]-
+Dihydroxyoctadecenoic acid,C18H34O4,0,[M+H]+,[M-H]-
+Hydroxyoctadecadienoic acid,C18H32O3,0,[M+H]+,[M-H]-
+LPE(16:1),C21H42NO7P,0,[M+H]+,[M-H]-
+C11:1-QNO ,C20H27NO2,0,[M+H]+,[M-H]-
+C12:1-QNO,C21H29NO2,0,[M+H]+,[M-H]-
+LPE(16:0),C21H44NO7P,0,[M+H]+,[M-H]-
+C11-QNO,C20H29NO2,0,[M+H]+,[M-H]-
+C13:1-PQS,C22H31NO2,0,[M+H]+,[M-H]-
+C13:1-HQ,C22H31NO,0,[M+H]+,[M-H]-
+C13:2-HQ,C22H29NO,0,[M+H]+,[M-H]-
+PUFA(18:2),C18H32O2,0,[M+H]+,[M-H]-
+LPE(18:1),C23H46NO7P,0,[M+H]+,[M-H]-
+C11:2-QNO,C20H25NO2,0,[M+H]+,[M-H]-
+Novobiocin,C31H36N2O11,0,[M+H]+,[M-H]-
+6-hydroxy nicotinic acid,C6H5NO3,0,[M+H]+,[M-H]-

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><wizard>
+    <wiz_part part="DATA_IMPORT" preset="Data">
+        <parameter name="File names">
+            <file>/home/Downloads/Si11_standards/raw MS files/hm250 Si11mix 20uM C18 pos_GB5_01_35845.d.mzXML</file>
+            <file>/home/Downloads/Si11_standards/raw MS files/hm250 Si11mix 20uM C18 pos_GB5_01_35844.d.mzXML</file>
+            <file>/home/Downloads/Si11_standards/raw MS files/hm250 Si11mix 20uM C18 pos_GB5_01_35843.d.mzXML</file>
+            <file>/home/Downloads/Si11_standards/raw MS files/hm250 Si11mix 20uM C18 pos_GB5_01_35842.d.mzXML</file>
+            <file>/home/Downloads/Si11_standards/raw MS files/hm250 Si11mix 20uM C18 pos_GB5_01_35841.d.mzXML</file>
+            <file>/home/Downloads/Si11_standards/raw MS files/hm250 Si11mix 20uM C18 pos_GB5_01_35840.d.mzXML</file>
+            <file>/home/Downloads/Si11_standards/raw MS files/hm250 Si11mix 20uM C18 pos_GB5_01_35839.d.mzXML</file>
+        </parameter>
+    </wiz_part>
+    <wiz_part part="ION_INTERFACE" preset="UHPLC">
+        <parameter name="Smoothing">true</parameter>
+        <parameter name="Stable ionization across samples">true</parameter>
+        <parameter name="Crop retention time">
+            <min>1.0</min>
+            <max>20.0</max>
+        </parameter>
+        <parameter name="Max peaks in chromatogram">15</parameter>
+        <parameter name="Minimum consecutive scans">4</parameter>
+        <parameter name="Approximate feature FWHM" unit="MINUTES">0.05</parameter>
+        <parameter name="RT tolerance (intra-sample)" unit="MINUTES">0.04</parameter>
+        <parameter name="RT tolerance (sample-to-sample)" unit="MINUTES">0.1</parameter>
+    </wiz_part>
+    <wiz_part part="IMS" preset="NO_IMS">
+        <parameter name="IMS active">false</parameter>
+        <parameter name="Smoothing">true</parameter>
+        <parameter name="IMS type">none</parameter>
+        <parameter name="Minimum consecutive scans">5</parameter>
+        <parameter name="Approximate feature FWHM">0.01</parameter>
+    </wiz_part>
+    <wiz_part part="MS" preset="QTOF">
+        <parameter name="Ion mode">Positive</parameter>
+        <parameter choices="ABSOLUTE_NOISE_LEVEL,FACTOR_OF_LOWEST_SIGNAL" ms1_level="2.0" msn_level="1.0" name="Noise threshold" selected_value="FACTOR_OF_LOWEST_SIGNAL"/>
+        <parameter name="Minimum feature height">1000.0</parameter>
+        <parameter name="m/z tolerance (scan-to-scan)">
+            <absolutetolerance>0.005</absolutetolerance>
+            <ppmtolerance>20.0</ppmtolerance>
+        </parameter>
+        <parameter name="m/z tolerance (intra-sample)">
+            <absolutetolerance>0.0015</absolutetolerance>
+            <ppmtolerance>3.0</ppmtolerance>
+        </parameter>
+        <parameter name="m/z tolerance (sample-to-sample)">
+            <absolutetolerance>0.004</absolutetolerance>
+            <ppmtolerance>8.0</ppmtolerance>
+        </parameter>
+    </wiz_part>
+    <wiz_part part="FILTER" preset="Filters">
+        <parameter name="Original feature list">REMOVE</parameter>
+        <parameter name="Min samples per aligned feature">
+            <abs>1</abs>
+            <rel>0.0</rel>
+        </parameter>
+        <parameter name="Only keep features with 13C">false</parameter>
+    </wiz_part>
+    <wiz_part part="ANNOTATION" preset="Annotation">
+        <parameter name="Local CSV database" selected="true">
+            <parameter name="Database file">
+                <current_file>/home/rsh19/Downloads/MS1FA_RShiny_dashboard/Data/metabolite_data/Si11_target_list.csv</current_file>
+                <last_file>/home/rsh19/Downloads/MS1FA_RShiny_dashboard/Data/metabolite_data/Si11_target_list.csv</last_file>
+                <last_file>/home/rsh19</last_file>
+            </parameter>
+            <parameter name="Use precursor m/z">as calculated from neutral mass (or formula/smiles) + ions</parameter>
+            <parameter name="Filename column (for library generation)" selected="false">filename</parameter>
+            <parameter name="Columns">
+                <importtype column="neutral mass" datatype="io.github.mzmine.datamodel.features.types.numbers.NeutralMassType" selected="false"/>
+                <importtype column="mz" datatype="io.github.mzmine.datamodel.features.types.numbers.PrecursorMZType" selected="false"/>
+                <importtype column="rt" datatype="io.github.mzmine.datamodel.features.types.numbers.RTType" selected="false"/>
+                <importtype column="formula" datatype="io.github.mzmine.datamodel.features.types.annotations.formula.FormulaType" selected="true"/>
+                <importtype column="smiles" datatype="io.github.mzmine.datamodel.features.types.annotations.SmilesStructureType" selected="false"/>
+                <importtype column="inchi" datatype="io.github.mzmine.datamodel.features.types.annotations.InChIStructureType" selected="false"/>
+                <importtype column="inchi key" datatype="io.github.mzmine.datamodel.features.types.annotations.InChIKeyStructureType" selected="false"/>
+                <importtype column="name" datatype="io.github.mzmine.datamodel.features.types.annotations.CompoundNameType" selected="true"/>
+                <importtype column="CCS" datatype="io.github.mzmine.datamodel.features.types.numbers.CCSType" selected="false"/>
+                <importtype column="mobility" datatype="io.github.mzmine.datamodel.features.types.numbers.MobilityType" selected="false"/>
+                <importtype column="comment" datatype="io.github.mzmine.datamodel.features.types.annotations.CommentType" selected="false"/>
+                <importtype column="adduct" datatype="io.github.mzmine.datamodel.features.types.annotations.iin.IonAdductType" selected="false"/>
+                <importtype column="PubChemCID" datatype="io.github.mzmine.modules.dataprocessing.id_localcsvsearch.PubChemIdType" selected="false"/>
+            </parameter>
+        </parameter>
+        <parameter name="Spectral library files"/>
+    </wiz_part>
+    <wiz_part part="WORKFLOW" preset="DDA">
+        <parameter name="Apply spectral networking (FBMN/IIMN)">true</parameter>
+        <parameter name="Export path" selected="true">
+            <current_file>/home/Downloads/Si11_standards_mixture/si11_second_try_MZmine3/Si11_second_try</current_file>
+            <last_file>/home/Downloads/Si11_standards_mixture/si11_second_try_MZmine3/Si11_second_try</last_file>
+        </parameter>
+        <parameter name="Export for molecular networking (e.g., GNPS, FBMN, IIMN, MetGem)">true</parameter>
+        <parameter name="Export for SIRIUS">true</parameter>
+        <parameter name="Export annotation graphics">false</parameter>
+    </wiz_part>
+</wizard>
