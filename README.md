@@ -11,7 +11,7 @@
 - [Installation Instructions](#installation-instructions)
   - [ Use `renv` to create reproducible environments](#Use_`renv`_to_create_reproducible_environments)
   - [Manually install required packages](#Manually_install_required_packages)
-  - [Installation MS1FA](#installation-ms1fa)
+  - [Run MS1FA](#run-ms1fa)
 - [Files Upload](#files-upload)
   - [Required Files](#required-files)
 - [Setting Parameters](#setting-parameters)
