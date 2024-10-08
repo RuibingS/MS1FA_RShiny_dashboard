@@ -151,7 +151,7 @@ shiny::runApp()
   - **RT threshold for correlation**: The RT threshold to group the corelated features with default value is 2 seconds.
   - **RT threshold for metabolites identification**: The RT threshold to identify the metabolites from the library if the retention time is available with default value is 30 seconds.
   - **RT threshold for precursor feature matching**: The RT threshold to match the precursor ions in the MS2 file to the feature table. The default value is 30.
-  - **RT threshold for MS2 feature matching**: The RT threshold to match the MS2 ions of the precursor ions in the MS2 file to the feature table. The default value is 10.
+  - **RT threshold for MS2 feature matching**: The RT threshold to match the MS2 ions of the precursor ions in the MS2 file to the feature table. The default value is 20.
   - **RT threshold for neutral loss feature matching**: The RT threshold to filter each pair of neutral loss features. The default value is 2.
   - **RT threshold for adducts feature matching**: The RT threshold to filter each pair of adducts features. The default value is 2.
 
