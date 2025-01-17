@@ -214,7 +214,7 @@ Similarly, selecting a row in the feature table allows users to generate a box p
   <i>The box plot of L-Phenylalanine</i>
 </p>
 
-### sessionInfo
+### SessionInfo
 ```
 > sessionInfo()
 R version 4.4.1 (2024-06-14 ucrt)
