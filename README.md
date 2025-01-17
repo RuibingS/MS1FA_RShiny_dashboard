@@ -19,7 +19,7 @@
   - [Feature Table](#feature-table)
   - [Interactive Network Plot](#interactive-network-plot)
   - [Box Plot](#box-plot)
-- [SessionInfo](#session-infor)
+- [SessionInfo](#sessionInfo)
 
 ## Installation Instructions
 R version 4.2.0 or above is required. To install MS1FA R Shiny APP successfully, please install the following packages.
@@ -215,6 +215,7 @@ Similarly, selecting a row in the feature table allows users to generate a box p
 </p>
 
 ### SessionInfo
+
 ```
 > sessionInfo()
 R version 4.4.1 (2024-06-14 ucrt)
