@@ -19,7 +19,7 @@
   - [Feature Table](#feature-table)
   - [Interactive Network Plot](#interactive-network-plot)
   - [Box Plot](#box-plot)
-
+- [SessionInfo](#session-infor)
 
 ## Installation Instructions
 R version 4.2.0 or above is required. To install MS1FA R Shiny APP successfully, please install the following packages.
@@ -53,7 +53,7 @@ cran_packages <- c(
   "readxl", "purrr", "readr", "plyr", "data.table",
   "tidyverse", "hrbrthemes", "viridis", "viridisLite", "ggplot2", "roxygen2",
   "rlang", "RcppArmadillo", "webshot", "htmlwidgets", "profvis", "shinythemes",
-  "shinyjs", "visNetwork", "bs4Dash","magick","chromote"
+  "shinyjs", "visNetwork", "bs4Dash","magick","chromote","here","pryr"
 )
 
 install_cran_packages <- function(packages) {
@@ -61,12 +61,9 @@ install_cran_packages <- function(packages) {
     if (!require(pkg, character.only = TRUE, quietly = TRUE)) {
       install.packages(pkg)
       print(paste0("Please install the required package: ", pkg))
-      # After installation, load the package
       library(pkg, character.only = TRUE)
     } else {
-      # If already installed, just make sure it's loaded
       library(pkg, character.only = TRUE)
-    
     }
   }
 }
@@ -88,12 +85,9 @@ install_bioconductor_packages <- function(packages) {
       print(paste0("Please install the required package: ", pkg)) 
       BiocManager::install(pkg)
       library(pkg, character.only = TRUE)
-      
     }
     else {
-      # If already installed, just make sure it's loaded
       library(pkg, character.only = TRUE)
-     
     }
   }
 }
@@ -219,7 +213,6 @@ Similarly, selecting a row in the feature table allows users to generate a box p
 <p align="center">
   <i>The box plot of L-Phenylalanine</i>
 </p>
----
 
 ### sessionInfo
 ```
