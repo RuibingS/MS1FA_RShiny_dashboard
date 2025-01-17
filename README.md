@@ -220,3 +220,57 @@ Similarly, selecting a row in the feature table allows users to generate a box p
   <i>The box plot of L-Phenylalanine</i>
 </p>
 ---
+
+### sessionInfo
+```
+> sessionInfo()
+R version 4.4.1 (2024-06-14 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 10 x64 (build 19045)
+
+Matrix products: default
+
+
+locale:
+[1] LC_COLLATE=English_United States.utf8  LC_CTYPE=English_United States.utf8    LC_MONETARY=English_United States.utf8 LC_NUMERIC=C                          
+[5] LC_TIME=English_United States.utf8    
+
+time zone: Europe/Berlin
+tzcode source: internal
+
+attached base packages:
+[1] stats4    parallel  stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] here_1.0.1             pryr_0.1.6             BiocManager_1.30.25    shinycssloaders_1.1.0  MSnbase_2.30.1         ProtGenerics_1.36.0   
+ [7] S4Vectors_0.42.1       mzR_2.38.0             Rcpp_1.0.13            Biobase_2.64.0         BiocGenerics_0.50.0    chromote_0.3.1        
+[13] magick_2.8.5           bs4Dash_2.3.4          visNetwork_2.1.2       shinyjs_2.1.0          shinythemes_1.2.0      profvis_0.4.0         
+[19] htmlwidgets_1.6.4      webshot_0.5.5          RcppArmadillo_14.2.0-1 rlang_1.1.4            roxygen2_7.3.2         viridis_0.6.5         
+[25] viridisLite_0.4.2      hrbrthemes_0.8.7       lubridate_1.9.3        forcats_1.0.0          tidyr_1.3.1            tibble_3.2.1          
+[31] ggplot2_3.5.1          tidyverse_2.0.0        data.table_1.16.2      plyr_1.8.9             readr_2.1.5            purrr_1.0.2           
+[37] readxl_1.4.3           stringr_1.5.1          igraph_2.0.3           dplyr_1.1.4            shinyWidgets_0.8.7     DT_0.33               
+[43] enviPat_2.6            doParallel_1.0.17      iterators_1.0.14       foreach_1.5.2          MetaboCoreUtils_1.12.0 shiny_1.9.1           
+
+loaded via a namespace (and not attached):
+  [1] rstudioapi_0.17.1           jsonlite_1.8.9              MultiAssayExperiment_1.30.3 magrittr_2.0.3              MALDIquant_1.22.3          
+  [6] zlibbioc_1.50.0             vctrs_0.6.5                 memoise_2.0.1               base64enc_0.1-3             htmltools_0.5.8.1          
+ [11] S4Arrays_1.4.1              cellranger_1.1.0            SparseArray_1.4.8           mzID_1.42.0                 sass_0.4.9                 
+ [16] bslib_0.8.0                 fontawesome_0.5.3           impute_1.78.0               cachem_1.1.0                mime_0.12                  
+ [21] lifecycle_1.0.4             pkgconfig_2.0.3             Matrix_1.7-0                R6_2.5.1                    fastmap_1.2.0              
+ [26] GenomeInfoDbData_1.2.12     MatrixGenerics_1.16.0       clue_0.3-65                 digest_0.6.37               pcaMethods_1.96.0          
+ [31] colorspace_2.1-1            ps_1.8.1                    rprojroot_2.0.4             crosstalk_1.2.1             GenomicRanges_1.56.1       
+ [36] fansi_1.0.6                 timechange_0.3.0            httr_1.4.7                  abind_1.4-8                 compiler_4.4.1             
+ [41] fontquiver_0.2.1            withr_3.0.2                 BiocParallel_1.38.0         Rttf2pt1_1.3.12             MASS_7.3-60.2              
+ [46] DelayedArray_0.30.1         tools_4.4.1                 PSMatch_1.8.0               httpuv_1.6.15               extrafontdb_1.0            
+ [51] glue_1.8.0                  QFeatures_1.14.2            promises_1.3.1              grid_4.4.1                  cluster_2.1.6              
+ [56] reshape2_1.4.4              generics_0.1.3              gtable_0.3.6                tzdb_0.4.0                  preprocessCore_1.66.0      
+ [61] websocket_1.4.2             hms_1.1.3                   xml2_1.3.6                  utf8_1.2.4                  XVector_0.44.0             
+ [66] pillar_1.9.0                limma_3.60.6                later_1.4.0                 lattice_0.22-6              tidyselect_1.2.1           
+ [71] fontLiberation_0.1.0        knitr_1.49                  gridExtra_2.3               fontBitstreamVera_0.1.1     IRanges_2.38.1             
+ [76] SummarizedExperiment_1.34.0 xfun_0.49                   statmod_1.5.0               matrixStats_1.4.1           stringi_1.8.4              
+ [81] UCSC.utils_1.0.0            yaml_2.3.10                 lazyeval_0.2.2              evaluate_1.0.1              codetools_0.2-20           
+ [86] extrafont_0.19              MsCoreUtils_1.16.1          gdtools_0.4.1               cli_3.6.3                   affyio_1.74.0              
+ [91] systemfonts_1.1.0           xtable_1.8-4                processx_3.8.4              munsell_0.5.1               jquerylib_0.1.4            
+ [96] GenomeInfoDb_1.40.1         XML_3.99-0.17               AnnotationFilter_1.28.0     scales_1.3.0                affy_1.82.0                
+[101] ncdf4_1.23                  crayon_1.5.3                vsn_3.72.0
+```
