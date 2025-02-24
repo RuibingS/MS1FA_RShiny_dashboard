@@ -4,8 +4,8 @@
 
 ###################################################
 
-source(here::here("R","helper functions.R"))
-source(here::here("R","parse_library.R"))
+# source(here::here("R","helper functions.R"))
+# source(here::here("R","parse_library.R"))
 
 # read in-house libraray 
 # Si16_test <- parse_library_file_parallel_NIST(file_path = here::here("Data","metabolite_data","Si16_library.library"), ionPolarity = "pos",spectrum_type ="MS1")
@@ -124,7 +124,7 @@ Si11_lib_FT_list <- function(comp_list, FT, rt_tolerance = 3, mz_tolerance = 0.0
   return(output_temp)
 }
 
-Si11_lib_FT_list_test <- Si11_lib_FT_list(comp_list = Si16_test, FT = CAMERA_ft, rt_tolerance = 3)
+#Si11_lib_FT_list_test <- Si11_lib_FT_list(comp_list = Si16_test, FT = CAMERA_ft, rt_tolerance = 3)
 
 
  
