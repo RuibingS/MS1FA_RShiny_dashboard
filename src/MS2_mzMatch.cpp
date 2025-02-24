@@ -12,14 +12,14 @@ Rcpp::List MS2_mzMatch(Rcpp::List input_list,
                        double mz_diff_MS2,
                        double rt_thr_MS2,
                        double ppm
-) {
+) { 
   Rcpp::CharacterVector feature_name = FT["feature_name"];
   Rcpp::NumericVector FT_mz = FT["mz"];
   Rcpp::NumericVector FT_RT = FT["rt"];
   int nrow_FT = FT.nrow();
   int length_list = input_list.length();
   
-  Rcpp::List results; // Create an empty list to store the results
+  Rcpp::List results;
   
   for (int i = 0; i < nrow_FT; i++) {
     for (int j = 0; j < length_list; j++) {
@@ -47,7 +47,7 @@ Rcpp::List MS2_mzMatch(Rcpp::List input_list,
               
               for(int v = 0; v < mz_values_length; v++){
                 if (mz_values_length > 0 && (std::abs(mz_values[v] - FT_mz[i]) <= mz_diff_MS2 || std::abs(mz_values[v] - FT_mz[i]) <=  FT_mz[i] * ppm * 1e-6)&& std::abs(Feature_RT_vec[0]-FT_RT[i])<=rt_thr_MS2 ) { //
-                  Rcpp::List result; // Create a list to store the result for this match
+                  Rcpp::List result; 
                   
                   result["feature_name"] = Rcpp::as<std::string>(feature_name[i]);
                   result["feature_mz"] =FT_mz[i] ;
@@ -58,7 +58,7 @@ Rcpp::List MS2_mzMatch(Rcpp::List input_list,
                   
                   result["Precursor_rt"] = Precursor_rt_vec[0];
                   result["found_MS2_mz"] = mz_values[v];
-                  results.push_back(result); // Add the result to the list of results
+                  results.push_back(result); 
                 }
               }
             }
@@ -66,7 +66,7 @@ Rcpp::List MS2_mzMatch(Rcpp::List input_list,
         }
       }
     }
-  }
+  } 
   
-  return results; // Return the list of results
-}
+  return results; 
+} 

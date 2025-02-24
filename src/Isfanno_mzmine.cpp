@@ -13,7 +13,7 @@ List ISFMZmine_fun(Rcpp::List MZmine_list,
                    double rt_thr_MS2,
                    double ppm,
                    double ms2_mz_diff
-) {
+) { 
   
   int nrow_FT = FT.nrows();
   CharacterVector FT_FTname = FT["feature_name"];
@@ -43,7 +43,7 @@ List ISFMZmine_fun(Rcpp::List MZmine_list,
       NumericVector FTfeature_mz_temp;
       NumericVector ms2_feature_mz_temp;
       NumericVector ms2_feature_rt_temp;
-
+       
       
       for (int j = 0; j < nrow_FT; j++) {
         
@@ -60,9 +60,14 @@ List ISFMZmine_fun(Rcpp::List MZmine_list,
             ms2_feature_name_temp.push_back(FT_FTname[j]);
             ms2_feature_mz_temp.push_back(ms2mz[k]);
             ms2_feature_rt_temp.push_back(FT_rtime[j]);
-          }
+          } 
+          // else {
+          //   PI_feature_name_temp.push_back(PI_FTname[0]);
+          //   PI_feature_mz_temp.push_back(PI_mz[0]);
+          //   PI_feature_rt_temp.push_back(PI_rtime[0]);
+          // }
         }
-      }
+      } 
       
       df["PI_feature_name"] = PI_feature_name_temp;
       df["PI_feature_mz"] = PI_feature_mz_temp;
@@ -74,9 +79,9 @@ List ISFMZmine_fun(Rcpp::List MZmine_list,
       
       output[i] = df;
     }
-  }
+  } 
   return output;
-}
+} 
 
 // [[Rcpp::export]]
 CharacterVector ISFMZmine_assign_fun(DataFrame PI_MS2_df,
@@ -101,7 +106,7 @@ CharacterVector ISFMZmine_assign_fun(DataFrame PI_MS2_df,
         break; 
       }
     }
-  } 
+  }  
   
   // assign MS2 matches both precursors and have MS2 matches
   for (int i = 0; i < n; i++) {
@@ -109,13 +114,13 @@ CharacterVector ISFMZmine_assign_fun(DataFrame PI_MS2_df,
       if (FT_feature_name[j] == ms2_FTname[i]) {
         if (!FT_ISF_anno[j].empty()) {
           FT_ISF_anno[j] = Rcpp::String(as<std::string>(FT_ISF_anno[j]) + "; " + as<std::string>(Precursor_FTname[i]) + "_MS2 match");
-        } else { 
+        } else {  
           FT_ISF_anno[j] = as<std::string>(Precursor_FTname[i]) + "_MS2 match";
-        } 
+        }  
         break; 
       }
     }
-  }
-   
+  } 
+  
   return FT_ISF_anno;
-} 
+}  
