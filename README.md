@@ -9,7 +9,6 @@
 
 ## Table of Contents
 - [Installation Instructions](#installation-instructions)
-  - [ Use `renv` to create reproducible environments](#Use_`renv`_to_create_reproducible_environments)
   - [Manually install required packages](#Manually_install_required_packages)
   - [Run MS1FA](#run-ms1fa)
 - [Files Upload](#files-upload)
@@ -22,29 +21,7 @@
 - [SessionInfo](#sessionInfo)
 
 ## Installation Instructions
-R version 4.2.0 or above is required. To install MS1FA R Shiny APP successfully, please install the following packages.
-### Use `renv` to  create reproducible environments
-Clone MS1FA repository
-```sh
-git clone https://github.com/RuibingS/MS1FA_RShiny_dashboard.git
-```
-Navigate to the loacl directory
-```sh
-cd path/to/cloned/MS1FA_RShiny_dashboard
-```
-Install `renv`
-```r
-install.packages("renv")
-```
-open R or RStudio
-
-```r
-setwd("path/to/cloned/MS1FA_RShiny_dashboard")
-```
-Use renv to restore the package environment
-```r
-renv::restore()
-```
+R version 4.2.0 or above is required.To run the Shiny app on your local PC, please make sure that [Rtools](https://cran.r-project.org/bin/windows/Rtools/) is installed and refer `sessionInfo` for complete package information and consider to install the following packages.
 ### Manually install required packages
 Installing and loading the CRAN Packages
 ```
@@ -133,11 +110,11 @@ shiny::runApp()
 
 
 ## Setting Parameters
-**1. Filter the feature table by retention time**: A slider input to filter the feature table by retention time (in seconds).Default 70 seconds to 1500 seconds. User can modify it according to their own setup.
+**1. Filter the feature table by retention time**: A slider input to filter the feature table by retention time (in seconds).Default 60 seconds to 1200 seconds. User can modify it according to their own setup.
 
 **2. Check isotopes and multiple charge states**: A check box to run the function of annotating the C13 isotopes and multiple charge states. The default value is TRUE. Import `data(isotopes)` is from `enviPat` R package.
 
-**3. Correlation method**: A select input for the correlation methods, "pearson", "kendall" and "spearman". The default selection is "pearson".
+**3. Correlation method**: A select input for the correlation methods, "pearson", "kendall" and "spearman". The default selection is "pearson". The intensity values are log10-transformed to meet the assumptions of normality and homoscedasticity. For our demo datasets, normality was confirmed using the `Shapiro-Wilk` test and linearity was verified with `ggscatter` plots. We encourage users to perform preliminary checks on their datasets before choosing a correlation method.
 
 **4. Correlation threshold**: A numeric input range from 0 to 1. The default value is 0.8.
 
