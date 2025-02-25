@@ -9,8 +9,9 @@
 
 ## Table of Contents
 - [Installation Instructions](#installation-instructions)
-  - [Manually install required packages](#Manually_install_required_packages)
-  - [Run MS1FA](#run-ms1fa)
+  - [Manually install required packages](#manually-install-required-packages)
+  - [Run MS1FA on local PC](#run-ms1fa-on-local-pc)
+  - [Run MS1FA on the server](#run-ms1fa-on-the-server)
 - [Files Upload](#files-upload)
   - [Required Files](#required-files)
 - [Setting Parameters](#setting-parameters)
@@ -70,7 +71,7 @@ install_bioconductor_packages <- function(packages) {
 }
 install_bioconductor_packages(packages=bioconductor_packages)
 ```
-### Run MS1FA
+### Run MS1FA on local PC
 Users should set their working directory to the cloned repository and use shiny::runApp() to run the app:
 ```r
 setwd("path/to/cloned/MS1FA_RShiny_dashboard")
@@ -87,8 +88,8 @@ install_github("RuibingS/MS1FA_RShiny_dashboard")
 setwd("path/to/cloned/MS1FA_RShiny_dashboard")
 shiny::runApp()
 ```
-
-
+### Run MS1FA on the server
+We provide a Shiny server to run [MS1FA](https://ms1fa.helmholtz-hzi.de) which is freely accessible.
 ## Files Upload
 
 ### Required Files
