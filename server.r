@@ -233,7 +233,7 @@ server <- function(input, output,session) {
   # Download handlers for example csv file - StM16
   output$download_FT3 <- downloadHandler(
     filename = function() {
-      "Demo_StM16_featureTable_xcms.csv"
+      "Demo_StM16_featureTable_Mzmine.csv"
     },
     content = function(file) {
       file.copy(demoStM16_FT_MZmine_path, file)
