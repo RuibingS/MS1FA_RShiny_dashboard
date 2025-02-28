@@ -19,7 +19,8 @@
   - [Feature Table](#feature-table)
   - [Interactive Network Plot](#interactive-network-plot)
   - [Box Plot](#box-plot)
-- [SessionInfo](#sessionInfo)
+- [Case Study](#case-study)
+- [SessionInfo](#sessioninfo)
 
 ## Installation Instructions
 R version 4.2.0 or above is required.To run the Shiny app on your local PC, please make sure that [Rtools](https://cran.r-project.org/bin/windows/Rtools/) is installed and refer `sessionInfo` for complete package information and consider to install the following packages.
@@ -191,6 +192,11 @@ Similarly, selecting a row in the feature table allows users to generate a box p
 <p align="center">
   <i>The box plot of L-Phenylalanine</i>
 </p>
+
+
+### Case Study
+
+A detailed case study using the demo data is [here](<./doc/MS1FA Case study.pdf>).
 
 ### SessionInfo
 
