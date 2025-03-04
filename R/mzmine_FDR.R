@@ -11,7 +11,7 @@ source(here::here("R","parse_library.R"))
 # MZmine_FT <- read.csv(here::here("Data","feature_table","StM16_MZmine_export_FT_MS1.csv"))
 
 # read Si16 libraray 
-# Si16_test <- parse_library_file_parallel_NIST(file_path = here::here("Data","metabolite_data","Si16_library.library"), ionPolarity = "pos",spectrum_type ="MS1")
+# Si16_test <- parse_library_file_parallel_NIST(file_path = here::here("Data","metabolite_data","Si16.library"), ionPolarity = "pos",spectrum_type ="MS1")
 
 
 
