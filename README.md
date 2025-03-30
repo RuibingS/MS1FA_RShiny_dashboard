@@ -32,7 +32,7 @@ cran_packages <- c(
   "readxl", "purrr", "readr", "plyr", "data.table",
   "tidyverse", "hrbrthemes", "viridis", "viridisLite", "ggplot2", "roxygen2",
   "rlang", "RcppArmadillo", "webshot", "htmlwidgets", "profvis", "shinythemes",
-  "shinyjs", "visNetwork", "bs4Dash","magick","chromote","here","pryr"
+  "shinyjs", "visNetwork", "bs4Dash","magick","chromote","here","pryr","shinycssloaders"
 )
 
 install_cran_packages <- function(packages) {
@@ -76,7 +76,7 @@ install_bioconductor_packages(packages=bioconductor_packages)
 Users should set their working directory to the cloned repository and use shiny::runApp() to run the app:
 ```r
 setwd("path/to/cloned/MS1FA_RShiny_dashboard")
-shiny::runApp()
+shiny::runApp(launch.browser = FALSE)
 ```
 or users can install MS1FA from GitHub. First, you need to install the devtools package and load it.
 ```r
@@ -87,7 +87,7 @@ Then you can install MS1FA from GitHub then run it:
 ```r
 install_github("RuibingS/MS1FA_RShiny_dashboard")
 setwd("path/to/cloned/MS1FA_RShiny_dashboard")
-shiny::runApp()
+shiny::runApp(launch.browser = FALSE)
 ```
 ### Run MS1FA on the server
 We provide a Shiny server to run [MS1FA](https://ms1fa.helmholtz-hzi.de) which is freely accessible.
