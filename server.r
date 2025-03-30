@@ -776,9 +776,9 @@ server <- function(input, output,session) {
     if(!any("RT"==colnames(compoundData))){
       compoundData$RT <- rep(NA_real_, nrow(compoundData))
     }
-    
+ 
     # import findMatch.cpp
-    PI_res<-PImatch_fun(FT =featureData,Comp_data = compoundData,ppm = input$ppm_exact, 
+    PI_res<-PImatch_fun(FT = featureData,Comp_data = compoundData,ppm = input$ppm_exact, 
                         PIon =input$PIon,diff_mz_thr =input$mz_diff_exact,diff_rt_thr=input$rt_thr_exact)
     
     PI_res_sub<-PI_res[which(sapply(PI_res, function(x) length(x$Feature_name)>0))]
@@ -832,7 +832,7 @@ server <- function(input, output,session) {
       compoundData$RT <- rep(NA_real_, nrow(compoundData))
     }
     
-    
+ 
     # import findMatch.cpp
     PI_res<-PImatch_fun(FT =featureData,Comp_data = compoundData,ppm = input$ppm_exact, PIon =input$PIon,diff_mz_thr =input$mz_diff_exact,diff_rt_thr=input$rt_thr_exact)
     # remove null lists
@@ -1081,6 +1081,156 @@ server <- function(input, output,session) {
     
     return(adj.full)
   })
+
+  ##################################################################################### 
+  
+  cor_data <- reactive({
+    req(input$Output_FT_rows_selected)
+    req(length(input$Output_FT_rows_selected) == 2)
+    req(get.df(), get.FT.output(), input$picker)
+    
+    selected <- input$Output_FT_rows_selected
+    FT <- get.df()
+    output_FT <- get.FT.output()
+    
+    mat <- FT %>%
+      dplyr::select(., input$picker) %>%
+      dplyr::mutate(across(where(is.numeric), ~na_if(., 0))) %>%
+      dplyr::mutate(across(where(is.numeric), ~ifelse(is.na(.), NA_real_, log10(.))))
+    
+    FT_log10 <- cbind(feature_name = FT$feature_name, mat)
+    
+    row1_ft_name <- as.character(output_FT[selected[1], "feature_name"])
+    row2_ft_name <- as.character(output_FT[selected[2], "feature_name"])
+    
+    row1 <- FT_log10[which(FT_log10$feature_name %in% row1_ft_name), ]
+    row2 <- FT_log10[which(FT_log10$feature_name %in% row2_ft_name), ]
+    
+    vec1 <- as.numeric(row1[ , !colnames(row1) %in% "feature_name", drop = FALSE])
+    vec2 <- as.numeric(row2[ , !colnames(row2) %in% "feature_name", drop = FALSE])
+    
+    if (length(vec1) == 0 || length(vec2) == 0) {
+      showNotification("Could not extract numeric vectors for selected features.", type = "error")
+      return(NULL)
+    }
+    
+    list(
+      vec1 = vec1,
+      vec2 = vec2,
+      row1_name = row1_ft_name,
+      row2_name = row2_ft_name
+    )
+  })
+  
+  
+  
+  
+  selectedFeatureNames <- reactive({
+    req(input$Output_FT_rows_selected)
+    req(filteredData())
+    df <- filteredData()
+    
+    selected_rows <- input$Output_FT_rows_selected
+    req(length(selected_rows) == 2)
+    req(nrow(df) >= max(selected_rows))
+    
+    df[selected_rows, "feature_name", drop = TRUE]
+  })
+  
+
+  
+  cor_data <- reactive({
+    req(get.df(), input$picker)
+    req(length(selectedFeatureNames()) == 2)
+    
+    FT <- get.df()
+    selected_names <- selectedFeatureNames()
+    
+    # log10 
+    FT_log10 <- FT %>%
+      dplyr::mutate(across(
+        all_of(input$picker),
+        ~ ifelse(. == 0, NA_real_, log10(.))
+      ))
+
+    row1 <- FT_log10[FT_log10$feature_name == selected_names[1], ]
+    row2 <- FT_log10[FT_log10$feature_name == selected_names[2], ]
+    
+    
+    vec1 <- as.numeric(row1[ , !colnames(row1) %in% "feature_name", drop = FALSE])
+    vec2 <- as.numeric(row2[ , !colnames(row2) %in% "feature_name", drop = FALSE])
+    
+    if (length(vec1) == 0 || length(vec2) == 0) {
+      showNotification("Could not extract numeric vectors for selected features.", type = "error")
+      return(NULL)
+    }
+    
+    list(
+      vec1 = vec1,
+      vec2 = vec2,
+      row1_name = selected_names[1],
+      row2_name = selected_names[2]
+    )
+  })
+  
+  
+  observeEvent(input$Output_FT_rows_selected, {
+    if (length(input$Output_FT_rows_selected) > 2) {
+      showModal(modalDialog(
+        title = "Too many rows selected",
+        "Please select exactly 2 rows for correlation.",
+        easyClose = TRUE,
+        footer = modalButton("OK")
+      ))
+    }
+  })
+  
+  
+  
+  
+  
+  observeEvent(input$run_correlation, {
+    req(input$show_stats)
+    req(input$cor_test_method)
+    req(length(selectedFeatureNames()) == 2)  
+    
+    data <- cor_data()
+    req(data)
+    
+    vec1 <- data$vec1
+    vec2 <- data$vec2
+    row1_ft_name <- data$row1_name
+    row2_ft_name <- data$row2_name
+    
+    cor_result <- tryCatch({
+      cor.test(vec1, vec2, method = input$cor_test_method, use = "complete.obs")
+    }, error = function(e) e)
+    
+    if (inherits(cor_result, "error")) {
+      showModal(modalDialog(
+        title = "Error in cor.test()",
+        tags$p(style = "text-align: left; white-space: pre-wrap;", cor_result$message),
+        easyClose = TRUE
+      ))
+    } else {
+      cor_text <- capture.output(print(cor_result))
+      data_line_index <- grep("^data:", cor_text)
+      if (length(data_line_index) == 1) {
+        cor_text[data_line_index] <- paste("data:", row1_ft_name, "and", row2_ft_name)
+      }
+      cor_text_final <- paste(cor_text, collapse = "\n")
+      
+      showModal(modalDialog(
+        title = paste("cor.test -", input$cor_test_method),
+        tags$pre(style = "text-align: left; white-space: pre-wrap;", cor_text_final),
+        easyClose = TRUE,
+        footer = modalButton("Close")
+      ))
+    }
+  })
+  
+  
+  
   #####################################################################################
   # MS2 and PI annotation
   # input for assign group index
@@ -1179,6 +1329,17 @@ server <- function(input, output,session) {
       return(output_group)
     }
   })
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   #######################################################################################################
   # assign correlation group
@@ -1633,7 +1794,7 @@ server <- function(input, output,session) {
     }
   })
   output$Output_FT <- renderDT({
-    datatable(filteredData(), editable = TRUE, selection = 'single', options = list(
+    datatable(filteredData(), editable = TRUE, selection = 'multiple', options = list(
       pageLength = 10,
       autoWidth = TRUE,
       searchHighlight = TRUE,
@@ -1644,7 +1805,11 @@ server <- function(input, output,session) {
   observeEvent(input$Output_FT_rows_selected, {
     selectedRow <- input$Output_FT_rows_selected
     req(selectedRow) 
+    if (length(selectedRow) != 1) return(NULL)
+    
     df_current <- filteredData() 
+    
+    
     if (!is.null(selectedRow) && selectedRow > 0 && selectedRow <= nrow(df_current)) {
       selectedFeatureName(df_current[selectedRow, "feature_name", drop = TRUE])
       
@@ -1652,7 +1817,7 @@ server <- function(input, output,session) {
   })
   
   # box plot with selected columns and selected rows in the output feature table
-  box_df<-reactive({
+  box_df <- reactive({
     req(input$Output_FT_rows_selected)
     req(input$picker)
     req(input$Output_FT_rows_selected)
@@ -1720,6 +1885,9 @@ server <- function(input, output,session) {
   output$box_Plot <- renderPlot({
     req(box_df())
     df_long <- box_df()
+    selected_rows <- input$Output_FT_rows_selected
+    if (length(selected_rows) != 1) return(NULL)
+    
     df_filtered <- df_long %>%
       filter(!is.na(y_value) & y_value > 0)
     
@@ -1753,6 +1921,10 @@ server <- function(input, output,session) {
   networkPlotReactive <- reactive({
     req(get.nodes())
     req(get.edges())
+    
+    # only when 1 row selected
+    selected_rows <- input$Output_FT_rows_selected
+    if (length(selected_rows) != 1) return(NULL)
     
     nodes_df<-get.nodes()
     edges_df<-get.edges()
@@ -2024,6 +2196,9 @@ server <- function(input, output,session) {
   # Update selected feature name based on row selection
   observeEvent(input$Output_FT_rows_selected, {
     selectedRow <- input$Output_FT_rows_selected
+    
+    if (length(selectedRow) != 1) return(NULL)
+    
     req(selectedRow)  
     df_current <- filteredData()  
     if (!is.null(selectedRow) && selectedRow > 0 && selectedRow <= nrow(df_current)) {

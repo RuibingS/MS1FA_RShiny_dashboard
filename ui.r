@@ -603,6 +603,23 @@ ui <- dashboardPage(
             )
           ),
           
+          checkboxInput("show_stats", "Show correlation test", value = FALSE),
+          
+          conditionalPanel(
+            condition = "input.show_stats == true",
+            fluidRow(
+              column(6,
+                     selectInput("cor_test_method", "Correlation method:",
+                                 choices = c("pearson", "spearman", "kendall"),
+                                 selected = "pearson")
+              ),
+              column(6,
+                     br(),
+                     actionButton("run_correlation", "Calculate Correlation", class = "btn-primary")
+              )
+            )
+          ),
+          
           tags$head(
             tags$script(HTML(
               "document.addEventListener('DOMContentLoaded', function() {
