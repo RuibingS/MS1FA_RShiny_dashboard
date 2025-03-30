@@ -19,7 +19,7 @@ source(here::here("R","parse_library.R"))
 
 # MS1FA_mzmine_FT <- read.csv(here::here("output","MS1FA_output_FT","MS1FA_Feature_table_output_MZmine.csv")) 
 
-MS1FA_MS1match_FT <- read.csv(here::here("output","MS1FA_output_FT","Feature_table_output_MS1match.csv")) 
+# MS1FA_MS1match_FT <- read.csv(here::here("output","MS1FA_output_FT","Feature_table_output_MS1match.csv")) 
 
 
 
@@ -206,10 +206,10 @@ MS1FA_FT_split <- function(comp_list, FT, rt_tolerance, mz_tolerance = 0.01) {
 # test XCMS FT split
 # Si16_lib_FT_list_MS1FA_rt3 <- MS1FA_FT_split(comp_list = Si16_test, FT = MS1FA_xcms_FT, rt_tolerance = 3)
 
-Si16_lib_FT_list_MS1FA_rt3 <- MS1FA_FT_split(comp_list = Si16_test, FT = MS1FA_MS1match_FT, rt_tolerance = 3)
-
-conf_matrix_MS1FA_XCMS <- conf_matrix_fun(Si16_lib_FT_list_MS1FA_rt3)
-conf_matrix_MS1FA_XCMS
+# Si16_lib_FT_list_MS1FA_rt3 <- MS1FA_FT_split(comp_list = Si16_test, FT = MS1FA_MS1match_FT, rt_tolerance = 3)
+# 
+# conf_matrix_MS1FA_XCMS <- conf_matrix_fun(Si16_lib_FT_list_MS1FA_rt3)
+# conf_matrix_MS1FA_XCMS
 
 
 ####################################################################################
