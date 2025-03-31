@@ -20,7 +20,7 @@
   - [Interactive Network Plot](#interactive-network-plot)
   - [Box Plot](#box-plot)
 - [Case Study](#case-study)
-- [Important Consideration][#important-consideration]
+- [Important Consideration](#important-consideration)
 - [SessionInfo](#sessioninfo)
 
 ## Installation Instructions
