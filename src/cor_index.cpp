@@ -16,21 +16,37 @@ std::string findGroup(std::unordered_map<std::string, std::string>& groups,
   }
 }
 
-// check if merging two groups will satisfy the correlation threshold
-bool MergeGroups(const std::unordered_map<std::string, std::unordered_map<std::string, double>>& correlationMap,
-                 const std::unordered_set<std::string>& group1, const std::unordered_set<std::string>& group2, 
-                 double threshold) {
+
+
+bool Softmerge(
+    const std::unordered_map<std::string, std::unordered_map<std::string, double>>& correlationMap,
+    const std::unordered_set<std::string>& group1,
+    const std::unordered_set<std::string>& group2,
+    double threshold,
+    double percentage_required = 0.7 // merge ratio
+) {
+  int total_pairs = 0;
+  int passing_pairs = 0;
+  
   for (const std::string& f1 : group1) {
     for (const std::string& f2 : group2) {
-      if (correlationMap.find(f1) == correlationMap.end() || 
-          correlationMap.at(f1).find(f2) == correlationMap.at(f1).end() || 
-          correlationMap.at(f1).at(f2) < threshold) {
-        return false;
+      if (f1 == f2) continue;
+      ++total_pairs;
+       
+      if (correlationMap.count(f1) && correlationMap.at(f1).count(f2)) {
+        if (correlationMap.at(f1).at(f2) >= threshold) {
+          ++passing_pairs;
+        }
       }
     }
   } 
-  return true;
+  
+  if (total_pairs == 0) return false;  
+  double ratio = static_cast<double>(passing_pairs) / total_pairs;
+  return ratio >= percentage_required;
 } 
+
+
 
 // [[Rcpp::export]]
 List groupCorFeatures(DataFrame adj_long, double threshold) {
@@ -42,7 +58,7 @@ List groupCorFeatures(DataFrame adj_long, double threshold) {
   std::unordered_map<std::string, std::unordered_set<std::string>> groupMembers;
   std::unordered_map<std::string, std::unordered_map<std::string, double>> correlationMap;
   
-  // initialize correlation map 
+
   for (int i = 0; i < Var1.size(); ++i) {
     std::string feature1 = Var1[i];
     std::string feature2 = Var2[i];
@@ -73,7 +89,7 @@ List groupCorFeatures(DataFrame adj_long, double threshold) {
       
       if (group1 != group2) {
         // Check if merging the groups satisfies the correlation threshold
-        if (MergeGroups(correlationMap, groupMembers[group1], groupMembers[group2], threshold)) {
+        if (Softmerge(correlationMap, groupMembers[group1], groupMembers[group2], threshold)) {
           // Merge the groups
           groups[group2] = group1;
           groupMembers[group1].insert(groupMembers[group2].begin(), groupMembers[group2].end());

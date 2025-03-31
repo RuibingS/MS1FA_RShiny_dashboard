@@ -1056,7 +1056,7 @@ server <- function(input, output,session) {
     adj_mat.long<-na.omit(data.frame(as.table(adj_matrix())))
     
     # left join to add Var1, Var2,Freq,mz_x,mz_y,rt_x,rt_y,rt_diff,mz_diff
-    adj.full<-left_join_and_mutate_fun(FT_df=get.df(),long_df = adj_mat.long,rt_thr=input$rt_thr)
+    adj.full<-left_join_and_mutate_fun(FT_df=get.df(),long_df = adj_mat.long,rt_thr = input$rt_thr)
     
     
     return(adj.full)
@@ -1157,8 +1157,9 @@ server <- function(input, output,session) {
     row2 <- FT_log10[FT_log10$feature_name == selected_names[2], ]
     
     
-    vec1 <- as.numeric(row1[ , !colnames(row1) %in% "feature_name", drop = FALSE])
-    vec2 <- as.numeric(row2[ , !colnames(row2) %in% "feature_name", drop = FALSE])
+    vec1 <- as.numeric(row1[ , colnames(row1) %in% input$picker, drop = FALSE])
+    vec2 <- as.numeric(row2[ , colnames(row2) %in% input$picker, drop = FALSE])
+    
     
     if (length(vec1) == 0 || length(vec2) == 0) {
       showNotification("Could not extract numeric vectors for selected features.", type = "error")
