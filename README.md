@@ -21,6 +21,7 @@
   - [Box Plot](#box-plot)
 - [Case Study](#case-study)
 - [Important Consideration](#important-consideration)
+- [Issues](#issues)  
 - [SessionInfo](#sessioninfo)
 
 ## Installation Instructions
@@ -207,6 +208,10 @@ A detailed case study using the demo data is [here](<./doc/MS1FA Case study.pdf>
 
 ### Important Consideration
 Our correlation-based method assumes that in-source fragmentation efficiencies remain consistent and that experimental conditions (e.g., growth conditions, sample matrix) do not vary so drastically as to alter ionization behavior in unpredictable ways. Researchers should ensure stable LC-MS settings and consider normalizing for differences in biomass or sample load. Where drastic changes in sample matrix or growth conditions are expected, the correlation method might not perform as intended, and users should consider using our alternative grouping method (“grouping of related features”).
+### Issues
+
+If you encounter bugs or have feature requests, feel free to [open an issue](https://github.com/RuibingS/MS1FA_RShiny_dashboard/issues).
+
 
 ### SessionInfo
 
