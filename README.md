@@ -20,6 +20,8 @@
   - [Interactive Network Plot](#interactive-network-plot)
   - [Box Plot](#box-plot)
 - [Case Study](#case-study)
+- [Important Consideration](#important-consideration)
+- [Issues](#issues)  
 - [SessionInfo](#sessioninfo)
 
 ## Installation Instructions
@@ -76,7 +78,7 @@ install_bioconductor_packages(packages=bioconductor_packages)
 Users should set their working directory to the cloned repository and use shiny::runApp() to run the app:
 ```r
 setwd("path/to/cloned/MS1FA_RShiny_dashboard")
-shiny::runApp(launch.browser = FALSE)
+shiny::runApp()
 ```
 or users can install MS1FA from GitHub. First, you need to install the devtools package and load it.
 ```r
@@ -87,8 +89,14 @@ Then you can install MS1FA from GitHub then run it:
 ```r
 install_github("RuibingS/MS1FA_RShiny_dashboard")
 setwd("path/to/cloned/MS1FA_RShiny_dashboard")
+shiny::runApp()
+```
+However, on some systems (such as Linux servers, RStudio Server, WSL, or environments without a default browser), this may fail or launch an incompatible browser. In such cases, please use:
+```r
 shiny::runApp(launch.browser = FALSE)
 ```
+Then user can copy and paste the printed URL into your browser manually.
+
 ### Run MS1FA on the server
 We provide a Shiny server to run [MS1FA](https://ms1fa.helmholtz-hzi.de) which is freely accessible.
 ## Files Upload
@@ -197,6 +205,13 @@ Similarly, selecting a row in the feature table allows users to generate a box p
 ### Case Study
 
 A detailed case study using the demo data is [here](<./doc/MS1FA Case study.pdf>).
+
+### Important Consideration
+Our correlation-based method assumes that in-source fragmentation efficiencies remain consistent and that experimental conditions (e.g., growth conditions, sample matrix) do not vary so drastically as to alter ionization behavior in unpredictable ways. Researchers should ensure stable LC-MS settings and consider normalizing for differences in biomass or sample load. Where drastic changes in sample matrix or growth conditions are expected, the correlation method might not perform as intended, and users should consider using our alternative grouping method (“grouping of related features”).
+### Issues
+
+If you encounter bugs or have feature requests, feel free to [open an issue](https://github.com/RuibingS/MS1FA_RShiny_dashboard/issues).
+
 
 ### SessionInfo
 
