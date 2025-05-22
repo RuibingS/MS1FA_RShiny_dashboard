@@ -23,6 +23,7 @@
 - [Important Consideration](#important-consideration)
 - [Issues](#issues)  
 - [SessionInfo](#sessioninfo)
+- [Citation](#citation)
 
 ## Installation Instructions
 R version 4.2.0 or above is required.To run the Shiny app on your local PC, please make sure that [Rtools](https://cran.r-project.org/bin/windows/Rtools/) is installed and refer `sessionInfo` for complete package information and consider to install the following packages.
@@ -267,3 +268,5 @@ loaded via a namespace (and not attached):
  [96] GenomeInfoDb_1.40.1         XML_3.99-0.17               AnnotationFilter_1.28.0     scales_1.3.0                affy_1.82.0                
 [101] ncdf4_1.23                  crayon_1.5.3                vsn_3.72.0
 ```
+### Citation
+Please cite: Ruibing Shi, Frank Klawonn, Mark Brönstrup, Raimo Franke, MS1FA: Shiny app for the annotation of redundant features in untargeted metabolomics datasets, Bioinformatics, Volume 41, Issue 5, May 2025, btaf161, https://doi.org/10.1093/bioinformatics/btaf161
