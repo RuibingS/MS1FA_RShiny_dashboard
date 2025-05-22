@@ -269,4 +269,5 @@ loaded via a namespace (and not attached):
 [101] ncdf4_1.23                  crayon_1.5.3                vsn_3.72.0
 ```
 ### Citation
-Please cite: Ruibing Shi, Frank Klawonn, Mark Brönstrup, Raimo Franke, MS1FA: Shiny app for the annotation of redundant features in untargeted metabolomics datasets, Bioinformatics, Volume 41, Issue 5, May 2025, btaf161, https://doi.org/10.1093/bioinformatics/btaf161
+Please cite: 
+Ruibing Shi, Frank Klawonn, Mark Brönstrup, Raimo Franke, MS1FA: Shiny app for the annotation of redundant features in untargeted metabolomics datasets, Bioinformatics, Volume 41, Issue 5, May 2025, btaf161, https://doi.org/10.1093/bioinformatics/btaf161
