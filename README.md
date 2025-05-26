@@ -270,4 +270,6 @@ loaded via a namespace (and not attached):
 ```
 ### Citation
 Please cite: 
+```
 Ruibing Shi, Frank Klawonn, Mark Brönstrup, Raimo Franke, MS1FA: Shiny app for the annotation of redundant features in untargeted metabolomics datasets, Bioinformatics, Volume 41, Issue 5, May 2025, btaf161, https://doi.org/10.1093/bioinformatics/btaf161
+```
